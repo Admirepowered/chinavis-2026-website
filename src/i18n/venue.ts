@@ -7,17 +7,17 @@ export const zh = {
     `
     ## 会议地点
 
-    **酒店：** 杭州城北文澜大酒店
+    **酒店：** 贵州饭店
 
-    **地址：** 杭州市拱墅区莫干山路566号
+    **地址：** 贵阳市云岩区北京路66号
 
-    **电话：** 0571-88003888
+    **电话：** 0851-86680208
 
-      <img src="{{ wenlaiBuildingImage }}" alt="杭州城北文澜大酒店" style="width: 100%; max-width: 600px; margin: 25px auto; display: block;" />
+      <img src="{{ wenlaiBuildingImage }}" alt="贵州饭店" style="width: 100%; max-width: 600px; margin: 25px auto; display: block;" />
 
     ## 酒店预订
 
-    **杭州城北文澜大酒店（会议酒店）订房流程：**
+    **贵州饭店（会议酒店）订房流程：**
 
     扫描以下二维码 → 手机号验证码登录 → 选择入住和退房日期 → 酒店房型及房间数量 → 入住人姓名 + 手机号 → 支付首晚房费（定金） → 预订成功
 
@@ -25,91 +25,86 @@ export const zh = {
 
     ## 酒店信息
 
-    ### （一）杭州城北文澜大酒店（会议酒店）
+    ### （一）贵州饭店（会议酒店）
 
-    **地理位置：** 杭州拱墅区莫干山路566号
+    **地理位置：** 贵阳市云岩区北京路66号
 
-    **联系人：** 徐经理 18657181139
+    **联系人：** 林经理 13007860786
 
-    **大床/双床房 协议价：** 450元/单早，500元/双早
+    **大床/双床房 协议价：** 450元/单早，450元/双早
 
-    酒店位于杭州市拱墅区莫干山路，毗邻城北大悦城购物中心。距杭州东站12公里、杭州西站17公里、萧山国际机场39公里、杭州站12公里。
+    酒店位于贵阳市云岩区北京路，毗邻银海元隆购物中心。距贵阳东站14公里、贵阳北站8公里、龙洞堡机场12公里、贵阳站6公里。
 
     <div class="wide_image">
-      <img src="{{ wenlaiLobbyImage }}" alt="杭州城北文澜大酒店大堂"/>
+      <img src="{{ wenlaiLobbyImage }}" alt="贵州饭店大堂"/>
     </div>
 
     <div class="wide_image">
-      <img src="{{ wenlaiRoomImage }}" alt="杭州城北文澜大酒店房间"/>
+      <img src="{{ wenlaiRoomImage }}" alt="贵州饭店房间"/>
     </div>
 
-    ### （二）杭州西溪紫金港希尔顿欢朋酒店（配套酒店）
+    ### （二）汉庭酒店（配套酒店）
 
-    **地理位置：** 杭州拱墅区莫干山路987号壹方汇A座南8楼酒店大堂（距会议酒店1公里 步行约15分钟）
+    **地理位置：** 贵阳市云岩区北京路66号（距会议酒店1公里 步行约10分钟）
 
-    **酒店前台：** 0571-86098089
+    **联系人： 胡经理  13158018755
 
-    **大床/双床房 协议价：** 430元/晚（含双早）
+    **大床/双床房 协议价：** 400元左右/晚（含双早）
 
     **请自行电话预定：** 0571-86098089 （报会议名称订房）
 
-    酒店地理位置优越，交通便捷，和睦地铁站内B1层电梯直达酒店大堂。距杭州东站15公里，杭州西站20公里、萧山国际机场41公里、杭州站13公里。
+    酒店地理位置优越，交通便捷，和睦地铁3号线，H出站口即为酒店大堂。距贵阳东站14公里、贵阳北站8公里、龙洞堡机场12公里、贵阳站6公里。
 
     <div class="wide_image">
-      <img src="{{ hiltonLobbyImage }}" alt="杭州西溪紫金港希尔顿欢朋酒店大堂"/>
+      <img src="{{ hiltonLobbyImage }}" alt="汉庭酒店大堂"/>
     </div>
 
     <div class="wide_image">
-      <img src="{{ hiltonRoomImage }}" alt="杭州西溪紫金港希尔顿欢朋酒店房间"/>
+      <img src="{{ hiltonRoomImage }}" alt="汉庭店房间"/>
     </div>
 
-    ### （三）杭州紫金港美居酒店（配套酒店）
+    ### （三）希尔顿惠庭酒店（配套酒店）
 
-    **地理位置：** 杭州拱墅区申花路99号（距会议酒店2公里，步行约30分钟）
+    **地理位置：** 贵阳市云岩区北京路66号（距会议酒店1公里，步行约10分钟）
 
-    **联系人：** 王经理 15757594555
+    **联系人：** 熊经理 15985128834
 
-    **大床/双床房 协议价：** 380元/晚（双早）
+    **大床/双床房 协议价：** 600元左右/晚（双早）
 
     **会议预定：** 请扫以下二维码预定酒店
 
-    <img src="{{ mercureQrCodeImage }}" alt="杭州紫金港美居酒店二维码" style="width: 100%; max-width: 300px; margin: 25px auto; display: block;" />
+    <img src="{{ mercureQrCodeImage }}" alt="希尔顿惠庭酒店二维码" style="width: 100%; max-width: 300px; margin: 25px auto; display: block;" />
 
-    酒店位于申花板块，毗邻城北亚运公园、银泰购物中心、大悦城等商圈。距离和睦地铁站D口步行仅10分钟。距杭州东站13公里，杭州西站15公里、萧山国际机场39公里、杭州站13公里。
+    酒店地理位置优越，交通便捷，和睦地铁3号线，H出站口即为酒店大堂。距贵阳东站14公里、贵阳北站8公里、龙洞堡机场12公里、贵阳站6公里。
 
     <div class="wide_image">
-      <img src="{{ mercureLobbyImage }}" alt="杭州紫金港美居酒店大堂" />
+      <img src="{{ mercureLobbyImage }}" alt="希尔顿惠庭酒店大堂" />
     </div>
 
     <div class="wide_image">
-      <img src="{{ mercureRoomImage }}" alt="杭州紫金港美居酒店房间" />
+      <img src="{{ mercureRoomImage }}" alt="希尔顿惠庭酒店房间" />
     </div>
 
     ## 乘车路线
 
-    ### 1、杭州东站——杭州城北文澜大酒店
+    ### 1、贵阳东站——贵州饭店
 
-    乘坐出租车（全程约32分钟），费用约26元
+    乘坐出租车（全程约20分钟），费用约35元
 
-    公共交通：杭州东站乘坐19号线到文三路，换乘10号线到北大桥站A口，出站步行约400米至杭州城北文澜大酒店（全程约31分钟）
+    公共交通：在贵阳东站乘坐 地铁2号线 → 在 延安西路站 换乘 地铁1号线 → 在 北京路站 下车，从 C口 出站。
 
-    ### 2、杭州西站——杭州城北文澜大酒店
+    ### 2、贵阳北站——汉庭酒店
 
     乘坐出租车（全程约26分钟），费用约30元
 
-    公共交通：杭州西站乘坐19号线到文三路，换乘10号线到北大桥站A口，出站步行约400米至杭州城北文澜大酒店（全程约42分钟）
+    公共交通：汉庭酒店位于“和睦”地铁站H出口处。从贵阳北站出发，目前尚无地铁可直达该站，需要多次换乘公交，路线较为复杂。
 
-    ### 3、杭州站——杭州城北文澜大酒店
+    ### 3、贵阳站——希尔顿惠庭酒店
 
     乘坐出租车（全程约32分钟），费用约25元
 
-    公共交通：杭州站乘坐5号线到建国北路，换乘2号线到学院路，换成10号线到北大桥A口，出站步行约400米至杭州城北文澜大酒店（全程约40分钟）
+    公共交通：在贵阳东站乘坐 地铁2号线 → 在 延安西路站 换乘 地铁1号线 → 在 北京路站 下车，从 C口 出站。
 
-    ### 4、杭州萧山国际机场——杭州城北文澜大酒店
-
-    乘坐出租车（全程约59分钟），费用约80元
-
-    公共交通：萧山国际机场乘坐19号线到文三路，换乘10号线到北大桥A口，出站步行约400米至杭州城北文澜大酒店（全程约40分钟）
     `.replace(/^    /gm, ""),
     { async: false }
   ),
@@ -202,29 +197,25 @@ export const en = {
 
     ## Transportation Guide
 
-    ### 1. Hangzhou East Railway Station to Wenlan Hotel Northern Hangzhou
+    ### 1. Guiyang East Railway Station to Guizhou Hotel
 
-    **By Taxi:** (Approx. 32 minutes), cost around 26 RMB.
+    **By Taxi:** (Approx. 20 minutes), cost around 35 RMB.
 
-    **By Public Transport:** From Hangzhou East Railway Station, take Line 19 to Wensan Road Station, transfer to Line 10 to Beidaqiao Station (Exit A). Walk about 400 meters to the hotel. (Total time: approx. 31 minutes).
+    **By Public Transport:** From Guiyang East Railway Station, take Metro Line 2 to Yan'an West Road Station, transfer to Metro Line 1 to Beijing Road Station (Exit C). Walk about 200 meters to the hotel. (Total time: approx. 40 minutes).
 
-    ### 2. Hangzhou West Railway Station to Wenlan Hotel Northern Hangzhou
+    ### 2. Guiyang North Railway Station to Hanting Hotel (Supporting Hotel)
 
     **By Taxi:** (Approx. 26 minutes), cost around 30 RMB.
 
-    **By Public Transport:** From Hangzhou West Railway Station, take Line 19 to Wensan Road Station, transfer to Line 10 to Beidaqiao Station (Exit A). Walk about 400 meters to the hotel. (Total time: approx. 42 minutes).
+    **By Public Transport:** From Guiyang North Railway Station, take Metro Line 1 directly to Beijing Road Station (Exit C). After exiting, proceed to the hotel. Please note, Hanting Hotel is located near the "Hemu" Metro Station on Line 3. As there is currently no direct metro route from Guiyang North Station to Hemu Station requiring multiple transfers, it is highly recommended to take a taxi or ride-hailing service from the station for the most convenient experience.
 
-    ### 3. Hangzhou Railway Station to Wenlan Hotel Northern Hangzhou
+    ### 3. Guiyang Railway Station to Hilton Garden Inn (Supporting Hotel)
 
     **By Taxi:** (Approx. 32 minutes), cost around 25 RMB.
 
-    **By Public Transport:** From Hangzhou Railway Station, take Line 5 to Jianguo North Road Station, transfer to Line 2 to Xueyuan Road Station, then transfer to Line 10 to Beidaqiao Station (Exit A). Walk about 400 meters to the hotel. (Total time: approx. 40 minutes).
+    **By Public Transport:**  From Guiyang Railway Station, take Metro Line 1 to Beijing Road Station (Exit C). Then, choose one of the following options to reach the hotel (approx. 1 km away)
 
-    ### 4. Hangzhou Xiaoshan International Airport to Wenlan Hotel Northern Hangzhou
-
-    **By Taxi:** (Approx. 59 minutes), cost around 80 RMB.
-
-    **By Public Transport:** From Xiaoshan International Airport, take Line 19 to Wensan Road Station, transfer to Line 10 to Beidaqiao Station (Exit A). Walk about 400 meters to the hotel. (Total time: approx. 40 minutes).
+  
     `.replace(/^    /gm, ""),
     { async: false }
   ),

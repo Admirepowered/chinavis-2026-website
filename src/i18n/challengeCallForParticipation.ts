@@ -187,6 +187,7 @@ export const zh = {
 
     ## 历届挑战赛回顾
 
+    - [2025年数据可视分析挑战赛](https://chinavis.org/2025/challenge.html)
     - [2024年数据可视分析挑战赛](https://chinavis.org/2024/challenge.html)
     - [2023年数据可视分析挑战赛](http://chinavis.org/2023/challenge.html)
     - [2022年数据可视分析挑战赛](http://chinavis.org/2022/challenge.html)
@@ -396,7 +397,7 @@ export const en = {
     **Jin Xu**　Hangzhou Normal University
 
     ## Previous Challenges Review
-
+    - [Data Visual Analytics Challenge 2025](https://chinavis.org/2025/challenge.html)
     - [Data Visual Analytics Challenge 2024](https://chinavis.org/2024/challenge.html)
     - [Data Visual Analytics Challenge 2023](http://chinavis.org/2023/challenge.html)
     - [Data Visual Analytics Challenge 2022](http://chinavis.org/2022/challenge.html)

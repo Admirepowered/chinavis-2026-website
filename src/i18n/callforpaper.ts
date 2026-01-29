@@ -5,7 +5,7 @@ export const zh = {
   Title: "征文通知",
   Content: marked.parse(
     `
-    第十二届中国可视化与可视分析大会（ChinaVis 2026）将于2026年7月19日-22日在杭州举行。本次会议由中国图象图形学学会主办，可视化与可视分析专委会、浙江大学计算机辅助设计与图形系统全国重点实验室、杭州全息智能技术研究院、杭州电子科技大学、中国美术学院、浙江工业大学、浙江传媒学院、浙大城市学院等承办，多家赞助单位协办。
+    第十三届中国可视化与可视分析大会（ChinaVis 2026）将于2026年7月19日-22日在贵阳举行。本次会议由中国图象图形学学会主办，可视化与可视分析专委会、贵阳学院贵州省文化遗产保护与开发利用全省重点实验室、贵州大学、贵州师范大学、贵州民族大学、贵州财经大学、贵州中医药大学等承办，多家赞助单位协办。
 
     ## 投稿方式
 
@@ -51,9 +51,9 @@ export const zh = {
 
     ## 大会主席
 
-    **陈　为**　浙江大学
+    **张加万**　天津大学
 
-    **屈华民**　香港科技大学
+    **陈 为**　浙江大学
 
     ## 论文主席
 
@@ -120,9 +120,9 @@ export const en = {
 
     ## Conference Chairs
 
-    **Wei Chen**, Zhejiang University
+    **JiaWan Zhang**, TianJin University
 
-    **Huamin Qu**, Hong Kong University of Science and Technology
+    **Wei Chen**, Zhejiang University
 
     ## Paper Chairs
 
