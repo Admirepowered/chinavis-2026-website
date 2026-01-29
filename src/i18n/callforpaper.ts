@@ -1,11 +1,11 @@
 import { marked } from "marked";
 
 export const zh = {
-  PageTitle: "论文 - ChinaVis 2025",
+  PageTitle: "论文 - ChinaVis 2026",
   Title: "征文通知",
   Content: marked.parse(
     `
-    第十二届中国可视化与可视分析大会（ChinaVis 2025）将于2025年7月19日-22日在杭州举行。本次会议由中国图象图形学学会主办，可视化与可视分析专委会、浙江大学计算机辅助设计与图形系统全国重点实验室、杭州全息智能技术研究院、杭州电子科技大学、中国美术学院、浙江工业大学、浙江传媒学院、浙大城市学院等承办，多家赞助单位协办。
+    第十二届中国可视化与可视分析大会（ChinaVis 2026）将于2026年7月19日-22日在杭州举行。本次会议由中国图象图形学学会主办，可视化与可视分析专委会、浙江大学计算机辅助设计与图形系统全国重点实验室、杭州全息智能技术研究院、杭州电子科技大学、中国美术学院、浙江工业大学、浙江传媒学院、浙大城市学院等承办，多家赞助单位协办。
 
     ## 投稿方式
 
@@ -44,10 +44,10 @@ export const zh = {
 
     ## 时间节点
 
-    - 摘要提交截止日期 (PCS 系统)：2025 年 5 月 10 日 北京时间下午 11:59
-    - 论文提交截止日期 (PCS 系统)：2025 年 5 月 15 日 北京时间下午 11:59
-    - 论文第一轮评审结果通知日期：2025 年 6 月 20 日 北京时间下午 11:59
-    - 论文提交期刊审稿系统日期：2025 年 7 月 10 日 北京时间下午 11:59 (暂定)
+    - 摘要提交截止日期 (PCS 系统)：2026 年 5 月 10 日 北京时间下午 11:59
+    - 论文提交截止日期 (PCS 系统)：2026 年 5 月 15 日 北京时间下午 11:59
+    - 论文第一轮评审结果通知日期：2026 年 6 月 20 日 北京时间下午 11:59
+    - 论文提交期刊审稿系统日期：2026 年 7 月 10 日 北京时间下午 11:59 (暂定)
 
     ## 大会主席
 
@@ -70,11 +70,11 @@ export const zh = {
 };
 
 export const en = {
-  PageTitle: "Call for Papers - ChinaVis 2025",
+  PageTitle: "Call for Papers - ChinaVis 2026",
   Title: "Call for Papers",
   Content: marked.parse(
     `
-    The 12th China Visualization and Visual Analytics Conference (ChinaVis 2025) will be held in Hangzhou, China, from July 19 to 22, 2025. The conference is hosted by China Society of Image and Graphics, Technical Committee on Visualization and Visual Analysis, State Key Lab of CAD&CG of Zhejiang University, Hangzhou Research Institute of AI and Holographic Technology, Hangzhou Dianzi University, China Academy of Art, Zhejiang University of Technology, Communication University of Zhejiang and Hangzhou City University with multiple sponsorships.
+    The 12th China Visualization and Visual Analytics Conference (ChinaVis 2026) will be held in Hangzhou, China, from July 19 to 22, 2026. The conference is hosted by China Society of Image and Graphics, Technical Committee on Visualization and Visual Analysis, State Key Lab of CAD&CG of Zhejiang University, Hangzhou Research Institute of AI and Holographic Technology, Hangzhou Dianzi University, China Academy of Art, Zhejiang University of Technology, Communication University of Zhejiang and Hangzhou City University with multiple sponsorships.
 
     ## Submission Guide
 
@@ -113,10 +113,10 @@ export const en = {
 
     ## Timeline
 
-    - Abstract Submission Deadline (PCS System): May 10, 2025, 11:59 PM Beijing Time
-    - Paper Submission Deadline (PCS System): May 15, 2025, 11:59 PM Beijing Time
-    - Notification of First Round Review Results: June 20, 2025, 11:59 PM Beijing Time
-    - Paper Submission to Journal Review System: July 10, 2025, 11:59 PM Beijing Time (Tentative)
+    - Abstract Submission Deadline (PCS System): May 10, 2026, 11:59 PM Beijing Time
+    - Paper Submission Deadline (PCS System): May 15, 2026, 11:59 PM Beijing Time
+    - Notification of First Round Review Results: June 20, 2026, 11:59 PM Beijing Time
+    - Paper Submission to Journal Review System: July 10, 2026, 11:59 PM Beijing Time (Tentative)
 
     ## Conference Chairs
 

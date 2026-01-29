@@ -1,7 +1,7 @@
 import { marked } from "marked";
 
 export const zh = {
-  PageTitle: "可视化竞赛 - ChinaVis 2025",
+  PageTitle: "可视化竞赛 - ChinaVis 2026",
   Title: "数据可视化竞赛征稿通知",
   Content: marked.parse(
     `
@@ -47,7 +47,7 @@ export const zh = {
 
     #### 主题：“杭州 · 潮生万象”
 
-    2025年第十二届中国可视化与可视分析大会艺术项目（China VISAP'25）将在杭州举行，与第十二届中国可视化与可视分析大会（China Vis) 会议同步进行。本届艺术项目包含：艺术展览、学生竞赛、创作工作坊、专题讲座以及一系列由艺术家、设计师与可视化科学家发起的精彩分享，旨在探索可视化艺术的未来方形和全新视野。
+    2026年第十二届中国可视化与可视分析大会艺术项目（China VISAP'25）将在杭州举行，与第十二届中国可视化与可视分析大会（China Vis) 会议同步进行。本届艺术项目包含：艺术展览、学生竞赛、创作工作坊、专题讲座以及一系列由艺术家、设计师与可视化科学家发起的精彩分享，旨在探索可视化艺术的未来方形和全新视野。
 
     本届主题“潮生万象”，旨在以“潮”为时代精神，“万象”迭涌，玄览古今。杭州以“潮”闻名，更以其独特的三重世界遗产格局（西湖、大运河、良渚古城）奠定其在人类文明史上的坐标。从新石器时代良渚玉琮的信仰图腾，到南宋临安的《西湖清趣图》笔意，再到明代丝绸之府的织机声，这座城市始终是中国古典美学的最高表达。而今，杭州更以数字文明实验室的姿态重塑未来：阿里巴巴的电商生态与蚂蚁链技术辐射全球，西湖大学引领合成生物与AI制药前沿，云栖小镇聚集了中国1/3的云计算算力。这里既有国家级工业设计中心数量之冠（占全国12%），也孕育了吉利极氪、零跑汽车的智能电动化浪潮；既诞生了挑战3A游戏边界的《黑神话：悟空》，也孵化了全球AI开源平台DeepSeek（深度求索）。当MCN机构在运河畔直播带货时，数字游民正用区块链技术激活乡村遗产——传统与未来在此缝合，正如西湖山水与钱江新城的天际线，构成一部“潮生万象”风云叱诧的文明史诗。
 
@@ -61,7 +61,7 @@ export const zh = {
 
     提交的可视化作品中允许包含由人工智能生成的内容，鼓励利用新的智能化、数字化技术探索和推动可视化创作流程与呈现形式的新方法。但请注意，作者需对人工智能生成的内容进行明确标记说明。评审委员会将会对生成内容与主题的相关性及是否违反法律，道德和公共秩序进行评估。
 
-    2025年中国可视化与可视分析大会艺术项目委员会向艺术家、设计师、研究人员、高校师生等各界专业人士发起号召，鼓励创作和提交有关“潮生万象”的艺术设计作品，展现可视化领域多维度的探索和精彩。该赛道要求作者在“潮生万象”的年度主题范围内，自行选择相关数据集进行艺术可视化的创作。对表现手法不做限定，旨在鼓励学生最大程度的发挥想象和自由创意，鼓励创作和提交有关“潮生万象”的艺术设计作品，展现可视化领域多维度的探索和精彩。
+    2026年中国可视化与可视分析大会艺术项目委员会向艺术家、设计师、研究人员、高校师生等各界专业人士发起号召，鼓励创作和提交有关“潮生万象”的艺术设计作品，展现可视化领域多维度的探索和精彩。该赛道要求作者在“潮生万象”的年度主题范围内，自行选择相关数据集进行艺术可视化的创作。对表现手法不做限定，旨在鼓励学生最大程度的发挥想象和自由创意，鼓励创作和提交有关“潮生万象”的艺术设计作品，展现可视化领域多维度的探索和精彩。
 
     该赛道作品将由国内艺术可视化专家团进行评审，评价原则是，参赛队是否能够通过视觉、听觉等艺术形式，有效表现以自选数据为依据的艺术思想、观点或者概念。
 
@@ -143,26 +143,26 @@ export const zh = {
 
     ## 作品等级设置
 
-    竞赛委员会主席将根据专家评审结果，按比例评选出多项精彩作品。在ChinaVis 2025大会上，将为所有入选参赛队颁发等级证书，部分入选参赛队将被邀请在大会竞赛环节做现场报告。
+    竞赛委员会主席将根据专家评审结果，按比例评选出多项精彩作品。在ChinaVis 2026大会上，将为所有入选参赛队颁发等级证书，部分入选参赛队将被邀请在大会竞赛环节做现场报告。
 
     ## 重要时间节点
 
     以下时间均指北京时间日末23：59。
 
-    - 网上报名截止时间：**2025年5月30日**
+    - 网上报名截止时间：**2026年5月30日**
     - 作品提交截止时间：
-      - 赛道1-I（可视分析挑战赛）：**2025年6月9日**
-      - 赛道1-II（人文可视化创意赛）：**2025年6月16日**
-      - 赛道2（艺术可视化竞赛）：**2025年6月2日**
-    - 评审结果公布时间：**2025年7月2日**。
+      - 赛道1-I（可视分析挑战赛）：**2026年6月9日**
+      - 赛道1-II（人文可视化创意赛）：**2026年6月16日**
+      - 赛道2（艺术可视化竞赛）：**2026年6月2日**
+    - 评审结果公布时间：**2026年7月2日**。
 
     ## 作品说明文档推荐模板和数据集下载
 
     1. **赛道1-I： 可视分析挑战赛**
-        - 作品文档答卷模板 <a href="/2025/challenge/1i_answer_sheet.docx" target="_blank">Download</a>
-        - 数据下载链接 <a href="/2025/challenge/dataset.zip" target="_blank">Download</a>（数据可视化竞赛所提供数据仅限于竞赛作品使用）
+        - 作品文档答卷模板 <a href="/2026/challenge/1i_answer_sheet.docx" target="_blank">Download</a>
+        - 数据下载链接 <a href="/2026/challenge/dataset.zip" target="_blank">Download</a>（数据可视化竞赛所提供数据仅限于竞赛作品使用）
     2. **赛道1-II：人文可视化创意赛**
-        - 数据下载链接 <a href="/2025/challenge/dataset.zip" target="_blank">Download</a>（数据可视化竞赛所提供数据仅限于竞赛作品使用）
+        - 数据下载链接 <a href="/2026/challenge/dataset.zip" target="_blank">Download</a>（数据可视化竞赛所提供数据仅限于竞赛作品使用）
     3. **赛道2： 艺术可视化竞赛**
         - 自备数据集，并提供原始数据片段作为评价参考。
 
@@ -170,8 +170,8 @@ export const zh = {
 
     1. 参赛作品不得违反国家相关法律法规，不得侵犯任何第三方知识产权或者其他权利。作品如引起知识产权异议和纠纷，其责任由参赛者承担；
     2. 参赛者可以使用开源或商业数据分析与可视化软件，例如：[DataV](https://data.aliyun.com/visual/datav)、[Tableau](https://www.tableau.com/)、R和Excel等等，鼓励参赛者使用软件开发工具设计并实现自己的可视分析方案或艺术可视化作品，常见的可视化开发工具有[D3](https://d3js.org/)、[ECharts](https://echarts.apache.org/zh/index.html)、[AntV](https://antv.alipay.com/)和Processing等等。请参赛者在作品说明文档中明确写出使用的开发工具和使用的开源或商业软件；
-    3. 入选参赛队至少要有1人注册ChinaVis 2025；
-    4. 赛道1入选参赛队要求将自己的参赛作品制作为海报，并参加ChinaVis 2025的海报张贴环节，具体要求参照海报环节，赛道2（艺术可视化赛道）的入选作品将参加艺术项目展览；
+    3. 入选参赛队至少要有1人注册ChinaVis 2026；
+    4. 赛道1入选参赛队要求将自己的参赛作品制作为海报，并参加ChinaVis 2026的海报张贴环节，具体要求参照海报环节，赛道2（艺术可视化赛道）的入选作品将参加艺术项目展览；
     5. 参赛作品的知识产权归参赛者所有。大会组织方有权将参赛作品、作品相关资料、参赛团队信息用于宣传品、授权媒体发布、官方网站浏览及下载、展览（含巡展）等活动项目；
     6. 参赛作品已经提交后，不得更改参赛者姓名及顺序。
 
@@ -201,7 +201,7 @@ export const zh = {
 };
 
 export const en = {
-  PageTitle: "Data Challenge - ChinaVis 2025",
+  PageTitle: "Data Challenge - ChinaVis 2026",
   Title: "Data Challenge - Call for Participation",
   Content: marked.parse(
     `
@@ -257,7 +257,7 @@ export const en = {
 
     #### Theme: "Hangzhou · Tide of Myriad Phenomena"
 
-    The 12th China VIS Arts Program (China VISAP'25) will be held in Hangzhou in 2025, concurrently with the 12th China Visualization and Visual Analytics Conference (ChinaVis). This year's Arts Program includes: art exhibitions, student competitions, creative workshops, special lectures, and a series of exciting presentations initiated by artists, designers, and visualization scientists, aiming to explore the future directions and new horizons of visualization art.
+    The 12th China VIS Arts Program (China VISAP'25) will be held in Hangzhou in 2026, concurrently with the 12th China Visualization and Visual Analytics Conference (ChinaVis). This year's Arts Program includes: art exhibitions, student competitions, creative workshops, special lectures, and a series of exciting presentations initiated by artists, designers, and visualization scientists, aiming to explore the future directions and new horizons of visualization art.
 
     The theme "Tide of Myriad Phenomena" uses "tide" to symbolize the spirit of the times and "myriad phenomena" to represent the ceaseless changes that bridge past and present. Hangzhou is renowned for its tides and is further distinguished by its unique trio of UNESCO World Heritage sites (West Lake, the Grand Canal, and the Liangzhu Ancient City), establishing its coordinates in human civilization. From the Neolithic Liangzhu jade cong's totemic beliefs to the brushwork of the Southern Song Dynasty's "West Lake Scenes" and the looms of the Ming Dynasty's silk workshops, this city has always epitomized the pinnacle of Chinese classical aesthetics. Today, Hangzhou is reshaping the future as a digital civilization laboratory: Alibaba's e-commerce ecosystem and AntChain technologies have global reach, Westlake University leads in synthetic biology and AI-driven drug discovery, and the Yunqi Town cluster houses one-third of China's cloud computing power. It boasts the highest number of national industrial design centers (12% of the country's total) and has nurtured the intelligent electrification wave of Geely's Zeekr and Leapmotor. It is the birthplace of "Black Myth: Wukong," which pushes the boundaries of AAA games, and the incubator of the global AI open-source platform DeepSeek. While MCN agencies livestream commerce along the canal, digital nomads are using blockchain technology to revitalize rural heritage—tradition and future are seamlessly woven together here, much like how West Lake's landscapes merge with Qianjiang New City's skyline to compose a civilization epic of "Tide of Myriad Phenomena."
 
@@ -271,7 +271,7 @@ export const en = {
 
     Submitted visualization works may include AI-generated content, and the use of new intelligent and digital technologies to explore novel approaches in visualization creation and presentation is encouraged. However, authors must clearly label AI-generated content. The review committee will assess the relevance of such content to the theme and ensure compliance with legal, ethical, and public order standards.
 
-    The organizing committee of the 2025 China VIS Arts Program calls upon artists, designers, researchers, faculty, students, and professionals from all fields to create and submit art and design works centered on "Hangzhou · Tide of Myriad Phenomena," showcasing multidimensional explorations and brilliance in visualization. This track requires participants to select relevant datasets for artistic visualization within the annual theme framework of "Hangzhou · Tide of Myriad Phenomena." There are no constraints on expressive methods, aiming to inspire maximum creativity and imagination.
+    The organizing committee of the 2026 China VIS Arts Program calls upon artists, designers, researchers, faculty, students, and professionals from all fields to create and submit art and design works centered on "Hangzhou · Tide of Myriad Phenomena," showcasing multidimensional explorations and brilliance in visualization. This track requires participants to select relevant datasets for artistic visualization within the annual theme framework of "Hangzhou · Tide of Myriad Phenomena." There are no constraints on expressive methods, aiming to inspire maximum creativity and imagination.
 
     Entries in this track will be evaluated by a panel of domestic artistic visualization experts. The core criterion is whether competing teams can effectively express data-driven artistic ideas, perspectives, or concepts through visual, auditory, or other artistic forms.
 
@@ -353,26 +353,26 @@ export const en = {
 
     ## Awards
 
-    The chairman of the competition committee will select a number of exciting entries in proportion to the results of expert evaluation. At the ChinaVis 2025 conference, award certificates will be presented to all winning teams, and some of the winning teams will be invited to make on-site presentations at the competition session of the conference.
+    The chairman of the competition committee will select a number of exciting entries in proportion to the results of expert evaluation. At the ChinaVis 2026 conference, award certificates will be presented to all winning teams, and some of the winning teams will be invited to make on-site presentations at the competition session of the conference.
 
     ## Important Time Points
 
     China Standard Time 23:59, (UTC+8)
 
-    - Deadline for online registration: **May 30, 2025**.
+    - Deadline for online registration: **May 30, 2026**.
     - Deadline for submission of entries:
-        - Track 1-I (Visual Analytics): **June 9, 2025**.
-        - Track 1-II (Digital Humanities Visualization): **June 16, 2025**.
-        - Track 2 (Art Visualization): **June 2, 2025**.
-    - Announcement date for judging results: **July 2, 2025**.
+        - Track 1-I (Visual Analytics): **June 9, 2026**.
+        - Track 1-II (Digital Humanities Visualization): **June 16, 2026**.
+        - Track 2 (Art Visualization): **June 2, 2026**.
+    - Announcement date for judging results: **July 2, 2026**.
 
     ## Documentation Templates and Dataset Download
 
     1. **Track 1-I: Visual Analytics Challenge**
-        - Work description document template: <a href="/2025/challenge/1i_answer_sheet.docx" target="_blank">Download</a>
-        - Data download link: <a href="/2025/challenge/dataset.zip" target="_blank">Download</a> (The data provided is limited to use in competition entries)
+        - Work description document template: <a href="/2026/challenge/1i_answer_sheet.docx" target="_blank">Download</a>
+        - Data download link: <a href="/2026/challenge/dataset.zip" target="_blank">Download</a> (The data provided is limited to use in competition entries)
     2. **Track 1-II: Visualization Creative Challenge**
-        - Data download link: <a href="/2025/challenge/dataset.zip" target="_blank">Download</a> (The data provided is limited to use in competition entries)
+        - Data download link: <a href="/2026/challenge/dataset.zip" target="_blank">Download</a> (The data provided is limited to use in competition entries)
     3. **Track 2：Art Visualization Competition**
         - Self-selected dataset, and provide the original data snippet for evaluation reference along with the dataset.
 
@@ -380,8 +380,8 @@ export const en = {
 
     1. Entries must not violate relevant national laws and regulations, and must not infringe on any third party intellectual property rights or other rights. If the work gives rise to intellectual property objections and disputes, the responsibility shall be borne by the participant.
     2. Participants may use open source or commercial data analysis and visualization software, such as [DataV](https://data.aliyun.com/visual/datav), [Tableau](https://www.tableau.com/), R and Excel, etc. Participants are encouraged to use software development tools to design and implement their own visual analysis solutions or artistic visualization works. Common visualization development tools include [D3](https://d3js.org/), [ECharts](https://echarts.apache.org/zh/index.html), [AntV](https://antv.alipay.com/), and Processing, etc. Participants are requested to clearly state the development tools used and the open-source or commercial software used in the documentation of the work.
-    3. The winning team must have at least one person registered with ChinaVis 2025.
-    4. Track 1 winning teams are required to make their entries into posters and participate in the poster session of ChinaVis 2025, with specific requirements referring to the poster session. Track 2 (Art Visualization) winning entries will participate in the art project exhibition.
+    3. The winning team must have at least one person registered with ChinaVis 2026.
+    4. Track 1 winning teams are required to make their entries into posters and participate in the poster session of ChinaVis 2026, with specific requirements referring to the poster session. Track 2 (Art Visualization) winning entries will participate in the art project exhibition.
     5. The intellectual property rights of the entries belong to the participants. The organizers of the conference have the right to use the entries, work-related materials, and team information for promotional materials, authorized media releases, official website browsing and downloading, exhibitions (including roving exhibitions), and other activities.
     6. Names and order of participants cannot be changed after the entries have been submitted.
 

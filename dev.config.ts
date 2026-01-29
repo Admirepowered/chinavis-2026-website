@@ -7,6 +7,6 @@ export default defineConfig({
     plugins: [tailwindcss()],
   },
   server: {
-    baseURL: "/2025/",
+    baseURL: "/2026/",
   },
 });

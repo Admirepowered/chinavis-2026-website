@@ -4,7 +4,7 @@ import PhotoLM from "~/assets/course/lm.avif";
 import PhotoTJ from "~/assets/course/tj.avif";
 
 export const zh = {
-  PageTitle: "课程 - ChinaVis 2025",
+  PageTitle: "课程 - ChinaVis 2026",
   Title: "课程信息",
   Schedule: "课程安排",
   Date: "日期：",
@@ -14,7 +14,7 @@ export const zh = {
 };
 
 export const en = {
-  PageTitle: "Course - ChinaVis 2025",
+  PageTitle: "Course - ChinaVis 2026",
   Title: "Course Information",
   Schedule: "Course Schedule",
   Date: "Date: ",
@@ -43,8 +43,8 @@ export const courses: {
       en: "Visual Encoding and Interactive Analysis in Data Visualization",
     },
     date: {
-      zh: "2025 年 7 月 19 日 上午 9:00 - 12:00",
-      en: "July 19, 2025, 9:00 AM - 12:00 PM",
+      zh: "2026 年 7 月 19 日 上午 9:00 - 12:00",
+      en: "July 19, 2026, 9:00 AM - 12:00 PM",
     },
     location: {
       zh: "文轩厅",
@@ -94,8 +94,8 @@ export const courses: {
       en: "Growing Trees with Our Forest",
     },
     date: {
-      zh: "2025 年 7 月 19 日 上午 9:00 - 12:00",
-      en: "July 19, 2025, 9:00 AM - 12:00 PM",
+      zh: "2026 年 7 月 19 日 上午 9:00 - 12:00",
+      en: "July 19, 2026, 9:00 AM - 12:00 PM",
     },
     location: {
       zh: "清河坊厅",

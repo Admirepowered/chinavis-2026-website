@@ -1,7 +1,7 @@
 import { marked } from "marked";
 
 export const zh = {
-  PageTitle: "会址及住宿预定 - ChinaVis 2025",
+  PageTitle: "会址及住宿预定 - ChinaVis 2026",
   Title: "会址及住宿预定",
   Content: marked.parse(
     `
@@ -116,7 +116,7 @@ export const zh = {
 };
 
 export const en = {
-  PageTitle: "Venue & Hotels - ChinaVis 2025",
+  PageTitle: "Venue & Hotels - ChinaVis 2026",
   Title: "Conference Venue & Hotels",
   Content: marked.parse(
     `

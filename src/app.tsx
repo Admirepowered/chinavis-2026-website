@@ -14,7 +14,7 @@ import { ServiceWorkerNotification } from "~/components/ServiceWorkerNotificatio
 export default function App() {
   if ('serviceWorker' in navigator) {
     window.addEventListener('load', () => {
-      navigator.serviceWorker.register('/2025/service-worker.js')
+      navigator.serviceWorker.register('/2026/service-worker.js')
         .then(reg => console.log('SW registered', reg))
         .catch(err => console.error('SW registration failed', err));
     });
@@ -22,8 +22,8 @@ export default function App() {
 
   return (
     <MetaProvider>
-      <Link rel="icon" href="/2025/icons/icon-192.png" />
-      <Link rel="manifest" href="/2025/manifest.webmanifest"></Link>
+      <Link rel="icon" href="/2026/icons/icon-192.png" />
+      <Link rel="manifest" href="/2026/manifest.webmanifest"></Link>
       <Meta name="theme-color" content="#000000"></Meta>
       <Router
         root={props => (

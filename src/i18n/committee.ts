@@ -96,11 +96,11 @@ import PhotoLG from "~/assets/committee/lg.avif?inline";
 import PhotoLZP from "~/assets/committee/lzp.avif?inline";
 
 export const zh = {
-  PageTitle: "委员会成员 - ChinaVis 2025",
+  PageTitle: "委员会成员 - ChinaVis 2026",
 };
 
 export const en = {
-  PageTitle: "Committee Members - ChinaVis 2025",
+  PageTitle: "Committee Members - ChinaVis 2026",
 };
 
 export const committee: {

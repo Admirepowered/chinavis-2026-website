@@ -1,11 +1,11 @@
 import { marked } from "marked";
 
 export const zh = {
-  PageTitle: "企业合作 - ChinaVis 2025",
+  PageTitle: "企业合作 - ChinaVis 2026",
   Title: "诚招企业合作",
   Content: marked.parse(
     `
-    中国可视化与可视分析大会（ChinaVis）是国内最具规模的可视化专业领域盛会，至今已举办 11 届，参会人数每年上升，近年参会人数超过 600 人，产生了广泛的影响。第十二届中国可视化与可视分析大会（ChinaVis 2025）将于 2025 年 7 月 19 日 - 22 日在杭州举行，由中国图象图形学学会主办，可视化与可视分析专委会、浙江大学计算机辅助设计与图形系统全国重点实验室、杭州全息智能技术研究院、杭州电子科技大学、中国美术学院、浙江工业大学、浙江传媒学院、浙大城市学院等承办，多家赞助单位协办。
+    中国可视化与可视分析大会（ChinaVis）是国内最具规模的可视化专业领域盛会，至今已举办 11 届，参会人数每年上升，近年参会人数超过 600 人，产生了广泛的影响。第十二届中国可视化与可视分析大会（ChinaVis 2026）将于 2026 年 7 月 19 日 - 22 日在杭州举行，由中国图象图形学学会主办，可视化与可视分析专委会、浙江大学计算机辅助设计与图形系统全国重点实验室、杭州全息智能技术研究院、杭州电子科技大学、中国美术学院、浙江工业大学、浙江传媒学院、浙大城市学院等承办，多家赞助单位协办。
 
     此刻，我们寻找志同道合者——诚征赞助单位，共同提升大会的规模和质量，并以此提高相关企业和机构在国内可视化领域的影响力，促进产学研用合作。
 
@@ -44,9 +44,9 @@ export const zh = {
     3.	1 个免费展位，供合作单位展示，特殊搭建费用自理；
     4.	30 秒以内企业宣传视频循环播放。
 
-    会议召开前将与赞助单位签约，以保障赞助单位权益。了解更详细的会议信息请访问会议网站：http://www.chinavis.org/2025/ 。请有意赞助的单位填写所附申请表发往如下邮箱：chinavissponsor@163.com。下载：<a href="/2025/sponsor/application.doc" target="_blank">ChinaVis 2025赞助申请表</a>。
+    会议召开前将与赞助单位签约，以保障赞助单位权益。了解更详细的会议信息请访问会议网站：http://www.chinavis.org/2026/ 。请有意赞助的单位填写所附申请表发往如下邮箱：chinavissponsor@163.com。下载：<a href="/2026/sponsor/application.doc" target="_blank">ChinaVis 2026赞助申请表</a>。
 
-    申请截止：2025 年 7 月 10 日 北京时间下午 11:59
+    申请截止：2026 年 7 月 10 日 北京时间下午 11:59
 
     ## 赞助主席
 
@@ -59,12 +59,12 @@ export const zh = {
 };
 
 export const en = {
-  PageTitle: "Sponsorship - ChinaVis 2025",
+  PageTitle: "Sponsorship - ChinaVis 2026",
   Title:
-    '<span style="font-size: 0.8em">The 12th China Visualization and Visual Analytics Conference (ChinaVis 2025)</span><br />Call for Sponsorship',
+    '<span style="font-size: 0.8em">The 12th China Visualization and Visual Analytics Conference (ChinaVis 2026)</span><br />Call for Sponsorship',
   Content: marked.parse(
     `
-    The China Visualization and Visual Analytics Conference (ChinaVis) is the largest professional event in the field of visualization in China. It has been held 11 times, with the number of participants increasing each year and exceeding 600 in recent years, generating a wide impact. The 12th China Visualization and Visual Analytics Conference (ChinaVis 2025) will be held in Hangzhou from July 19 to 22, 2025, hosted by the China Society of Image and Graphics, and co-organized by the Technical Committee on Visualization and Visual Analysis, State Key Lab of CAD&CG of Zhejiang University, Hangzhou Research Institute of AI and Holographic Technology, Hangzhou Dianzi University, China Academy of Art, Zhejiang University of Technology, Communication University of Zhejiang and Hangzhou City University, with support from multiple sponsors.
+    The China Visualization and Visual Analytics Conference (ChinaVis) is the largest professional event in the field of visualization in China. It has been held 11 times, with the number of participants increasing each year and exceeding 600 in recent years, generating a wide impact. The 12th China Visualization and Visual Analytics Conference (ChinaVis 2026) will be held in Hangzhou from July 19 to 22, 2026, hosted by the China Society of Image and Graphics, and co-organized by the Technical Committee on Visualization and Visual Analysis, State Key Lab of CAD&CG of Zhejiang University, Hangzhou Research Institute of AI and Holographic Technology, Hangzhou Dianzi University, China Academy of Art, Zhejiang University of Technology, Communication University of Zhejiang and Hangzhou City University, with support from multiple sponsors.
 
     We are now seeking like-minded partners — sincerely inviting sponsors to join us in enhancing the scale and quality of the conference, increasing the influence of related enterprises and institutions in the domestic visualization field, and promoting industry-academia-research collaboration.
 
@@ -103,9 +103,9 @@ export const en = {
     3. 1 free exhibition booth (special booth construction costs borne by the sponsor);
     4. Company promotional video (up to 30 seconds) played in a loop.
 
-    A sponsorship agreement will be signed before the conference to ensure sponsor rights. For more detailed information, please visit the conference website: http://www.chinavis.org/2025/ . Interested sponsors, please fill out the attached application form and send it to: chinavissponsor@163.com. Download: <a href="/2025/sponsor/application.doc" target="_blank">ChinaVis 2025 Sponsorship Application Form</a>.
+    A sponsorship agreement will be signed before the conference to ensure sponsor rights. For more detailed information, please visit the conference website: http://www.chinavis.org/2026/ . Interested sponsors, please fill out the attached application form and send it to: chinavissponsor@163.com. Download: <a href="/2026/sponsor/application.doc" target="_blank">ChinaVis 2026 Sponsorship Application Form</a>.
 
-    Application deadline: July 10, 2025, 11:59 PM Beijing Time
+    Application deadline: July 10, 2026, 11:59 PM Beijing Time
 
     ## Sponsorship Chairs
 

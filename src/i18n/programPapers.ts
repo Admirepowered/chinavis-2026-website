@@ -21,7 +21,7 @@ export const programPapers: Record<
           "Xiangyang Wu",
           "Zhiguang Zhou",
         ],
-        link: "/2025/papers/Visual Evaluation for Attribute Differences in Graph Sampling.pdf",
+        link: "/2026/papers/Visual Evaluation for Attribute Differences in Graph Sampling.pdf",
       },
       {
         title:
@@ -33,7 +33,7 @@ export const programPapers: Record<
           "Jiacheng Tang",
           "Siming Chen",
         ],
-        link: "/2025/papers/Industry Chain Visual Exploration Based on Heterogeneous Graphs Analysis.pdf",
+        link: "/2026/papers/Industry Chain Visual Exploration Based on Heterogeneous Graphs Analysis.pdf",
       },
       {
         title:
@@ -46,19 +46,19 @@ export const programPapers: Record<
           "Jiazhou Chen",
           "Xinguo Xu",
         ],
-        link: "/2025/papers/LSN-VA A Visual Analysis System for Ancient Chinese Literati Social Network.pdf",
+        link: "/2026/papers/LSN-VA A Visual Analysis System for Ancient Chinese Literati Social Network.pdf",
       },
       {
         title:
           "CamouflageVis: A Visual Analytics Approach for Discovering Camouflaged Malicious Entities in E-Commerce",
         authors: ["Yanhong Wu", "Tan Tang", "Yuhong Li", "Yingcai Wu"],
-        link: "/2025/papers/CamouflageVis A Visual Analytics Approach for Discovering Camouflaged Malicious Entities in E-Commerce.pdf",
+        link: "/2026/papers/CamouflageVis A Visual Analytics Approach for Discovering Camouflaged Malicious Entities in E-Commerce.pdf",
       },
       {
         title:
           "RepoTale: A Visual Analytics Framework for Exploring Software Repository Evolution on Issue Tracking",
         authors: ["Yingying Huang", "Zhenglei Liu", "Yuxin Ma"],
-        link: "/2025/papers/RepoTale A Visual Analytics Framework for Exploring Software Repository Evolution on Issue Tracking.pdf",
+        link: "/2026/papers/RepoTale A Visual Analytics Framework for Exploring Software Repository Evolution on Issue Tracking.pdf",
       },
     ],
   },
@@ -78,7 +78,7 @@ export const programPapers: Record<
           "Gang Xu",
           "Xiangyang Wu",
         ],
-        link: "/2025/papers/ZSLViz Interactive Optimization of Class-Attribute Matrix for Zero-Shot Learning via Visual Analytics.pdf",
+        link: "/2026/papers/ZSLViz Interactive Optimization of Class-Attribute Matrix for Zero-Shot Learning via Visual Analytics.pdf",
       },
       {
         title:
@@ -90,13 +90,13 @@ export const programPapers: Record<
           "Yiming Lin",
           "Zhaohan Lv",
         ],
-        link: "/2025/papers/Visual Analytics for Taxi Dispatching Based on Multi-Agent Reinforcement Learning.pdf",
+        link: "/2026/papers/Visual Analytics for Taxi Dispatching Based on Multi-Agent Reinforcement Learning.pdf",
       },
       {
         title:
           "Visual Analytics for Interpretable Food Safety Risk Prediction via Metapath-Driven Heterogeneous Graph Learning",
         authors: ["Ying Tang", "Kexin Lin", "Yu Han", "Weihua Zhou"],
-        link: "/2025/papers/Visual Analytics for Interpretable Food Safety Risk Prediction via Metapath-Driven Heterogeneous Graph Learning.pdf",
+        link: "/2026/papers/Visual Analytics for Interpretable Food Safety Risk Prediction via Metapath-Driven Heterogeneous Graph Learning.pdf",
       },
       {
         title:
@@ -109,7 +109,7 @@ export const programPapers: Record<
           "Hongxing Qin",
           "Haibo Hu",
         ],
-        link: "/2025/papers/QuantVisExplorer Explainable Visual Analytics for Quantitative Investment Return Prediction Model.pdf",
+        link: "/2026/papers/QuantVisExplorer Explainable Visual Analytics for Quantitative Investment Return Prediction Model.pdf",
       },
       {
         title:
@@ -126,7 +126,7 @@ export const programPapers: Record<
           "Yongheng Wang",
           "Zhiguang Zhou",
         ],
-        link: "/2025/papers/A Hierarchical Electricity Consumption Forecasting Visualization System Based on Multi-scale LSTM-KAN Model.pdf",
+        link: "/2026/papers/A Hierarchical Electricity Consumption Forecasting Visualization System Based on Multi-scale LSTM-KAN Model.pdf",
       },
     ],
   },
@@ -139,24 +139,24 @@ export const programPapers: Record<
       {
         title: "复杂认知：可视分析系统设计与和评估的新理论基础",
         authors: ["Xiaolong Zhang"],
-        link: "/2025/papers/复杂认知：可视分析系统设计与和评估的新理论基础.pdf",
+        link: "/2026/papers/复杂认知：可视分析系统设计与和评估的新理论基础.pdf",
       },
       {
         title: "A Design Study Process Model for Medical Visualization",
         authors: ["Mengjie Fan", "Liang Zhou"],
-        link: "/2025/papers/A Design Study Process Model for Medical Visualization.pdf",
+        link: "/2026/papers/A Design Study Process Model for Medical Visualization.pdf",
       },
       {
         title:
           "A Survey of Visual Insight Mining: Connecting Data and Insights via Visualization",
         authors: ["Yijie Lian", "Jianing Hao", "Wei Zeng", "Qiong Luo"],
-        link: "/2025/papers/A Survey of Visual Insight Mining Connecting Data and Insights via Visualization.pdf",
+        link: "/2026/papers/A Survey of Visual Insight Mining Connecting Data and Insights via Visualization.pdf",
       },
       {
         title:
           "An Interactive Review on COVID-19 Visualization Dashboards in the Wild",
         authors: ["Guijuan Wang", "Yadong Wu", "Lijuan Peng"],
-        link: "/2025/papers/An Interactive Review on COVID-19 Visualization Dashboards in the Wild.pdf",
+        link: "/2026/papers/An Interactive Review on COVID-19 Visualization Dashboards in the Wild.pdf",
       },
       {
         title: "HiVis: A Web-Based Library for Financial Data Visualizations",
@@ -171,7 +171,7 @@ export const programPapers: Record<
           "Haiyang Zhu",
           "Wei Chen",
         ],
-        link: "/2025/papers/HiVis A Web-Based Library for Financial Data Visualizations.pdf",
+        link: "/2026/papers/HiVis A Web-Based Library for Financial Data Visualizations.pdf",
       },
     ],
   },
@@ -194,23 +194,23 @@ export const programPapers: Record<
           "Dong Sun",
           "Siming Chen",
         ],
-        link: "/2025/papers/Is My Route Well-Planned A Visual Analytics Approach for Evaluating Planning Behaviors of Autonomous Driving.pdf",
+        link: "/2026/papers/Is My Route Well-Planned A Visual Analytics Approach for Evaluating Planning Behaviors of Autonomous Driving.pdf",
       },
       {
         title: "GoMA: A Grammar of Semantic Annotations on Maps",
         authors: ["Hanning Shao", "Haoyu Xu", "Xiaoru Yuan"],
-        link: "/2025/papers/GoMA A Grammar of Semantic Annotations on Maps.pdf",
+        link: "/2026/papers/GoMA A Grammar of Semantic Annotations on Maps.pdf",
       },
       {
         title:
           "Evaluating Information Synchronization Methods in Large Display-Centered Multi-Device Collaboration",
         authors: ["Qiuyao Cheng", "Lingyun Yu", "Yu Liu"],
-        link: "/2025/papers/Evaluating Information Synchronization Methods in Large Display-Centered Multi-Device Collaboration.pdf",
+        link: "/2026/papers/Evaluating Information Synchronization Methods in Large Display-Centered Multi-Device Collaboration.pdf",
       },
       {
         title: "GeoAnimation: A Grammar for Animated Geographic Visualization",
         authors: ["Jie Yu", "Zhenning Chen", "Di Weng", "Yingcai Wu"],
-        link: "/2025/papers/GeoAnimation A Grammar for Animated Geographic Visualization.pdf",
+        link: "/2026/papers/GeoAnimation A Grammar for Animated Geographic Visualization.pdf",
       },
     ],
   },
@@ -232,7 +232,7 @@ export const programPapers: Record<
           "Wei Yao",
           "Guihua Shan",
         ],
-        link: "/2025/papers/TemporalFlowViz Parameter-Aware Visual Analytics for Interpreting Scramjet Combustion Evolution.pdf",
+        link: "/2026/papers/TemporalFlowViz Parameter-Aware Visual Analytics for Interpreting Scramjet Combustion Evolution.pdf",
       },
       {
         title: "可视化增强的火电机组控制策略交互探索分析",
@@ -244,7 +244,7 @@ export const programPapers: Record<
           "Huikai Wang",
           "Lianen Ji",
         ],
-        link: "/2025/papers/可视化增强的火电机组控制策略交互探索分析.pdf",
+        link: "/2026/papers/可视化增强的火电机组控制策略交互探索分析.pdf",
       },
       {
         title: "基于代理模型的锅炉燃烧优化不确定性可视分析",
@@ -256,7 +256,7 @@ export const programPapers: Record<
           "Bin Tian",
           "Lianen Ji",
         ],
-        link: "/2025/papers/基于代理模型的锅炉燃烧优化不确定性可视分析.pdf",
+        link: "/2026/papers/基于代理模型的锅炉燃烧优化不确定性可视分析.pdf",
       },
       {
         title:
@@ -269,13 +269,13 @@ export const programPapers: Record<
           "Tianxiao Yuan",
           "Yanfen Wang",
         ],
-        link: "/2025/papers/A Visualization Retrieval Framework for 3D Wheel Models with User-selected Geometric Features Regions.pdf",
+        link: "/2026/papers/A Visualization Retrieval Framework for 3D Wheel Models with User-selected Geometric Features Regions.pdf",
       },
       {
         title:
           "GazeSport: A Visual Analytics Framework for Visual Attention and Action Correlation in Sports Videos",
         authors: ["Yuxi Li", "Dufei Huang", "Zhuo Yang"],
-        link: "/2025/papers/GazeSport A Visual Analytics Framework for Visual Attention and Action Correlation in Sports Videos.pdf",
+        link: "/2026/papers/GazeSport A Visual Analytics Framework for Visual Attention and Action Correlation in Sports Videos.pdf",
       },
     ],
   },
@@ -297,12 +297,12 @@ export const programPapers: Record<
           "Jifan Yang",
           "Lingyun Yu",
         ],
-        link: "/2025/papers/Teasers That Speak Exploring the Visual Design of Teaser Images in Visualization Publications.pdf",
+        link: "/2026/papers/Teasers That Speak Exploring the Visual Design of Teaser Images in Visualization Publications.pdf",
       },
       {
         title: `科普数据视频中的可视化设计及叙事研究——以"星球研究所"为例`,
         authors: ["Wenyue Huang", "Xingyu Lan"],
-        link: "/2025/papers/科普数据视频中的可视化设计及叙事研究——以“星球研究所”为例.pdf",
+        link: "/2026/papers/科普数据视频中的可视化设计及叙事研究——以“星球研究所”为例.pdf",
       },
       {
         title:
@@ -316,7 +316,7 @@ export const programPapers: Record<
           "Haidong Zhang",
           "Yingcai Wu",
         ],
-        link: "/2025/papers/Scroller A WYSIWYG System for Creating Expressive Scrollytelling.pdf",
+        link: "/2026/papers/Scroller A WYSIWYG System for Creating Expressive Scrollytelling.pdf",
       },
       {
         title:
@@ -330,7 +330,7 @@ export const programPapers: Record<
           "Tuck Wah Leong",
           "Christy Jie Liang",
         ],
-        link: "/2025/papers/An Age-based Study into Interactive Narrative Visualization Engagement.pdf",
+        link: "/2026/papers/An Age-based Study into Interactive Narrative Visualization Engagement.pdf",
       },
     ],
   },

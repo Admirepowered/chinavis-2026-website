@@ -1,5 +1,5 @@
 export const zh = {
-  PageTitle: "论文报告 - ChinaVis 2025",
+  PageTitle: "论文报告 - ChinaVis 2026",
   Information: "报告信息",
   Time: "时间：",
   Location: "地点：",
@@ -8,7 +8,7 @@ export const zh = {
 };
 
 export const en = {
-  PageTitle: "Paper Session - ChinaVis 2025",
+  PageTitle: "Paper Session - ChinaVis 2026",
   Information: "Information",
   Time: "Time: ",
   Location: "Location: ",

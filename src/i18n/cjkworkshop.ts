@@ -14,7 +14,7 @@ import PhotoBCK from "~/assets/cjkworkshop/bck.avif?inline";
 import PhotoYZQ from "~/assets/cjkworkshop/yzq.avif?inline";
 
 export const zh = {
-  PageTitle: "中日韩论坛 - ChinaVis 2025",
+  PageTitle: "中日韩论坛 - ChinaVis 2026",
   Title: "第八届中日韩可视化论坛",
   Information: marked.parse(
     `
@@ -24,7 +24,7 @@ export const zh = {
 
     交互式数据可视化在弥合人机之间的差距方面发挥着关键作用，使得对数据集中的复杂模式进行直观探索和理解成为可能。本论坛将讨论数据可视化如何促进人机之间的无缝协作。主题将包括如何集成 AI 来增强跨领域的实际应用可视化，以及设计交互式可视化工具时需要考虑的关键因素。
 
-    - **时间：** 2025 年 7 月 19 日上午 9-12 点
+    - **时间：** 2026 年 7 月 19 日上午 9-12 点
     - **地点：** 杭州城北文澜大酒店 青芝坞厅
     `.replace(/^    /gm, ""),
     { async: false }
@@ -51,7 +51,7 @@ export const zh = {
 };
 
 export const en = {
-  PageTitle: "CJK Workshop - ChinaVis 2025",
+  PageTitle: "CJK Workshop - ChinaVis 2026",
   Title: "The Eighth China-Japan-Korea Joint Visualization Workshop",
   Information: marked.parse(
     `
@@ -61,7 +61,7 @@ export const en = {
 
     Interactive data visualization plays a pivotal role in bridging the gap between humans and machines, enabling intuitive exploration and understanding of complex patterns in datasets. This panel will discuss how data visualization facilitates seamless collaboration between humans and machines. Topics will include how to integrate AI to enhance visualization for real-world applications across domains and what the key considerations are for designing interactive visualization tools.
 
-    - **Date:** July 19, 2025, 9:00 AM - 12:00 PM
+    - **Date:** July 19, 2026, 9:00 AM - 12:00 PM
     - **Location:** Wenlan Hotel Northern Hangzhou, Qingzhuwu Hall
     `.replace(/^    /gm, ""),
     { async: false }
@@ -268,8 +268,8 @@ export const sessions: {
           en: "GeneticFlow 2.0: Multifaceted Visualization of Scholarly Research Evolution",
         },
         abstract: {
-          zh: 'Understanding the evolution of scholarly research is essential for many real-life decision-making processes in academia, such as research planning, frontier exploration, and award selection. Popular platforms like Google Scholar and Web of Science rely on numerical indicators that are too abstract to convey the context and content of scientific research, while most existing visualizations on mapping science do not consider the presentation of individual scholars’ research evolution. This work builds on an open academic database with up to 500 million papers/authors and proposes an integrated pipeline to visualize a scholar’s research evolution from multiple topic facets. A novel 3D prism-shaped visual metaphor is introduced, along with versatile designs by topic chord diagram, six-degree-impact glyph, streamgraph visualization, and inter-topic flow map, all optimized by elaborate layout algorithms. An online platform - <a href="http://genetic-flow.com" target="_blank">http://genetic-flow.com</a>, has been launched since Jan. 2025, attracting more than 200,000 visits from 74 countries by now, and receiving written feedback from Turing award laureates and ACM fellows.',
-          en: 'Understanding the evolution of scholarly research is essential for many real-life decision-making processes in academia, such as research planning, frontier exploration, and award selection. Popular platforms like Google Scholar and Web of Science rely on numerical indicators that are too abstract to convey the context and content of scientific research, while most existing visualizations on mapping science do not consider the presentation of individual scholars’ research evolution. This work builds on an open academic database with up to 500 million papers/authors and proposes an integrated pipeline to visualize a scholar’s research evolution from multiple topic facets. A novel 3D prism-shaped visual metaphor is introduced, along with versatile designs by topic chord diagram, six-degree-impact glyph, streamgraph visualization, and inter-topic flow map, all optimized by elaborate layout algorithms. An online platform - <a href="http://genetic-flow.com" target="_blank">http://genetic-flow.com</a>, has been launched since Jan. 2025, attracting more than 200,000 visits from 74 countries by now, and receiving written feedback from Turing award laureates and ACM fellows.',
+          zh: 'Understanding the evolution of scholarly research is essential for many real-life decision-making processes in academia, such as research planning, frontier exploration, and award selection. Popular platforms like Google Scholar and Web of Science rely on numerical indicators that are too abstract to convey the context and content of scientific research, while most existing visualizations on mapping science do not consider the presentation of individual scholars’ research evolution. This work builds on an open academic database with up to 500 million papers/authors and proposes an integrated pipeline to visualize a scholar’s research evolution from multiple topic facets. A novel 3D prism-shaped visual metaphor is introduced, along with versatile designs by topic chord diagram, six-degree-impact glyph, streamgraph visualization, and inter-topic flow map, all optimized by elaborate layout algorithms. An online platform - <a href="http://genetic-flow.com" target="_blank">http://genetic-flow.com</a>, has been launched since Jan. 2026, attracting more than 200,000 visits from 74 countries by now, and receiving written feedback from Turing award laureates and ACM fellows.',
+          en: 'Understanding the evolution of scholarly research is essential for many real-life decision-making processes in academia, such as research planning, frontier exploration, and award selection. Popular platforms like Google Scholar and Web of Science rely on numerical indicators that are too abstract to convey the context and content of scientific research, while most existing visualizations on mapping science do not consider the presentation of individual scholars’ research evolution. This work builds on an open academic database with up to 500 million papers/authors and proposes an integrated pipeline to visualize a scholar’s research evolution from multiple topic facets. A novel 3D prism-shaped visual metaphor is introduced, along with versatile designs by topic chord diagram, six-degree-impact glyph, streamgraph visualization, and inter-topic flow map, all optimized by elaborate layout algorithms. An online platform - <a href="http://genetic-flow.com" target="_blank">http://genetic-flow.com</a>, has been launched since Jan. 2026, attracting more than 200,000 visits from 74 countries by now, and receiving written feedback from Turing award laureates and ACM fellows.',
         },
       },
     ],

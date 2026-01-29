@@ -1,7 +1,7 @@
 import { marked } from "marked";
 
 export const zh = {
-  PageTitle: "可视化竞赛 - ChinaVis 2025",
+  PageTitle: "可视化竞赛 - ChinaVis 2026",
   Title: "数据可视化竞赛",
   Content: marked.parse(
     `
@@ -9,7 +9,7 @@ export const zh = {
 
     数据可视化竞赛是中国可视化与可视分析大会的一个重要环节。竞赛邀请研究人员、开发人员、学生和爱好者使用他们最有效的可视化与可视分析技术和工具来完成数据分析以及可视化任务。竞赛旨在帮助研究人员、开发人员、学生和爱好者评估他们的技术和工具在解决复杂问题中的有效性、新颖性和艺术性，并促进我国可视化与可视分析相关研究与应用的发展与进步。
 
-    [征稿通知](/2025/zh/challenge_call_for_participation)
+    [征稿通知](/2026/zh/challenge_call_for_participation)
 
     ## 竞赛获奖名单
 
@@ -17,29 +17,29 @@ export const zh = {
 
     #### 赛道1-I：「析城观史」可视分析挑战赛
 
-    ChinaVis 2025 数据可视化竞赛赛道 1-I 共收到 22 个作品，经评审，15 个作品入选，其中一、二、三等作品为 9 个，比例为 40.9%，提名作品 6 个，总入选比例 68.2%，入选名单如下：
+    ChinaVis 2026 数据可视化竞赛赛道 1-I 共收到 22 个作品，经评审，15 个作品入选，其中一、二、三等作品为 9 个，比例为 40.9%，提名作品 6 个，总入选比例 68.2%，入选名单如下：
 
    <div style="text-indent: 0; margin-top: 6px"><span style="color: #de0000; font-weight: 700">一等作品</span></div>
 
-    1. **参赛单位：** 重庆大学    <a href="/2025/challenge/1-cqu-yyq.zip" target="_blank">作品下载</a>
+    1. **参赛单位：** 重庆大学    <a href="/2026/challenge/1-cqu-yyq.zip" target="_blank">作品下载</a>
 
       **提名人员：** 姚颖茜 唐葆程 黄茜 梁兴竞 曾余茹 王昕月 胡海波（指导老师）
 
     <div style="text-indent: 0; margin-top: 6px"><span style="color: #de0000; font-weight: 700">二等作品</span></div>
 
-    1. **参赛单位：** 信息工程大学    <a href="/2025/challenge/2-ieu-tzw.zip" target="_blank">作品下载</a>
+    1. **参赛单位：** 信息工程大学    <a href="/2026/challenge/2-ieu-tzw.zip" target="_blank">作品下载</a>
 
       **提名人员：** 涂泽文 邱阳 冯智博 张炜 蒋禹 李硕 陈晓慧（指导老师） 李静（指导老师）
 
-    2. **参赛单位：** 西安电子科技大学    <a href="/2025/challenge/2-xdu-ywc.zip" target="_blank">作品下载</a>
+    2. **参赛单位：** 西安电子科技大学    <a href="/2026/challenge/2-xdu-ywc.zip" target="_blank">作品下载</a>
 
       **提名人员：** 杨文川 张庆 李瑞雨 李杨 职芮铭 董画心 权义宁（指导老师） 韩晓阳（指导老师）
 
-    3. **参赛单位：** 东北师范大学   <a href="/2025/challenge/2-nenu-lx.zip" target="_blank">作品下载</a>
+    3. **参赛单位：** 东北师范大学   <a href="/2026/challenge/2-nenu-lx.zip" target="_blank">作品下载</a>
 
       **提名人员：** 刘欣 于芷川 鹿雅秋 李佳欣 国馨元 周楠 张慧杰（指导老师） 封子军（指导老师）
 
-    4. **参赛单位：** 重庆大学    <a href="/2025/challenge/2-cqu-dyj.zip" target="_blank">作品下载</a>
+    4. **参赛单位：** 重庆大学    <a href="/2026/challenge/2-cqu-dyj.zip" target="_blank">作品下载</a>
 
       **提名人员：** 邓怡杰 曹陆铖 付婉婷 朱清杨 陈研 胡海波（指导老师）
 
@@ -89,7 +89,7 @@ export const zh = {
 
     #### 赛道1-II：「怀古论今」人文可视化创意赛
 
-    ChinaVis 2025 数据可视化竞赛赛道 1-II 共收到 45 个作品，经评审，15 个作品入选，其中一、二、三等作品为 10 个，比例为 22.2%，提名作品 5 个，总入选比例 33.3%，入选名单如下：
+    ChinaVis 2026 数据可视化竞赛赛道 1-II 共收到 45 个作品，经评审，15 个作品入选，其中一、二、三等作品为 10 个，比例为 22.2%，提名作品 5 个，总入选比例 33.3%，入选名单如下：
 
     <div style="text-indent: 0; margin-top: 6px"><span style="color: #de0000; font-weight: 700">一等作品</span></div>
 
@@ -161,7 +161,7 @@ export const zh = {
 
     ### 赛道2：艺术可视化竞赛
 
-    ChinaVis 2025 数据可视化竞赛赛道 2 共收到 86 个作品，经评审，26 个作品入选，其中获金、银、铜牌作品为 9 个，比例为 10%，优秀作品 8 个，入围作品 9 个，总入选比例 30%，入选名单如下：
+    ChinaVis 2026 数据可视化竞赛赛道 2 共收到 86 个作品，经评审，26 个作品入选，其中获金、银、铜牌作品为 9 个，比例为 10%，优秀作品 8 个，入围作品 9 个，总入选比例 30%，入选名单如下：
 
     <div style="text-indent: 0; margin-top: 6px"><span style="color: #de0000; font-weight: 700">金牌作品</span></div>
 
@@ -311,7 +311,7 @@ export const en = {
 
     The Data Challenge is an important part of the China Visualization and Visual Analytics Conference. The competition invites researchers, developers, students, and enthusiasts to use their most effective visualization and Visual Analytics techniques/tools to accomplish data analysis as well as visualization tasks. The competition aims to evaluate the effectiveness, novelty, and artistry of their techniques and tools in solving complex problems, and promote the development and advancement of research and applications related to visualization and Visual Analytics in China.
 
-    [Call for Participation](/2025/en/challenge_call_for_participation)
+    [Call for Participation](/2026/en/challenge_call_for_participation)
 
     ## Award Winners
 
@@ -319,29 +319,29 @@ export const en = {
 
     #### Track 1-I: "Analyzing the City, Reading History" Visual Analytics Challenge
 
-    ChinaVis 2025 Data Visualization Competition Track 1-I received 22 submissions, after review, 15 works were selected, including 9 first, second, and third-place works, accounting for 40.9%, and 6 nominated works, with a total selection rate of 68.2%. The selected list is as follows:
+    ChinaVis 2026 Data Visualization Competition Track 1-I received 22 submissions, after review, 15 works were selected, including 9 first, second, and third-place works, accounting for 40.9%, and 6 nominated works, with a total selection rate of 68.2%. The selected list is as follows:
 
     <div style="text-indent: 0; margin-top: 6px"><span style="color: #de0000; font-weight: 700">First Prize</span></div>
 
-    1. **Institution:** Chongqing University    <a href="/2025/challenge/1-cqu-yyq.zip" target="_blank">Download</a>
+    1. **Institution:** Chongqing University    <a href="/2026/challenge/1-cqu-yyq.zip" target="_blank">Download</a>
 
       **Team Members:** Yao Yingxi, Tang Baocheng, Huang Qian, Liang Xingjing, Zeng Yuru, Wang Xinyue, Hu Haibo (Supervisor)
 
     <div style="text-indent: 0; margin-top: 6px"><span style="color: #de0000; font-weight: 700">Second Prize</span></div>
 
-    1. **Institution:** Information Engineering University    <a href="/2025/challenge/2-ieu-tzw.zip" target="_blank">Download</a>
+    1. **Institution:** Information Engineering University    <a href="/2026/challenge/2-ieu-tzw.zip" target="_blank">Download</a>
 
       **Team Members:** Tu Zewen, Qiu Yang, Feng Zhibo, Zhang Wei, Jiang Yu, Li Shuo, Chen Xiaohui (Supervisor), Li Jing (Supervisor)
 
-    2. **Institution:** Xidian University    <a href="/2025/challenge/2-xdu-ywc.zip" target="_blank">Download</a>
+    2. **Institution:** Xidian University    <a href="/2026/challenge/2-xdu-ywc.zip" target="_blank">Download</a>
 
       **Team Members:** Yang Wenchuan, Zhang Qing, Li Ruiyu, Li Yang, Zhi Ruiming, Dong Huaxin, Quan Yining (Supervisor), Han Xiaoyang (Supervisor)
 
-    3. **Institution:** Northeast Normal University   <a href="/2025/challenge/2-nenu-lx.zip" target="_blank">Download</a>
+    3. **Institution:** Northeast Normal University   <a href="/2026/challenge/2-nenu-lx.zip" target="_blank">Download</a>
 
       **Team Members:** Liu Xin, Yu Zhichuan, Lu Yaqiu, Li Jiaxin, Guo Xinyuan, Zhou Nan, Zhang Huijie (Supervisor), Feng Zijun (Supervisor)
 
-    4. **Institution:** Chongqing University    <a href="/2025/challenge/2-cqu-dyj.zip" target="_blank">Download</a>
+    4. **Institution:** Chongqing University    <a href="/2026/challenge/2-cqu-dyj.zip" target="_blank">Download</a>
 
       **Team Members:** Deng Yijie, Cao Lucheng, Fu Wanting, Zhu Qingyang, Chen Yan, Hu Haibo (Supervisor)
 
@@ -391,7 +391,7 @@ export const en = {
 
     #### Track 1-II: "Reflecting on the Past, Discussing the Present" Visualization Creative Challenge
 
-    ChinaVis 2025 Data Visualization Competition Track 1-II received 45 submissions, after review, 15 works were selected, including 10 first, second, and third-place works, accounting for 22.2%, and 5 nominated works, with a total selection rate of 33.3%. The selected list is as follows:
+    ChinaVis 2026 Data Visualization Competition Track 1-II received 45 submissions, after review, 15 works were selected, including 10 first, second, and third-place works, accounting for 22.2%, and 5 nominated works, with a total selection rate of 33.3%. The selected list is as follows:
 
     <div style="text-indent: 0; margin-top: 6px"><span style="color: #de0000; font-weight: 700">First Prize</span></div>
 
@@ -463,7 +463,7 @@ export const en = {
 
     ### Track 2: Art Visualization Competition
 
-    ChinaVis 2025 Data Visualization Competition Track 2 received 86 submissions, after review, 26 works were selected, including 9 gold, silver, and bronze medal works, accounting for 10%, 8 excellence awards, and 9 finalists, with a total selection rate of 30%. The selected list is as follows:
+    ChinaVis 2026 Data Visualization Competition Track 2 received 86 submissions, after review, 26 works were selected, including 9 gold, silver, and bronze medal works, accounting for 10%, 8 excellence awards, and 9 finalists, with a total selection rate of 30%. The selected list is as follows:
 
     <div style="text-indent: 0; margin-top: 6px"><span style="color: #de0000; font-weight: 700">Gold Medal</span></div>
 

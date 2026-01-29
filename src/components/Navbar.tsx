@@ -28,9 +28,9 @@ function LanguageButton() {
 
   const toggleLanguage = () => {
     if (locale() === "zh") {
-      window.location.href = location.pathname.replace("/2025/zh/", "/2025/en/");
+      window.location.href = location.pathname.replace("/2026/zh/", "/2026/en/");
     } else {
-      window.location.href = location.pathname.replace("/2025/en/", "/2025/zh/");
+      window.location.href = location.pathname.replace("/2026/en/", "/2026/zh/");
     }
   }
 
@@ -72,22 +72,22 @@ export function Navbar() {
       </div>
       <div class="flex-1 lg:flex-0"></div>
       <div class="absolute hidden lg:block lg:relative lg:flex-1 left-0 top-full lg:top-0 w-full lg:w-auto min-h-[calc(100vh-80px)] lg:min-h-0 lg:h-auto z-50 bg-black" classList={{ "!block": menuExpanded() }} onClick={toggleMenu}>
-        <NavLink href={`/2025/${locale()}/`} title={t("Home")!} />
-        <NavLink href={`/2025/${locale()}/registration`} title={t("Registration")!} />
-        <NavLink href={`/2025/${locale()}/program`} title={t("Program")!} />
-        <NavLink href={`/2025/${locale()}/paper`} title={t("Paper")!} />
-        <NavLink href={`/2025/${locale()}/poster`} title={t("Poster")!} />
-        <NavLink href={`/2025/${locale()}/specialtopic`} title={t("SpecialTopic")!} />
-        <NavLink href={`/2025/${locale()}/cjkworkshop`} title={t("CJKWorkshop")!} />
-        <NavLink href={`/2025/${locale()}/course`} title={t("Course")!} />
-        <NavLink href={`/2025/${locale()}/art_exhibition`} title={t("ArtExhibition")!} />
-        <NavLink href={`/2025/${locale()}/venue`} title={t("Venue")!} />
-        <NavLink href={`/2025/${locale()}/challenge`} title={t("Challenge")!} />
-        <NavLink href={`/2025/${locale()}/doctoralcolloquium`} title={t("DoctoralColloquium")!} />
-        <NavLink href={`/2025/${locale()}/exhibition`} title={t("Exhibition")!} />
-        <NavLink href={`/2025/${locale()}/sponsor`} title={t("Sponsorship")!} />
-        <NavLink href={`/2025/${locale()}/volunteer`} title={t("Volunteer")!} />
-        <NavLink href={`/2025/${locale()}/committee`} title={t("Committee")!} />
+        <NavLink href={`/2026/${locale()}/`} title={t("Home")!} />
+        <NavLink href={`/2026/${locale()}/registration`} title={t("Registration")!} />
+        <NavLink href={`/2026/${locale()}/program`} title={t("Program")!} />
+        <NavLink href={`/2026/${locale()}/paper`} title={t("Paper")!} />
+        <NavLink href={`/2026/${locale()}/poster`} title={t("Poster")!} />
+        <NavLink href={`/2026/${locale()}/specialtopic`} title={t("SpecialTopic")!} />
+        <NavLink href={`/2026/${locale()}/cjkworkshop`} title={t("CJKWorkshop")!} />
+        <NavLink href={`/2026/${locale()}/course`} title={t("Course")!} />
+        <NavLink href={`/2026/${locale()}/art_exhibition`} title={t("ArtExhibition")!} />
+        <NavLink href={`/2026/${locale()}/venue`} title={t("Venue")!} />
+        <NavLink href={`/2026/${locale()}/challenge`} title={t("Challenge")!} />
+        <NavLink href={`/2026/${locale()}/doctoralcolloquium`} title={t("DoctoralColloquium")!} />
+        <NavLink href={`/2026/${locale()}/exhibition`} title={t("Exhibition")!} />
+        <NavLink href={`/2026/${locale()}/sponsor`} title={t("Sponsorship")!} />
+        <NavLink href={`/2026/${locale()}/volunteer`} title={t("Volunteer")!} />
+        <NavLink href={`/2026/${locale()}/committee`} title={t("Committee")!} />
         <ExternalNavLink href="http://chinavisap.net/" title={t("ArtProgram")!} />
         <ExternalNavLink href={`https://chinavis.org/history${locale() == "en" ? "_en" : ""}.html`} title={t("History")!} />
       </div>

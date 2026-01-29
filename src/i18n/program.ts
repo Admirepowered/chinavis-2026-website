@@ -109,7 +109,7 @@ import PhotoDST from "~/assets/program/dst.avif";
 import { programPapers } from "./programPapers";
 
 export const zh = {
-  PageTitle: "会议议程 - ChinaVis 2025",
+  PageTitle: "会议议程 - ChinaVis 2026",
   Title: "会议议程",
   Time: "时间",
   Session: "议程",
@@ -125,7 +125,7 @@ export const zh = {
 };
 
 export const en = {
-  PageTitle: "Program - ChinaVis 2025",
+  PageTitle: "Program - ChinaVis 2026",
   Title: "Program",
   Time: "Time",
   Session: "Session",
@@ -179,8 +179,8 @@ export interface ProgramDay {
 export const program: ProgramDay[] = [
   {
     date: {
-      zh: "2025 年 7 月 19 日",
-      en: "July 19, 2025",
+      zh: "2026 年 7 月 19 日",
+      en: "July 19, 2026",
     },
     timeslots: [
       {
@@ -213,8 +213,8 @@ export const program: ProgramDay[] = [
               en: "Wenxuan Hall, 4F",
             },
             href: {
-              zh: "/2025/zh/course#visual-encoding-interactive-analysis",
-              en: "/2025/en/course#visual-encoding-interactive-analysis",
+              zh: "/2026/zh/course#visual-encoding-interactive-analysis",
+              en: "/2026/en/course#visual-encoding-interactive-analysis",
             },
           },
           {
@@ -228,8 +228,8 @@ export const program: ProgramDay[] = [
               en: "Qinghefang Hall, 4F",
             },
             href: {
-              zh: "/2025/zh/course#growing-trees-with-our-forest",
-              en: "/2025/en/course#growing-trees-with-our-forest",
+              zh: "/2026/zh/course#growing-trees-with-our-forest",
+              en: "/2026/en/course#growing-trees-with-our-forest",
             },
           },
           {
@@ -243,8 +243,8 @@ export const program: ProgramDay[] = [
               en: "Lanqiao Hall, 3F",
             },
             href: {
-              zh: "/2025/zh/doctoralcolloquium",
-              en: "/2025/en/doctoralcolloquium",
+              zh: "/2026/zh/doctoralcolloquium",
+              en: "/2026/en/doctoralcolloquium",
             },
           },
           {
@@ -258,8 +258,8 @@ export const program: ProgramDay[] = [
               en: "Qingzhiwu Hall, 4F",
             },
             href: {
-              zh: "/2025/zh/cjkworkshop",
-              en: "/2025/en/cjkworkshop",
+              zh: "/2026/zh/cjkworkshop",
+              en: "/2026/en/cjkworkshop",
             },
           },
         ],
@@ -286,8 +286,8 @@ export const program: ProgramDay[] = [
           {
             type: "activity",
             title: {
-              zh: "ChinaVis 2025会议委员会工作会议",
-              en: "ChinaVis 2025 Committee Meeting",
+              zh: "ChinaVis 2026会议委员会工作会议",
+              en: "ChinaVis 2026 Committee Meeting",
             },
             location: {
               zh: "二楼文澜厅",
@@ -300,8 +300,8 @@ export const program: ProgramDay[] = [
   },
   {
     date: {
-      zh: "2025 年 7 月 20 日 上午",
-      en: "July 20, 2025 - Morning",
+      zh: "2026 年 7 月 20 日 上午",
+      en: "July 20, 2026 - Morning",
     },
     timeslots: [
       {
@@ -376,8 +376,8 @@ export const program: ProgramDay[] = [
               },
             ],
             href: {
-              zh: "/2025/zh/keynote/1",
-              en: "/2025/en/keynote/1",
+              zh: "/2026/zh/keynote/1",
+              en: "/2026/en/keynote/1",
             },
           },
         ],
@@ -434,8 +434,8 @@ export const program: ProgramDay[] = [
               },
             ],
             href: {
-              zh: "/2025/zh/keynote/2",
-              en: "/2025/en/keynote/2",
+              zh: "/2026/zh/keynote/2",
+              en: "/2026/en/keynote/2",
             },
           },
         ],
@@ -447,8 +447,8 @@ export const program: ProgramDay[] = [
             type: "panel",
             id: "panel-1",
             href: {
-              zh: "/2025/zh/panel/1",
-              en: "/2025/en/panel/1",
+              zh: "/2026/zh/panel/1",
+              en: "/2026/en/panel/1",
             },
             title: {
               zh: "圆桌论坛 1：可视化学科发展战略论坛",
@@ -596,8 +596,8 @@ export const program: ProgramDay[] = [
               en: "Wenjin Hall Front, 3F",
             },
             href: {
-              zh: "/2025/zh/poster",
-              en: "/2025/en/poster",
+              zh: "/2026/zh/poster",
+              en: "/2026/en/poster",
             },
           },
           {
@@ -611,8 +611,8 @@ export const program: ProgramDay[] = [
               en: "Wenyue Hall, 3F",
             },
             href: {
-              zh: "/2025/zh/art_exhibition",
-              en: "/2025/en/art_exhibition",
+              zh: "/2026/zh/art_exhibition",
+              en: "/2026/en/art_exhibition",
             },
           },
         ],
@@ -621,8 +621,8 @@ export const program: ProgramDay[] = [
   },
   {
     date: {
-      zh: "2025 年 7 月 20 日 下午",
-      en: "July 20, 2025 - Afternoon",
+      zh: "2026 年 7 月 20 日 下午",
+      en: "July 20, 2026 - Afternoon",
     },
     timeslots: [
       {
@@ -631,8 +631,8 @@ export const program: ProgramDay[] = [
           {
             id: "topic-1",
             href: {
-              zh: "/2025/zh/topic/1",
-              en: "/2025/en/topic/1",
+              zh: "/2026/zh/topic/1",
+              en: "/2026/en/topic/1",
             },
             type: "topic",
             title: {
@@ -722,8 +722,8 @@ export const program: ProgramDay[] = [
                   en: "As AI prediction models demonstrate strong knowledge discovery potential in scientific research, understanding their reasoning process through visual analytics and screening the most experimentally valuable predictions has become a core challenge in 'AI for Science' practices. This talk focuses on complex biological mechanism prediction tasks, proposing and iteratively building two logically connected visual analytics systems to enhance prediction interpretability and efficient result screening under human-machine collaboration. The first system focuses on analyzing and validating model reasoning paths, helping experts identify potentially overlooked biological mechanism predictions based on known mechanisms, leveraging visualization to enhance understanding and support mechanism reasoning. The second system introduces a 'hypothesis-driven' scientific discovery concept, integrating large language models' knowledge retrieval and reasoning capabilities with structured knowledge graphs to assist users in proposing, interpreting, and screening new biological hypotheses, driving generative discovery processes. This talk showcases a continuous exploration path from prediction understanding to hypothesis generation, highlighting the critical role of visual analytics in enhancing AI trustworthiness and accelerating knowledge discovery, and provides a new design paradigm for building human-machine collaborative analysis workflows centered on interpretability.",
                 },
                 description: {
-                  zh: "李权，上海科技大学信息科学与技术学院助理教授（终身教授序列）、研究员、博士生导师，从事人工智能及可视分析、可解释性机器学习以及人机交互技术的研究。他博士毕业于香港科技大学计算机科学与工程学系。任中国图象图形学学会可视化与可视分析专委会委员，IEEE VIS Paper程序委员会委员、ChinaVis论文国际程序委员会委员、IEEE VIS, EuroVis, PacificVis, ChinaVis, ACM CHI/CSCW及TVCG等顶级学术会议期刊审稿人，他曾任美国佐治亚理工学院计算机科学与工程学院的访问研究员、微众银行人工智能部资深研究员及网易游戏资深研究员。他的学术成果发表在IEEE VIS, EuroVis, IEEE PacificVis, ACM CHI, CSCW, UIST, IUI, CGF, TVCG等可视化及人机交互顶级期刊和会议，获得ACM CHI 2025最佳论文奖，并主持国家自然科学基金面上项目。更多信息见https://faculty.sist.shanghaitech.edu.cn/liquan/",
-                  en: "Quan Li, Assistant Professor (tenure-track) at the School of Information Science and Technology, ShanghaiTech University, is a researcher and doctoral supervisor specializing in artificial intelligence and visual analytics, explainable machine learning, and human-computer interaction technologies. He received his PhD from the Department of Computer Science and Engineering at the Hong Kong University of Science and Technology. He serves as a committee member of the Visualization and Visual Analytics Special Committee of the Chinese Society for Image and Graphics, IEEE VIS Paper Program Committee member, and ChinaVis Paper International Program Committee member. He has reviewed for top conferences and journals such as IEEE VIS, EuroVis, PacificVis, ChinaVis, ACM CHI/CSCW, and TVCG. He has previously worked as a visiting researcher at Georgia Tech's School of Computer Science and Engineering, a senior researcher at WeBank's AI Department, and a senior researcher at NetEase Games. His academic achievements have been published in top visualization and HCI journals and conferences such as IEEE VIS, EuroVis, IEEE PacificVis, ACM CHI, CSCW, UIST, IUI, CGF, and TVCG. He received the ACM CHI 2025 Best Paper Award and leads a National Natural Science Foundation project. More information can be found at https://faculty.sist.shanghaitech.edu.cn/liquan/",
+                  zh: "李权，上海科技大学信息科学与技术学院助理教授（终身教授序列）、研究员、博士生导师，从事人工智能及可视分析、可解释性机器学习以及人机交互技术的研究。他博士毕业于香港科技大学计算机科学与工程学系。任中国图象图形学学会可视化与可视分析专委会委员，IEEE VIS Paper程序委员会委员、ChinaVis论文国际程序委员会委员、IEEE VIS, EuroVis, PacificVis, ChinaVis, ACM CHI/CSCW及TVCG等顶级学术会议期刊审稿人，他曾任美国佐治亚理工学院计算机科学与工程学院的访问研究员、微众银行人工智能部资深研究员及网易游戏资深研究员。他的学术成果发表在IEEE VIS, EuroVis, IEEE PacificVis, ACM CHI, CSCW, UIST, IUI, CGF, TVCG等可视化及人机交互顶级期刊和会议，获得ACM CHI 2026最佳论文奖，并主持国家自然科学基金面上项目。更多信息见https://faculty.sist.shanghaitech.edu.cn/liquan/",
+                  en: "Quan Li, Assistant Professor (tenure-track) at the School of Information Science and Technology, ShanghaiTech University, is a researcher and doctoral supervisor specializing in artificial intelligence and visual analytics, explainable machine learning, and human-computer interaction technologies. He received his PhD from the Department of Computer Science and Engineering at the Hong Kong University of Science and Technology. He serves as a committee member of the Visualization and Visual Analytics Special Committee of the Chinese Society for Image and Graphics, IEEE VIS Paper Program Committee member, and ChinaVis Paper International Program Committee member. He has reviewed for top conferences and journals such as IEEE VIS, EuroVis, PacificVis, ChinaVis, ACM CHI/CSCW, and TVCG. He has previously worked as a visiting researcher at Georgia Tech's School of Computer Science and Engineering, a senior researcher at WeBank's AI Department, and a senior researcher at NetEase Games. His academic achievements have been published in top visualization and HCI journals and conferences such as IEEE VIS, EuroVis, IEEE PacificVis, ACM CHI, CSCW, UIST, IUI, CGF, and TVCG. He received the ACM CHI 2026 Best Paper Award and leads a National Natural Science Foundation project. More information can be found at https://faculty.sist.shanghaitech.edu.cn/liquan/",
                 },
               },
               {
@@ -755,8 +755,8 @@ export const program: ProgramDay[] = [
             type: "activity",
             id: "activity-arts",
             href: {
-              zh: "/2025/zh/activity/arts",
-              en: "/2025/en/activity/arts",
+              zh: "/2026/zh/activity/arts",
+              en: "/2026/en/activity/arts",
             },
             title: {
               zh: "艺术项目开幕与艺术家讲座",
@@ -862,8 +862,8 @@ export const program: ProgramDay[] = [
             type: "paper",
             id: "paper-1",
             href: {
-              zh: "/2025/zh/paper/1",
-              en: "/2025/en/paper/1",
+              zh: "/2026/zh/paper/1",
+              en: "/2026/en/paper/1",
             },
             title: programPapers["paper-1"].title,
             papers: programPapers["paper-1"].papers,
@@ -1021,8 +1021,8 @@ export const program: ProgramDay[] = [
               },
             ],
             href: {
-              zh: "/2025/zh/topic/2",
-              en: "/2025/en/topic/2",
+              zh: "/2026/zh/topic/2",
+              en: "/2026/en/topic/2",
             },
           },
           {
@@ -1144,8 +1144,8 @@ export const program: ProgramDay[] = [
               },
             ],
             href: {
-              zh: "/2025/zh/topic/3",
-              en: "/2025/en/topic/3",
+              zh: "/2026/zh/topic/3",
+              en: "/2026/en/topic/3",
             },
           },
         ],
@@ -1272,16 +1272,16 @@ export const program: ProgramDay[] = [
               },
             ],
             href: {
-              zh: "/2025/zh/topic/4",
-              en: "/2025/en/topic/4",
+              zh: "/2026/zh/topic/4",
+              en: "/2026/en/topic/4",
             },
           },
           {
             type: "paper",
             id: "paper-2",
             href: {
-              zh: "/2025/zh/paper/2",
-              en: "/2025/en/paper/2",
+              zh: "/2026/zh/paper/2",
+              en: "/2026/en/paper/2",
             },
             title: programPapers["paper-2"].title,
             location: {
@@ -1311,8 +1311,8 @@ export const program: ProgramDay[] = [
           {
             type: "challenge",
             href: {
-              zh: "/2025/zh/challenge",
-              en: "/2025/en/challenge",
+              zh: "/2026/zh/challenge",
+              en: "/2026/en/challenge",
             },
             title: {
               zh: "数据可视化竞赛与颁奖",
@@ -1350,8 +1350,8 @@ export const program: ProgramDay[] = [
               en: "Wenjin Hall Front, 3F",
             },
             href: {
-              zh: "/2025/zh/poster",
-              en: "/2025/en/poster",
+              zh: "/2026/zh/poster",
+              en: "/2026/en/poster",
             },
           },
           {
@@ -1365,8 +1365,8 @@ export const program: ProgramDay[] = [
               en: "Wenyue Hall, 3F",
             },
             href: {
-              zh: "/2025/zh/art_exhibition",
-              en: "/2025/en/art_exhibition",
+              zh: "/2026/zh/art_exhibition",
+              en: "/2026/en/art_exhibition",
             },
           },
         ],
@@ -1375,8 +1375,8 @@ export const program: ProgramDay[] = [
   },
   {
     date: {
-      zh: "2025 年 7 月 21 日 上午",
-      en: "July 21, 2025 - Morning",
+      zh: "2026 年 7 月 21 日 上午",
+      en: "July 21, 2026 - Morning",
     },
     timeslots: [
       {
@@ -1517,8 +1517,8 @@ export const program: ProgramDay[] = [
               },
             ],
             href: {
-              zh: "/2025/zh/topic/5",
-              en: "/2025/en/topic/5",
+              zh: "/2026/zh/topic/5",
+              en: "/2026/en/topic/5",
             },
           },
           {
@@ -1640,16 +1640,16 @@ export const program: ProgramDay[] = [
               },
             ],
             href: {
-              zh: "/2025/zh/topic/6",
-              en: "/2025/en/topic/6",
+              zh: "/2026/zh/topic/6",
+              en: "/2026/en/topic/6",
             },
           },
           {
             type: "paper",
             id: "paper-3",
             href: {
-              zh: "/2025/zh/paper/3",
-              en: "/2025/en/paper/3",
+              zh: "/2026/zh/paper/3",
+              en: "/2026/en/paper/3",
             },
             title: programPapers["paper-3"].title,
             location: {
@@ -1675,8 +1675,8 @@ export const program: ProgramDay[] = [
             type: "panel",
             id: "panel-2",
             href: {
-              zh: "/2025/zh/panel/2",
-              en: "/2025/en/panel/2",
+              zh: "/2026/zh/panel/2",
+              en: "/2026/en/panel/2",
             },
             title: {
               zh: "圆桌论坛 2：青年可视化学者的机遇与挑战",
@@ -1745,8 +1745,8 @@ export const program: ProgramDay[] = [
                 },
                 photo: PhotoLQ, // Already imported above
                 description: {
-                  zh: "李权，上海科技大学信息科学与技术学院助理教授（终身教授序列）、研究员、博士生导师，从事人工智能及可视分析、可解释性机器学习以及人机交互技术的研究。他博士毕业于香港科技大学计算机科学与工程学系。任中国图象图形学学会可视化与可视分析专委会委员，IEEE VIS Paper程序委员会委员、ChinaVis论文国际程序委员会委员、IEEE VIS, EuroVis, PacificVis, ChinaVis, ACM CHI/CSCW及TVCG等顶级学术会议期刊审稿人，他曾任美国佐治亚理工学院计算机科学与工程学院的访问研究员、微众银行人工智能部资深研究员及网易游戏资深研究员。他的学术成果发表在IEEE VIS, EuroVis, IEEE PacificVis, ACM CHI, CSCW, UIST, IUI, CGF, TVCG等可视化及人机交互顶级期刊和会议，获得ACM CHI 2025最佳论文奖，并主持国家自然科学基金面上项目。",
-                  en: "Quan Li is an Assistant Professor (tenure-track), Researcher, and doctoral supervisor at the School of Information Science and Technology, ShanghaiTech University. He conducts research in artificial intelligence and visual analytics, explainable machine learning, and human-computer interaction technologies. He received his PhD from the Department of Computer Science and Engineering at HKUST. He serves as a committee member of the CSIG Visualization and Visual Analytics Committee, IEEE VIS Paper Program Committee, ChinaVis International Program Committee, and reviewer for top conferences and journals including IEEE VIS, EuroVis, PacificVis, ChinaVis, ACM CHI/CSCW, and TVCG. He was previously a visiting researcher at Georgia Tech's School of Computer Science and Engineering, senior researcher at WeBank AI Department, and senior researcher at NetEase Games. His research has been published in top visualization and HCI journals and conferences including IEEE VIS, EuroVis, IEEE PacificVis, ACM CHI, CSCW, UIST, IUI, CGF, and TVCG. He received the ACM CHI 2025 Best Paper Award and leads a National Natural Science Foundation project.",
+                  zh: "李权，上海科技大学信息科学与技术学院助理教授（终身教授序列）、研究员、博士生导师，从事人工智能及可视分析、可解释性机器学习以及人机交互技术的研究。他博士毕业于香港科技大学计算机科学与工程学系。任中国图象图形学学会可视化与可视分析专委会委员，IEEE VIS Paper程序委员会委员、ChinaVis论文国际程序委员会委员、IEEE VIS, EuroVis, PacificVis, ChinaVis, ACM CHI/CSCW及TVCG等顶级学术会议期刊审稿人，他曾任美国佐治亚理工学院计算机科学与工程学院的访问研究员、微众银行人工智能部资深研究员及网易游戏资深研究员。他的学术成果发表在IEEE VIS, EuroVis, IEEE PacificVis, ACM CHI, CSCW, UIST, IUI, CGF, TVCG等可视化及人机交互顶级期刊和会议，获得ACM CHI 2026最佳论文奖，并主持国家自然科学基金面上项目。",
+                  en: "Quan Li is an Assistant Professor (tenure-track), Researcher, and doctoral supervisor at the School of Information Science and Technology, ShanghaiTech University. He conducts research in artificial intelligence and visual analytics, explainable machine learning, and human-computer interaction technologies. He received his PhD from the Department of Computer Science and Engineering at HKUST. He serves as a committee member of the CSIG Visualization and Visual Analytics Committee, IEEE VIS Paper Program Committee, ChinaVis International Program Committee, and reviewer for top conferences and journals including IEEE VIS, EuroVis, PacificVis, ChinaVis, ACM CHI/CSCW, and TVCG. He was previously a visiting researcher at Georgia Tech's School of Computer Science and Engineering, senior researcher at WeBank AI Department, and senior researcher at NetEase Games. His research has been published in top visualization and HCI journals and conferences including IEEE VIS, EuroVis, IEEE PacificVis, ACM CHI, CSCW, UIST, IUI, CGF, and TVCG. He received the ACM CHI 2026 Best Paper Award and leads a National Natural Science Foundation project.",
                 },
               },
               {
@@ -1928,8 +1928,8 @@ export const program: ProgramDay[] = [
               },
             ],
             href: {
-              zh: "/2025/zh/topic/7",
-              en: "/2025/en/topic/7",
+              zh: "/2026/zh/topic/7",
+              en: "/2026/en/topic/7",
             },
           },
           {
@@ -2074,16 +2074,16 @@ export const program: ProgramDay[] = [
               },
             ],
             href: {
-              zh: "/2025/zh/topic/8",
-              en: "/2025/en/topic/8",
+              zh: "/2026/zh/topic/8",
+              en: "/2026/en/topic/8",
             },
           },
           {
             type: "paper",
             id: "paper-4",
             href: {
-              zh: "/2025/zh/paper/4",
-              en: "/2025/en/paper/4",
+              zh: "/2026/zh/paper/4",
+              en: "/2026/en/paper/4",
             },
             title: programPapers["paper-4"].title,
             location: {
@@ -2149,8 +2149,8 @@ export const program: ProgramDay[] = [
                   en: "Cryptocurrency investors face significant challenges in detecting fraudulent schemes, which can lead to substantial financial losses. Existing fraud detection methods primarily analyze blockchain transaction records, inherently requiring that some victims have already suffered losses before fraud is identified. In this talk, I will introduce our research on early fraud detection through smart contract code visualization, including visualizing code behaviors and smart contract execution simulations. It eliminates the dependency on transaction data, enabling investors to proactively identify potential frauds before any transactions occur. Our visualization approaches provide an intuitive way of fraud risk assessment for common cryptocurrency investors.",
                 },
                 description: {
-                  zh: "王勇博士是新加坡南洋理工大学计算与数据科学学院的终身制助理教授。在此之前，他是新加坡管理大学计算与信息系统学院的教职员工。他在香港科技大学获得博士学位。他的研究兴趣包括数据可视化、人机交互和人工智能协作，特别关注AI驱动的数据可视化和金融科技、量子计算和在线学习的可视分析。他在2024年被评为AI 2000可视化领域最具影响力学者荣誉提名。他的工作已发表在可视化和人机交互的顶级期刊（如IEEE VIS、IEEE TVCG、ACM CHI和EuroVis），并获得多项论文奖项，包括PacificVis 2025期刊轨道最佳论文荣誉提名奖、ACM CHI 2022最佳论文荣誉提名奖、IEEE VIS 2021最佳论文荣誉提名奖和ACM IUI 2017最佳论文奖。他曾担任IEEE VIS、EuroVis、PacificVis、CIKM、ACM IUI、ChinaVis的程序委员会成员，以及多个可视化会议和期刊的审稿人。",
-                  en: "Dr. Yong Wang is a tenure-track assistant professor at the College of Computing and Data Science, Nanyang Technological University, Singapore. Before that, he was a faculty member at the School of Computing and Information Systems, Singapore Management University (SMU). He obtained his PhD degree from the Hong Kong University of Science and Technology. His research interests include data visualization, HCI and human-AI collaboration, with a special focus on AI-powered data visualization and visual analytics for FinTech, quantum computing and online learning. He was recognized as the AI 2000 Most Influential Scholar Honorable Mention in Visualization in 2024. His work has been published at premier venues of visualization and human-computer interaction (e.g., IEEE VIS, IEEE TVCG, ACM CHI and EuroVis) and has received multiple paper awards, including Best Paper Honorable Mention Award at PacificVis 2025 Journal Track, Best Paper Honorable Mention Award at ACM CHI 2022, Best Paper Honorable Mention Awards at IEEE VIS 2021 and Best Paper Award at ACM IUI 2017. He has served as a program committee for IEEE VIS, EuroVis, PacificVis, CIKM, ACM IUI, ChinaVis, and a reviewer for multiple visualization conferences and journals.",
+                  zh: "王勇博士是新加坡南洋理工大学计算与数据科学学院的终身制助理教授。在此之前，他是新加坡管理大学计算与信息系统学院的教职员工。他在香港科技大学获得博士学位。他的研究兴趣包括数据可视化、人机交互和人工智能协作，特别关注AI驱动的数据可视化和金融科技、量子计算和在线学习的可视分析。他在2024年被评为AI 2000可视化领域最具影响力学者荣誉提名。他的工作已发表在可视化和人机交互的顶级期刊（如IEEE VIS、IEEE TVCG、ACM CHI和EuroVis），并获得多项论文奖项，包括PacificVis 2026期刊轨道最佳论文荣誉提名奖、ACM CHI 2022最佳论文荣誉提名奖、IEEE VIS 2021最佳论文荣誉提名奖和ACM IUI 2017最佳论文奖。他曾担任IEEE VIS、EuroVis、PacificVis、CIKM、ACM IUI、ChinaVis的程序委员会成员，以及多个可视化会议和期刊的审稿人。",
+                  en: "Dr. Yong Wang is a tenure-track assistant professor at the College of Computing and Data Science, Nanyang Technological University, Singapore. Before that, he was a faculty member at the School of Computing and Information Systems, Singapore Management University (SMU). He obtained his PhD degree from the Hong Kong University of Science and Technology. His research interests include data visualization, HCI and human-AI collaboration, with a special focus on AI-powered data visualization and visual analytics for FinTech, quantum computing and online learning. He was recognized as the AI 2000 Most Influential Scholar Honorable Mention in Visualization in 2024. His work has been published at premier venues of visualization and human-computer interaction (e.g., IEEE VIS, IEEE TVCG, ACM CHI and EuroVis) and has received multiple paper awards, including Best Paper Honorable Mention Award at PacificVis 2026 Journal Track, Best Paper Honorable Mention Award at ACM CHI 2022, Best Paper Honorable Mention Awards at IEEE VIS 2021 and Best Paper Award at ACM IUI 2017. He has served as a program committee for IEEE VIS, EuroVis, PacificVis, CIKM, ACM IUI, ChinaVis, and a reviewer for multiple visualization conferences and journals.",
                 },
               },
               {
@@ -2224,8 +2224,8 @@ export const program: ProgramDay[] = [
               },
             ],
             href: {
-              zh: "/2025/zh/topic/9",
-              en: "/2025/en/topic/9",
+              zh: "/2026/zh/topic/9",
+              en: "/2026/en/topic/9",
             },
           },
         ],
@@ -2255,8 +2255,8 @@ export const program: ProgramDay[] = [
               en: "Wenjin Hall Front, 3F",
             },
             href: {
-              zh: "/2025/zh/poster",
-              en: "/2025/en/poster",
+              zh: "/2026/zh/poster",
+              en: "/2026/en/poster",
             },
           },
           {
@@ -2270,8 +2270,8 @@ export const program: ProgramDay[] = [
               en: "Wenyue Hall, 3F",
             },
             href: {
-              zh: "/2025/zh/art_exhibition",
-              en: "/2025/en/art_exhibition",
+              zh: "/2026/zh/art_exhibition",
+              en: "/2026/en/art_exhibition",
             },
           },
         ],
@@ -2280,8 +2280,8 @@ export const program: ProgramDay[] = [
   },
   {
     date: {
-      zh: "2025 年 7 月 21 日 下午",
-      en: "July 21, 2025 - Afternoon",
+      zh: "2026 年 7 月 21 日 下午",
+      en: "July 21, 2026 - Afternoon",
     },
     timeslots: [
       {
@@ -2429,8 +2429,8 @@ export const program: ProgramDay[] = [
               },
             ],
             href: {
-              zh: "/2025/zh/topic/10",
-              en: "/2025/en/topic/10",
+              zh: "/2026/zh/topic/10",
+              en: "/2026/en/topic/10",
             },
           },
           {
@@ -2667,16 +2667,16 @@ export const program: ProgramDay[] = [
               },
             ],
             href: {
-              zh: "/2025/zh/topic/11",
-              en: "/2025/en/topic/11",
+              zh: "/2026/zh/topic/11",
+              en: "/2026/en/topic/11",
             },
           },
           {
             type: "paper",
             id: "paper-5",
             href: {
-              zh: "/2025/zh/paper/5",
-              en: "/2025/en/paper/5",
+              zh: "/2026/zh/paper/5",
+              en: "/2026/en/paper/5",
             },
             title: programPapers["paper-5"].title,
             location: {
@@ -2782,8 +2782,8 @@ export const program: ProgramDay[] = [
                   en: 'The invention of perspective enabled humanity to understand the relationship between humans and the world through biological eyes for the first time, with clear proportions and coordinates. Through perspective, this paper aims to explore the structural significance behind the construction of the entire "world picture." By sorting out the macro framework of history, theory, and technology, with the systematic paradigm shift of perspective as the main line, it discusses its shaping of visual modernity, how the world gradually became a world of images, and how it was grasped as images.',
                 },
                 description: {
-                  zh: "刘益红，策展人，设计师，中国美术学院视觉传播学院副院长，中国美术学院跨媒体艺术学院当代艺术与社会思想（ICAST）博士、法国国家工业设计学院（ENSCI, Les Ateliers）硕士。研究领域涵盖当代艺术策展、内容谱系研究、网络社会研究、视觉文化研究。近期主策划项目包含：“Inter-World-View”（2019）、“首届之江国际青年艺术周”（2019）、“天问：世界观的对话”（2020）、“Playshop / 玩吧国际设计联合项目”（2019—2023）、“浙江省首届青年科学家节”（2022）、“杭州国际纤维三年展”（2022）、“天问：文明的互鉴”（2023）；“世界树”中国美术学院毕业季（2024）；“良渚十二律”威尼斯建筑双年展（2025）；“七十二变”中国美术学院毕业季（2025）等。",
-                  en: 'Yihong Liu, curator and designer, Vice Dean of the School of Visual Communication, China Academy of Art, PhD in Contemporary Art and Social Thought (ICAST) from the Inter-Media Art School of China Academy of Art, and Master\'s from the French National School of Industrial Design (ENSCI, Les Ateliers). Research fields include contemporary art curation, content genealogy research, network society research, and visual culture research. Recent major curatorial projects include: "Inter-World-View" (2019), "First Zhijiang International Youth Art Week" (2019), "Tianwen: Dialogue of Worldviews" (2020), "Playshop / International Design Joint Project" (2019-2023), "First Zhejiang Youth Scientists Festival" (2022), "Hangzhou International Fiber Triennial" (2022), "Tianwen: Mutual Learning of Civilizations" (2023); "World Tree" China Academy of Art Graduation Season (2024); "Liangzhu Twelve Laws" Venice Architecture Biennale (2025); "Seventy-two Transformations" China Academy of Art Graduation Season (2025), etc.',
+                  zh: "刘益红，策展人，设计师，中国美术学院视觉传播学院副院长，中国美术学院跨媒体艺术学院当代艺术与社会思想（ICAST）博士、法国国家工业设计学院（ENSCI, Les Ateliers）硕士。研究领域涵盖当代艺术策展、内容谱系研究、网络社会研究、视觉文化研究。近期主策划项目包含：“Inter-World-View”（2019）、“首届之江国际青年艺术周”（2019）、“天问：世界观的对话”（2020）、“Playshop / 玩吧国际设计联合项目”（2019—2023）、“浙江省首届青年科学家节”（2022）、“杭州国际纤维三年展”（2022）、“天问：文明的互鉴”（2023）；“世界树”中国美术学院毕业季（2024）；“良渚十二律”威尼斯建筑双年展（2026）；“七十二变”中国美术学院毕业季（2026）等。",
+                  en: 'Yihong Liu, curator and designer, Vice Dean of the School of Visual Communication, China Academy of Art, PhD in Contemporary Art and Social Thought (ICAST) from the Inter-Media Art School of China Academy of Art, and Master\'s from the French National School of Industrial Design (ENSCI, Les Ateliers). Research fields include contemporary art curation, content genealogy research, network society research, and visual culture research. Recent major curatorial projects include: "Inter-World-View" (2019), "First Zhijiang International Youth Art Week" (2019), "Tianwen: Dialogue of Worldviews" (2020), "Playshop / International Design Joint Project" (2019-2023), "First Zhejiang Youth Scientists Festival" (2022), "Hangzhou International Fiber Triennial" (2022), "Tianwen: Mutual Learning of Civilizations" (2023); "World Tree" China Academy of Art Graduation Season (2024); "Liangzhu Twelve Laws" Venice Architecture Biennale (2026); "Seventy-two Transformations" China Academy of Art Graduation Season (2026), etc.',
                 },
               },
               {
@@ -2834,8 +2834,8 @@ export const program: ProgramDay[] = [
               },
             ],
             href: {
-              zh: "/2025/zh/topic/12",
-              en: "/2025/en/topic/12",
+              zh: "/2026/zh/topic/12",
+              en: "/2026/en/topic/12",
             },
           },
           {
@@ -3095,16 +3095,16 @@ export const program: ProgramDay[] = [
               },
             ],
             href: {
-              zh: "/2025/zh/topic/13",
-              en: "/2025/en/topic/13",
+              zh: "/2026/zh/topic/13",
+              en: "/2026/en/topic/13",
             },
           },
           {
             type: "paper",
             id: "paper-6",
             href: {
-              zh: "/2025/zh/paper/6",
-              en: "/2025/en/paper/6",
+              zh: "/2026/zh/paper/6",
+              en: "/2026/en/paper/6",
             },
             title: programPapers["paper-6"].title,
             papers: programPapers["paper-6"].papers,
@@ -3135,8 +3135,8 @@ export const program: ProgramDay[] = [
             type: "activity",
             id: "activity-industry",
             href: {
-              zh: "/2025/zh/activity/industry",
-              en: "/2025/en/activity/industry",
+              zh: "/2026/zh/activity/industry",
+              en: "/2026/en/activity/industry",
             },
             title: {
               zh: "校企面对面",
@@ -3313,8 +3313,8 @@ export const program: ProgramDay[] = [
               en: "Wenjin Hall Front, 3F",
             },
             href: {
-              zh: "/2025/zh/poster",
-              en: "/2025/en/poster",
+              zh: "/2026/zh/poster",
+              en: "/2026/en/poster",
             },
           },
           {
@@ -3328,8 +3328,8 @@ export const program: ProgramDay[] = [
               en: "Wenyue Hall, 3F",
             },
             href: {
-              zh: "/2025/zh/art_exhibition",
-              en: "/2025/en/art_exhibition",
+              zh: "/2026/zh/art_exhibition",
+              en: "/2026/en/art_exhibition",
             },
           },
         ],
@@ -3338,8 +3338,8 @@ export const program: ProgramDay[] = [
   },
   {
     date: {
-      zh: "2025 年 7 月 22 日 上午",
-      en: "July 22, 2025 - Morning",
+      zh: "2026 年 7 月 22 日 上午",
+      en: "July 22, 2026 - Morning",
     },
     timeslots: [
       {
@@ -3382,8 +3382,8 @@ export const program: ProgramDay[] = [
               },
             ],
             href: {
-              zh: "/2025/zh/keynote/3",
-              en: "/2025/en/keynote/3",
+              zh: "/2026/zh/keynote/3",
+              en: "/2026/en/keynote/3",
             },
           },
         ],
@@ -3411,8 +3411,8 @@ export const program: ProgramDay[] = [
               en: "Panel 3: The Tide of the Times in Visualization Research: Adherence and Inheritance",
             },
             href: {
-              zh: "/2025/zh/panel/3",
-              en: "/2025/en/panel/3",
+              zh: "/2026/zh/panel/3",
+              en: "/2026/en/panel/3",
             },
             location: {
               zh: "二楼文澜厅",
@@ -3530,8 +3530,8 @@ export const program: ProgramDay[] = [
               en: "Wenyue Hall, 3F",
             },
             href: {
-              zh: "/2025/zh/art_exhibition",
-              en: "/2025/en/art_exhibition",
+              zh: "/2026/zh/art_exhibition",
+              en: "/2026/en/art_exhibition",
             },
           },
         ],

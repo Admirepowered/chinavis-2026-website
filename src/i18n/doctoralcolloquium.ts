@@ -1,11 +1,11 @@
 import { marked } from "marked";
 
 export const zh = {
-  PageTitle: "博士生论坛 - ChinaVis 2025",
+  PageTitle: "博士生论坛 - ChinaVis 2026",
   Title: "博士生论坛",
   Content: marked.parse(
     `
-    ChinaVis 2025 博士生论坛是为博士研究生提供一个浓厚的学习氛围，在与同行和专家探讨个人研究课题的过程中，获得前沿知识和专业性指导的平台。同时，该论坛也为博士研究生提供了与领域专家密切交流和合作的机会。我们鼓励正在探索或已确定学位论文研究方向的博士研究生申请参加，但仅限通过申请者参加。
+    ChinaVis 2026 博士生论坛是为博士研究生提供一个浓厚的学习氛围，在与同行和专家探讨个人研究课题的过程中，获得前沿知识和专业性指导的平台。同时，该论坛也为博士研究生提供了与领域专家密切交流和合作的机会。我们鼓励正在探索或已确定学位论文研究方向的博士研究生申请参加，但仅限通过申请者参加。
 
     ## 申请信息
 
@@ -29,11 +29,11 @@ export const zh = {
 
     ## 重要日期
 
-    **申请提交截止时间：** 2025 年 6 月 25 日 北京时间下午 11:59
+    **申请提交截止时间：** 2026 年 6 月 25 日 北京时间下午 11:59
 
-    **评审结果公布时间：** 2025 年 6 月 30 日
+    **评审结果公布时间：** 2026 年 6 月 30 日
 
-    **博士生论坛时间：** 2025 年 7 月 19 日
+    **博士生论坛时间：** 2026 年 7 月 19 日
 
     ## 博士生论坛主席
 
@@ -46,11 +46,11 @@ export const zh = {
 };
 
 export const en = {
-  PageTitle: "Doctoral Colloquium - ChinaVis 2025",
+  PageTitle: "Doctoral Colloquium - ChinaVis 2026",
   Title: "Doctoral Colloquium - Call for Participation",
   Content: marked.parse(
     `
-    The ChinaVis 2025 Doctoral Colloquium (DC) provides a stimulating learning environment for doctoral students to discuss their research topics with peers and experts, and to obtain cutting-edge knowledge and professional guidance. The colloquium also offers opportunities for doctoral students to engage in close communication and collaboration with domain experts. We encourage doctoral students who are exploring or have already determined the direction of their thesis research to apply, but attendance is limited to accepted applicants only.
+    The ChinaVis 2026 Doctoral Colloquium (DC) provides a stimulating learning environment for doctoral students to discuss their research topics with peers and experts, and to obtain cutting-edge knowledge and professional guidance. The colloquium also offers opportunities for doctoral students to engage in close communication and collaboration with domain experts. We encourage doctoral students who are exploring or have already determined the direction of their thesis research to apply, but attendance is limited to accepted applicants only.
 
     ## Submissions
 
@@ -74,11 +74,11 @@ export const en = {
 
     ## Important Dates
 
-    **DC Submission Deadline:** June 25, 2025 11:59 PM GMT+8 (Beijing Time)
+    **DC Submission Deadline:** June 25, 2026 11:59 PM GMT+8 (Beijing Time)
 
-    **DC Submission Notification:** June 30, 2025
+    **DC Submission Notification:** June 30, 2026
 
-    **Doctoral Colloquium Date:** July 19, 2025
+    **Doctoral Colloquium Date:** July 19, 2026
 
     ## Doctoral Colloquium Chairs
 
