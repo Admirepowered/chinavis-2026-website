@@ -73,22 +73,8 @@ export function Navbar() {
       <div class="flex-1 lg:flex-0"></div>
       <div class="absolute hidden lg:block lg:relative lg:flex-1 left-0 top-full lg:top-0 w-full lg:w-auto min-h-[calc(100vh-80px)] lg:min-h-0 lg:h-auto z-50 bg-black" classList={{ "!block": menuExpanded() }} onClick={toggleMenu}>
         <NavLink href={`/2026/${locale()}/`} title={t("Home")!} />
-        <NavLink href={`/2026/${locale()}/registration`} title={t("Registration")!} />
-        <NavLink href={`/2026/${locale()}/program`} title={t("Program")!} />
-        <NavLink href={`/2026/${locale()}/paper`} title={t("Paper")!} />
-        <NavLink href={`/2026/${locale()}/poster`} title={t("Poster")!} />
-        <NavLink href={`/2026/${locale()}/specialtopic`} title={t("SpecialTopic")!} />
-        <NavLink href={`/2026/${locale()}/cjkworkshop`} title={t("CJKWorkshop")!} />
-        <NavLink href={`/2026/${locale()}/course`} title={t("Course")!} />
-        <NavLink href={`/2026/${locale()}/art_exhibition`} title={t("ArtExhibition")!} />
         <NavLink href={`/2026/${locale()}/venue`} title={t("Venue")!} />
-        <NavLink href={`/2026/${locale()}/challenge`} title={t("Challenge")!} />
-        <NavLink href={`/2026/${locale()}/doctoralcolloquium`} title={t("DoctoralColloquium")!} />
-        <NavLink href={`/2026/${locale()}/exhibition`} title={t("Exhibition")!} />
-        <NavLink href={`/2026/${locale()}/sponsor`} title={t("Sponsorship")!} />
-        <NavLink href={`/2026/${locale()}/volunteer`} title={t("Volunteer")!} />
         <NavLink href={`/2026/${locale()}/committee`} title={t("Committee")!} />
-        <ExternalNavLink href="http://chinavisap.net/" title={t("ArtProgram")!} />
         <ExternalNavLink href={`https://chinavis.org/history${locale() == "en" ? "_en" : ""}.html`} title={t("History")!} />
       </div>
 

@@ -19,7 +19,7 @@ export const zh = {
   Volunteer: "志愿者",
   Committee: "委员会成员",
   ArtProgram: "艺术项目",
-  History: "历届会议",
+  History: "历届会议信息",
 };
 
 export const en = {
