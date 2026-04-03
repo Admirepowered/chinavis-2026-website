@@ -47,7 +47,7 @@ export const zh = {
 
     #### 主题：“杭州 · 潮生万象”
 
-    2026年第十二届中国可视化与可视分析大会艺术项目（China VISAP'25）将在杭州举行，与第十二届中国可视化与可视分析大会（China Vis) 会议同步进行。本届艺术项目包含：艺术展览、学生竞赛、创作工作坊、专题讲座以及一系列由艺术家、设计师与可视化科学家发起的精彩分享，旨在探索可视化艺术的未来方形和全新视野。
+    2026年第十三届中国可视化与可视分析大会艺术项目（China VISAP'25）将在杭州举行，与第十三届中国可视化与可视分析大会（China Vis) 会议同步进行。本届艺术项目包含：艺术展览、学生竞赛、创作工作坊、专题讲座以及一系列由艺术家、设计师与可视化科学家发起的精彩分享，旨在探索可视化艺术的未来方形和全新视野。
 
     本届主题“潮生万象”，旨在以“潮”为时代精神，“万象”迭涌，玄览古今。杭州以“潮”闻名，更以其独特的三重世界遗产格局（西湖、大运河、良渚古城）奠定其在人类文明史上的坐标。从新石器时代良渚玉琮的信仰图腾，到南宋临安的《西湖清趣图》笔意，再到明代丝绸之府的织机声，这座城市始终是中国古典美学的最高表达。而今，杭州更以数字文明实验室的姿态重塑未来：阿里巴巴的电商生态与蚂蚁链技术辐射全球，西湖大学引领合成生物与AI制药前沿，云栖小镇聚集了中国1/3的云计算算力。这里既有国家级工业设计中心数量之冠（占全国12%），也孕育了吉利极氪、零跑汽车的智能电动化浪潮；既诞生了挑战3A游戏边界的《黑神话：悟空》，也孵化了全球AI开源平台DeepSeek（深度求索）。当MCN机构在运河畔直播带货时，数字游民正用区块链技术激活乡村遗产——传统与未来在此缝合，正如西湖山水与钱江新城的天际线，构成一部“潮生万象”风云叱诧的文明史诗。
 
@@ -258,7 +258,7 @@ export const en = {
 
     #### Theme: "Hangzhou · Tide of Myriad Phenomena"
 
-    The 12th China VIS Arts Program (China VISAP'25) will be held in Hangzhou in 2026, concurrently with the 12th China Visualization and Visual Analytics Conference (ChinaVis). This year's Arts Program includes: art exhibitions, student competitions, creative workshops, special lectures, and a series of exciting presentations initiated by artists, designers, and visualization scientists, aiming to explore the future directions and new horizons of visualization art.
+    The 13th China VIS Arts Program (China VISAP'25) will be held in Hangzhou in 2026, concurrently with the 13th China Visualization and Visual Analytics Conference (ChinaVis). This year's Arts Program includes: art exhibitions, student competitions, creative workshops, special lectures, and a series of exciting presentations initiated by artists, designers, and visualization scientists, aiming to explore the future directions and new horizons of visualization art.
 
     The theme "Tide of Myriad Phenomena" uses "tide" to symbolize the spirit of the times and "myriad phenomena" to represent the ceaseless changes that bridge past and present. Hangzhou is renowned for its tides and is further distinguished by its unique trio of UNESCO World Heritage sites (West Lake, the Grand Canal, and the Liangzhu Ancient City), establishing its coordinates in human civilization. From the Neolithic Liangzhu jade cong's totemic beliefs to the brushwork of the Southern Song Dynasty's "West Lake Scenes" and the looms of the Ming Dynasty's silk workshops, this city has always epitomized the pinnacle of Chinese classical aesthetics. Today, Hangzhou is reshaping the future as a digital civilization laboratory: Alibaba's e-commerce ecosystem and AntChain technologies have global reach, Westlake University leads in synthetic biology and AI-driven drug discovery, and the Yunqi Town cluster houses one-third of China's cloud computing power. It boasts the highest number of national industrial design centers (12% of the country's total) and has nurtured the intelligent electrification wave of Geely's Zeekr and Leapmotor. It is the birthplace of "Black Myth: Wukong," which pushes the boundaries of AAA games, and the incubator of the global AI open-source platform DeepSeek. While MCN agencies livestream commerce along the canal, digital nomads are using blockchain technology to revitalize rural heritage—tradition and future are seamlessly woven together here, much like how West Lake's landscapes merge with Qianjiang New City's skyline to compose a civilization epic of "Tide of Myriad Phenomena."
 

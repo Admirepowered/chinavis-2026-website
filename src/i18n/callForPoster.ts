@@ -72,7 +72,7 @@ export const en = {
   Title: "Call for Posters",
   Content: marked.parse(
     `
-    The 12th China Visualization and Visual Analytics Conference (ChinaVis 2026) will be held in Hangzhou from July 19th to 22nd, 2026. ChinaVis Poster Program aims to promote communication between scholars in visualization with interactive and dynamic presentation on the latest results and ideas of visualization research. The ChinaVis 2026 Poster Program encourages the submission of any work related to visualization, especially those that have not been officially published and are in progress, or published that can trigger new thinking through visualization. The Poster Program welcomes any topics in visualization and visual analytics, including but not limited to:
+    The 13th China Visualization and Visual Analytics Conference (ChinaVis 2026) will be held in Guiyang from July 19th to 22nd, 2026. ChinaVis Poster Program aims to promote communication between scholars in visualization with interactive and dynamic presentation on the latest results and ideas of visualization research. The ChinaVis 2026 Poster Program encourages the submission of any work related to visualization, especially those that have not been officially published and are in progress, or published that can trigger new thinking through visualization. The Poster Program welcomes any topics in visualization and visual analytics, including but not limited to:
 
     - Visualization and visual analysis theory
     - New methods of scientific visualization

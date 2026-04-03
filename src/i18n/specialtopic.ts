@@ -37,7 +37,7 @@ export const en = {
     `
     ## Introduction
 
-    The 12th China Visualization and Visual Analytics Conference (ChinaVis 2026) will be held in Hangzhou, China, 19 to 22 July 2026, hosted by China Society of Image and Graphics, Technical Committee on Visualization and Visual Analysis, Zhejiang University, Hangzhou Research Institute of AI and Holographic Technology, Hangzhou Dianzi University, China Academy of Art, Zhejiang University of Technology, Communication University of Zhejiang and Hangzhou City University with multiple sponsorships.
+    The 13th China Visualization and Visual Analytics Conference (ChinaVis 2026) will be held in Hangzhou, China, 19 to 22 July 2026, hosted by China Society of Image and Graphics, Technical Committee on Visualization and Visual Analysis, Zhejiang University, Hangzhou Research Institute of AI and Holographic Technology, Hangzhou Dianzi University, China Academy of Art, Zhejiang University of Technology, Communication University of Zhejiang and Hangzhou City University with multiple sponsorships.
 
     The special topics at the ChinaVis conference are designed to discuss state-of-the-art research progress and key challenges in visualization and visual analytics. In the past ChinaVis conferences, the topics of special sessions included visualization theory and methods, interaction technology, discipline development, education and popular science, interdisciplinary fields such as artificial intelligence and art design, as well as safety, space-time, industry applications and other aspects. In 2026, based on the topics selected in the past, further in-depth and expanded directions will be carried out, especially in the content of digital humanity, artificial intelligence, and visualization integration.
 
