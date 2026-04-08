@@ -3,6 +3,7 @@ import Program from "~/routes/2025/[locale]/program";
 
 export const zh = {
   Home: "首页",
+  CallForPaper: "征稿",
   Registration: "注册",
   Program: "会议议程",
   Paper: "论文",
@@ -24,6 +25,7 @@ export const zh = {
 
 export const en = {
   Home: "Home",
+  CallForPaper: "Call for Papers",
   Registration: "Registration",
   Program: "Program",
   Paper: "Paper",
