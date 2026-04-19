@@ -1,5 +1,5 @@
 import { A, useLocation } from "@solidjs/router";
-import { createEffect, createSignal, For } from "solid-js";
+import { createEffect, createSignal } from "solid-js";
 import { useWindowSize } from "@solid-primitives/resize-observer";
 
 import * as Dict from "~/i18n/navbar";
@@ -19,33 +19,6 @@ function ExternalNavLink(props: { title: string, href: string }) {
     <a href={props.href} class="px-6 lg:px-0 lg:mx-2 py-2 lg:py-0 leading-8 lg:inline-block block border-b lg:border-none border-b-gray-700 cursor-pointer relative after:content-[''] after:absolute after:left-0 after:bottom-[2px] after:w-full after:border-b-2 after:border-primary after:opacity-0 after:transition-opacity hover:after:opacity-100 [&.active]:after:opacity-100" target="_blank">
       {props.title}
     </a>
-  );
-}
-
-function DropdownNavLink(props: { title: string, items: { title: string, href: string }[] }) {
-  const [open, setOpen] = createSignal(false);
-
-  return (
-    <div
-      class="relative px-6 lg:px-0 lg:mx-2 border-b lg:border-none border-b-gray-700"
-      onMouseEnter={() => setOpen(true)}
-      onMouseLeave={() => setOpen(false)}
-    >
-      <span
-        class="py-2 lg:py-0 leading-8 flex items-center cursor-pointer relative after:content-[''] after:absolute after:left-0 after:bottom-[2px] after:translate-y-1 lg:after:translate-y-0 after:w-full after:border-b-2 after:border-primary after:opacity-0 after:transition-opacity hover:after:opacity-100"
-        onClick={() => setOpen(!open())}
-      >
-        {props.title}<span class="ml-1 text-xs opacity-70">▾</span>
-      </span>
-      <div
-        class="lg:absolute lg:top-full lg:left-0 lg:bg-black lg:shadow-lg lg:py-1 lg:min-w-max lg:z-50"
-        classList={{ "hidden": !open() }}
-      >
-        <For each={props.items}>{(item) =>
-          <a href={item.href} class="block py-1 lg:px-4 lg:py-2 text-sm hover:text-primary" target="_blank">{item.title}</a>
-        }</For>
-      </div>
-    </div>
   );
 }
 
@@ -102,11 +75,8 @@ export function Navbar() {
         <NavLink href={`/2026/${locale()}/`} title={t("Home")!} />
         <NavLink href={`/2026/${locale()}/callforpaper`} title={t("CallForPaper")!} />
         <NavLink href={`/2026/${locale()}/venue`} title={t("Venue")!} />
-        <DropdownNavLink title={t("History")!} items={[
-          { title: "ChinaVis 2025", href: "https://chinavis.org/2025/" },
-          { title: "ChinaVis 2024", href: "https://chinavis.org/2024/" },
-          { title: locale() === "en" ? "More" : "更多", href: `https://chinavis.org/history${locale() == "en" ? "_en" : ""}.html` },
-        ]} />
+        <NavLink href={`/2026/${locale()}/committee`} title={t("Committee")!} />
+        <ExternalNavLink href={`https://chinavis.org/history${locale() == "en" ? "_en" : ""}.html`} title={t("History")!} />
       </div>
 
       <div class="flex-none h-full flex flex-col justify-center">
