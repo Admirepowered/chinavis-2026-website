@@ -1,14 +1,10 @@
 import { marked } from "marked";
 
 export const zh = {
-  PageTitle: "论文项目 - ChinaVis 2026",
-  Title: "论文项目",
+  PageTitle: "征稿通知 - ChinaVis 2026",
+  Title: "征稿通知",
   Content: marked.parse(
     `
-    第十三届中国可视化与可视分析大会（ChinaVis 2026）
-
-    ## 论文项目
-
     第十三届中国可视化与可视分析大会（ChinaVis 2026）将于2026年7月19日至22日在贵阳举行。本次会议由中国图象图形学学会主办，可视化与可视分析专委会、贵阳学院（贵州文化遗产数字化保护与开发利用重点实验室）、贵州大学大数据与信息工程学院、贵州师范大学大数据学院、贵州民族大学数据科学与信息工程学院等承办，多家赞助单位协办。
 
     ## 投稿方式
@@ -56,27 +52,24 @@ export const zh = {
 
     ## 大会主席
 
-    张加万　天津大学
-    陈　为　浙江大学
+    **张 加 万**　天津大学<br>  
+    **陈　为**　浙江大学
 
     ## 论文主席
 
-    陈思明　复旦大学
-    俞凌云　西交利物浦大学
-    曾伟　香港科技大学（广州）
+    **陈 思 明**　复旦大学<br>  
+    **俞 凌 云**　西交利物浦大学<br>  
+    **曾 伟**　香港科技大学（广州）<br>
     `.replace(/^    /gm, ""),
     { async: false }
   ),
 };
 
 export const en = {
-  PageTitle: "Paper Track - ChinaVis 2026",
-  Title: "Paper Track",
+  PageTitle: "Call for Papers - ChinaVis 2026",
+  Title: "Call for Papers",
   Content: marked.parse(
     `
-    The 13th China Visualization and Visual Analytics Conference (ChinaVis 2026)
-
-    ## Paper Track
 
     The 13th China Visualization and Visual Analytics Conference (ChinaVis 2026) will be held in Guiyang, China, from July 19 to 22, 2026. The conference is hosted by the China Society of Image and Graphics, and organized by the Technical Committee on Visualization and Visual Analytics, Guiyang University (Key Laboratory of Digital Protection and Development Utilization of Guizhou Cultural Heritage), School of Big Data and Information Engineering of Guizhou University, School of Big Data of Guizhou Normal University, and School of Data Science and Information Engineering of Guizhou Minzu University, with support from multiple sponsors.
 
@@ -125,14 +118,14 @@ export const en = {
 
     ## Conference Chairs
 
-    Jiawan Zhang, Tianjin University
-    Wei Chen, Zhejiang University
+    Jiawan Zhang, Tianjin University<br>  
+    Wei Chen, Zhejiang University<br>  
 
     ## Paper Chairs
 
-    Siming Chen, Fudan University
-    Lingyun Yu, Xi'an Jiaotong-Liverpool University
-    Wei Zeng, The Hong Kong University of Science and Technology (Guangzhou)
+    Siming Chen, Fudan University <br>
+    Lingyun Yu, Xi'an Jiaotong-Liverpool University <br>
+    Wei Zeng, The Hong Kong University of Science and Technology (Guangzhou) <br>
     `.replace(/^    /gm, ""),
     { async: false }
   ),
