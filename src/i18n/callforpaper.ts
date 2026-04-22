@@ -52,14 +52,17 @@ export const zh = {
 
     ## 大会主席
 
-    **张　加　万**　天津大学<br>  
-    **陈　为**　浙江大学
+    **张加万** 天津大学  
+
+    **陈　为** 浙江大学
 
     ## 论文主席
 
-    **陈　思　明**　复旦大学<br>  
-    **俞　凌　云**　西交利物浦大学<br>  
-    **曾　伟**　香港科技大学（广州）<br>
+    **陈思明** 复旦大学  
+
+    **俞凌云** 西交利物浦大学 
+
+    **曾　伟** 香港科技大学（广州）
     `.replace(/^    /gm, ""),
     { async: false }
   ),
@@ -118,14 +121,18 @@ export const en = {
 
     ## Conference Chairs
 
-    Jiawan Zhang, Tianjin University<br>  
-    Wei Chen, Zhejiang University<br>  
+    Jiawan Zhang, Tianjin University 
+
+    Wei Chen, Zhejiang University 
 
     ## Paper Chairs
 
-    Siming Chen, Fudan University <br>
-    Lingyun Yu, Xi'an Jiaotong-Liverpool University <br>
-    Wei Zeng, The Hong Kong University of Science and Technology (Guangzhou) <br>
+    Siming Chen, Fudan University
+
+    Lingyun Yu, Xi'an Jiaotong-Liverpool University
+
+    Wei Zeng, The Hong Kong University of Science and Technology (Guangzhou)
+    
     `.replace(/^    /gm, ""),
     { async: false }
   ),
