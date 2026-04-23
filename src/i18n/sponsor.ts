@@ -5,54 +5,78 @@ export const zh = {
   Title: "诚招企业合作",
   Content: marked.parse(
     `
-    中国可视化与可视分析大会（ChinaVis）是国内最具规模的可视化专业领域盛会，至今已举办 11 届，参会人数每年上升，近年参会人数超过 600 人，产生了广泛的影响。第十三届中国可视化与可视分析大会（ChinaVis 2026）将于 2026 年 7 月 19 日 - 22 日在杭州举行，由中国图象图形学学会主办，可视化与可视分析专委会、浙江大学计算机辅助设计与图形系统全国重点实验室、杭州全息智能技术研究院、杭州电子科技大学、中国美术学院、浙江工业大学、浙江传媒学院、浙大城市学院等承办，多家赞助单位协办。
+    中国可视化与可视分析大会（ChinaVis）是国内规模最大、影响力最广的可视化专业顶级盛会之一，已成功举办 12 届，是产学研用对接的核心平台。
 
-    此刻，我们寻找志同道合者——诚征赞助单位，共同提升大会的规模和质量，并以此提高相关企业和机构在国内可视化领域的影响力，促进产学研用合作。
+    ## 大会核心价值
 
-    ## 赞助企业权益保障规则
+    ### 1. 600 + 精准行业人群
 
-    ### （1）各级别赞助商的通用赞助权益包括：
+    全国可视化、可视分析、数据科学、人工智能、图形图像领域的企业高管、技术负责人、科研专家齐聚，高效对接项目、合作、资源。
 
-    1. 在会议网站、会议手册和大会会场背板上显示企业LOGO；
-    2. 在大会开幕式或晚宴上，接受大会颁发的致谢奖牌；
-    3. 在会议资料包中发放企业介绍资料；
-    4. 会议期间不定期播放企业宣传视频；
-    5. 每个合作单位可自行携带一张易拉宝，用于现场企业宣传或招聘发布。
+    ### 2. 近百所高校深度参与
 
-    ### （2）不同赞助商的差异化权益如下：
+    全国近100 所重点高校派出专家、教授、优秀研究生与本科生参会，是企业技术交流、人才招聘、校企合作、实验室共建的绝佳机会。
 
-    #### 钻石赞助企业权益：
+    ### 3. 贵阳大数据高地加持
 
-    1.	6 个全注册名额；
-    2.	晚宴独家冠名权，企业代表坐主桌；
-    3.	1 个晚宴致辞（不超过 2 分钟）；
-    4.	在分论坛上做 20 分钟企业技术宣讲；
-    5.	2 个免费展位，供合作单位展示，特殊搭建费用自理；
-    6.	60 秒以内企业宣传视频循环播放。
+    落地中国算力与大数据核心城市，对接地方政企、数字经济项目，品牌影响力直达西南市场。
 
-    #### 金牌赞助企业权益：
+    ## 本届大会信息
 
-    1.	4 个全注册名额；
-    2.	在分论坛上做 15 分钟企业技术宣讲；
-    3.	2 个免费展位，供合作单位展示，特殊搭建费用自理；
-    4.	45 秒以内企业宣传视频循环播放。
+    - **名称**：第十三届中国可视化与可视分析大会（ChinaVis 2026）
+    - **时间**：2026年7月19日—22日
+    - **地点**：贵阳
+    - **主办**：中国图象图形学学会
+    - **承办**：可视化与可视分析专委会、贵阳学院（贵州文化遗产数字化保护与开发利用重点实验室）、贵州大学、贵州师范大学、贵州民族大学。
 
-    #### 银牌赞助企业权益：
+    ## 赞助尊享权益
 
-    1.	2 个全注册名额；
-    2.	在分论坛上做 10 分钟企业技术宣讲；
-    3.	1 个免费展位，供合作单位展示，特殊搭建费用自理；
-    4.	30 秒以内企业宣传视频循环播放。
+    ### 所有赞助商・通用权益
 
-    会议召开前将与赞助单位签约，以保障赞助单位权益。了解更详细的会议信息请访问会议网站：http://www.chinavis.org/2026/ 。请有意赞助的单位填写所附申请表发往如下邮箱：chinavissponsor@163.com。下载：<a href="/2026/sponsor/application.doc" target="_blank">ChinaVis 2026赞助申请表</a>。
+    - 会议官网、会议手册、会场背板 LOGO 展示
+    - 大会开幕式 / 晚宴 官方致谢奖牌
+    - 会议资料包 企业资料投放
+    - 会议期间 宣传视频循环播放
+    - 现场 1 个易拉宝 宣传 / 招聘位
 
-    申请截止：2026 年 7 月 10 日 北京时间下午 11:59
+    ### 钻石赞助（稀缺独家）
+
+    - 6 个免费全注册名额
+    - 晚宴独家冠名，企业代表主桌就座
+    - 晚宴 2 分钟致辞
+    - 分论坛 20 分钟企业技术宣讲
+    - 2 个免费标准展位
+    - 60 秒企业宣传视频循环播放
+
+    ### 金牌赞助
+
+    - 4 个免费全注册名额
+    - 分论坛 15 分钟企业技术宣讲
+    - 2 个免费标准展位
+    - 45 秒企业宣传视频循环播放
+
+    ### 银牌赞助
+
+    - 2 个免费全注册名额
+    - 分论坛 10 分钟企业技术宣讲
+    - 1 个免费标准展位
+    - 30 秒企业宣传视频循环播放
+
+    ## 合作保障
+
+    会前正式签约，所有权益白纸黑字落地，专人全程对接，确保品牌曝光与合作效果。
+
+    ## 立即合作
+
+    - **李毅**，电话 / 微信：15285012388
+    - 名额有限，先到先得，诚邀共筑可视化与可视分析领域顶级盛会！
+    - **截止时间**：2026 年 7 月 10 日 23:59
 
     ## 赞助主席
 
-    **董笑菊**　上海交通大学
+    **李　毅**　贵阳学院
 
-    **董建锋**　浙江工商大学
+    **董笑菊**　上海交通大学
   `.replace(/^    /gm, ""),
     { async: false }
   ),
@@ -64,54 +88,78 @@ export const en = {
     '<span style="font-size: 0.8em">The 13th China Visualization and Visual Analytics Conference (ChinaVis 2026)</span><br />Call for Sponsorship',
   Content: marked.parse(
     `
-    The China Visualization and Visual Analytics Conference (ChinaVis) is the largest professional event in the field of visualization in China. It has been held 11 times, with the number of participants increasing each year and exceeding 600 in recent years, generating a wide impact. The 13th China Visualization and Visual Analytics Conference (ChinaVis 2026) will be held in Hangzhou from July 19 to 22, 2026, hosted by the China Society of Image and Graphics, and co-organized by the Technical Committee on Visualization and Visual Analysis, State Key Lab of CAD&CG of Zhejiang University, Hangzhou Research Institute of AI and Holographic Technology, Hangzhou Dianzi University, China Academy of Art, Zhejiang University of Technology, Communication University of Zhejiang and Hangzhou City University, with support from multiple sponsors.
+    The China Visualization and Visual Analytics Conference (ChinaVis) is one of the largest and most influential top-level professional events in the field of visualization in China. It has been successfully held for 12 editions and serves as a core platform for connecting industry, academia, research, and application.
 
-    We are now seeking like-minded partners — sincerely inviting sponsors to join us in enhancing the scale and quality of the conference, increasing the influence of related enterprises and institutions in the domestic visualization field, and promoting industry-academia-research collaboration.
+    ## Core Value of the Conference
 
-    ## Sponsor Benefits and Policies
+    ### 1. 600+ targeted industry participants
 
-    ### (1) General benefits for all sponsorship levels:
+    Corporate executives, technical leaders, and research experts from the fields of visualization, visual analytics, data science, artificial intelligence, graphics, and imaging across the country gather here to efficiently connect projects, cooperation, and resources.
 
-    1. Display of company logo on the conference website, handbook, and main stage backdrop;
-    2. Acknowledgement plaque presented at the opening ceremony or banquet;
-    3. Distribution of company introduction materials in the conference package;
-    4. Company promotional videos played periodically during the conference;
-    5. Each partner may bring one roll-up banner for on-site promotion or recruitment.
+    ### 2. Deep participation from nearly 100 universities
 
-    ### (2) Additional benefits by sponsorship level:
+    Nearly 100 key universities across the country send experts, professors, outstanding graduate students, and undergraduate students to attend, making it an excellent opportunity for corporate technical exchange, talent recruitment, university-industry cooperation, and joint laboratory development.
 
-    #### Diamond Sponsor Benefits:
+    ### 3. Strong support from Guiyang, a hub for big data
 
-    1. 6 full registration passes;
-    2. Exclusive naming rights for the banquet, with company representatives seated at the main table;
-    3. 1 banquet speech (up to 2 minutes);
-    4. 20-minute technical presentation at a sub-forum;
-    5. 2 free exhibition booths (special booth construction costs borne by the sponsor);
-    6. Company promotional video (up to 60 seconds) played in a loop.
+    Located in one of China’s core cities for computing power and big data, the conference connects with local governments, enterprises, and digital economy projects, allowing brand influence to directly reach the Southwest China market.
 
-    #### Gold Sponsor Benefits:
+    ## Conference Information
 
-    1. 4 full registration passes;
-    2. 15-minute technical presentation at a sub-forum;
-    3. 2 free exhibition booths (special booth construction costs borne by the sponsor);
-    4. Company promotional video (up to 45 seconds) played in a loop.
+    - **Name**: The 13th China Visualization and Visual Analytics Conference (ChinaVis 2026)
+    - **Date**: July 19–22, 2026
+    - **Location**: Guiyang
+    - **Host**: China Society of Image and Graphics
+    - **Organizers**: Technical Committee on Visualization and Visual Analytics, Guiyang University (Key Laboratory of Digital Protection and Development Utilization of Guizhou Cultural Heritage), Guizhou University, Guizhou Normal University, Guizhou Minzu University.
 
-    #### Silver Sponsor Benefits:
+    ## Sponsorship Benefits
 
-    1. 2 full registration passes;
-    2. 10-minute technical presentation at a sub-forum;
-    3. 1 free exhibition booth (special booth construction costs borne by the sponsor);
-    4. Company promotional video (up to 30 seconds) played in a loop.
+    ### General benefits for all sponsors
 
-    A sponsorship agreement will be signed before the conference to ensure sponsor rights. For more detailed information, please visit the conference website: http://www.chinavis.org/2026/ . Interested sponsors, please fill out the attached application form and send it to: chinavissponsor@163.com. Download: <a href="/2026/sponsor/application.doc" target="_blank">ChinaVis 2026 Sponsorship Application Form</a>.
+    - Logo display on the conference website, conference handbook, and venue backdrop
+    - Official acknowledgement plaque at the conference opening ceremony / banquet
+    - Distribution of corporate materials in the conference package
+    - Loop playback of promotional videos during the conference
+    - 1 on-site roll-up banner space for promotion / recruitment
 
-    Application deadline: July 10, 2026, 11:59 PM Beijing Time
+    ### Diamond Sponsorship (rare and exclusive)
+
+    - 6 complimentary full registration passes
+    - Exclusive banquet naming rights, with company representatives seated at the main table
+    - 2-minute banquet speech
+    - 20-minute corporate technical presentation in a parallel forum
+    - 2 complimentary standard booths
+    - Loop playback of a 60-second corporate promotional video
+
+    ### Gold Sponsorship
+
+    - 4 complimentary full registration passes
+    - 15-minute corporate technical presentation in a parallel forum
+    - 2 complimentary standard booths
+    - Loop playback of a 45-second corporate promotional video
+
+    ### Silver Sponsorship
+
+    - 2 complimentary full registration passes
+    - 10-minute corporate technical presentation in a parallel forum
+    - 1 complimentary standard booth
+    - Loop playback of a 30-second corporate promotional video
+
+    ## Cooperation Guarantee
+
+    A formal agreement will be signed before the conference. All benefits will be clearly specified in writing, and dedicated staff will provide full-process support to ensure brand exposure and cooperation outcomes.
+
+    ## Join Us
+
+    - **Yi Li**, Tel / WeChat: 15285012388
+    - Slots are limited and available on a first-come, first-served basis. We sincerely invite you to join us in building a top-level event in the field of visualization and visual analytics!
+    - **Deadline**: July 10, 2026, 23:59
 
     ## Sponsorship Chairs
 
-    **Xiaoju Dong**, Shanghai Jiao Tong University
+    **Yi Li**, Guiyang University
 
-    **Jianfeng Dong**, Zhejiang Gongshang University
+    **Xiaoju Dong**, Shanghai Jiao Tong University
     `.replace(/^    /gm, ""),
     { async: false }
   ),
