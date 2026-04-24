@@ -9,9 +9,9 @@
 }
 
 .page h3 {
-  @apply relative font-bold mt-2 pb-1 w-fit underline -underline-offset-6 decoration-14;
+  @apply relative font-bold mt-2 pb-1 w-fit;
   text-decoration-skip-ink: none;
-  text-decoration-color: color-mix(in oklab, var(--color-primary) 30%, white);
+  text-decoration-color: color-mix(in oklab, var(--color-green-700) 30%, white);
 }
 
 .page h4 {
