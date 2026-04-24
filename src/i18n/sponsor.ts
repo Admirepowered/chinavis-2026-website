@@ -85,7 +85,7 @@ export const zh = {
 export const en = {
   PageTitle: "Sponsorship - ChinaVis 2026",
   Title:
-    '<span style="font-size: 0.8em">The 13th China Visualization and Visual Analytics Conference (ChinaVis 2026)</span><br />Call for Sponsorship',
+    'The 13th China Visualization and Visual Analytics Conference (ChinaVis 2026)',
   Content: marked.parse(
     `
     The China Visualization and Visual Analytics Conference (ChinaVis) is one of the largest and most influential top-level professional events in the field of visualization in China. It has been successfully held for 12 editions and serves as a core platform for connecting industry, academia, research, and application.
