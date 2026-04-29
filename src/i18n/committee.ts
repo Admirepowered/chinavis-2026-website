@@ -46,13 +46,10 @@ import PhotoYLY from "~/assets/committee/yly.avif?inline";
 import PhotoZW from "~/assets/committee/zw.avif?inline";
 import PhotoLF from "~/assets/committee/lf.avif?inline";
 import PhotoLFU from "~/assets/committee/lfu.avif?inline";
-import PhotoHKD from "~/assets/committee/hkd.avif?inline";
 import PhotoHYJ from "~/assets/committee/hyj.avif?inline";
 import PhotoOYBC from "~/assets/committee/oybc.avif?inline";
 import PhotoZLC from "~/assets/committee/zlc.avif?inline";
-import PhotoLVJ from "~/assets/committee/lvj.avif?inline";
 import PhotoST from "~/assets/committee/st.avif?inline";
-import PhotoLS from "~/assets/committee/ls.avif?inline";
 import PhotoCG from "~/assets/committee/cg.avif?inline";
 import PhotoSW from "~/assets/committee/sw.avif?inline";
 import PhotoDZH from "~/assets/committee/dzh.avif?inline";
@@ -444,14 +441,6 @@ export const committee: {
         photo: PhotoLFU,
       },
       {
-        name: { zh: "何凯迪", en: "Kaidi He" },
-        affiliation: {
-          zh: "云景文旅科技有限公司",
-          en: "Yunjing Cultural Tourism Technology Co., Ltd.",
-        },
-        photo: PhotoHKD,
-      },
-      {
         name: { zh: "霍雨佳", en: "Yujia Huo" },
         affiliation: { zh: "贵州民族大学", en: "Guizhou Minzu University" },
         photo: PhotoHYJ,
@@ -467,19 +456,9 @@ export const committee: {
         photo: PhotoZLC,
       },
       {
-        name: { zh: "吕健", en: "Jian Lv" },
-        affiliation: { zh: "贵州大学", en: "Guizhou University" },
-        photo: PhotoLVJ,
-      },
-      {
         name: { zh: "宋滔", en: "Tao Song" },
         affiliation: { zh: "贵阳学院", en: "Guiyang University" },
         photo: PhotoST,
-      },
-      {
-        name: { zh: "刘松", en: "Song Liu" },
-        affiliation: { zh: "贵阳学院", en: "Guiyang University" },
-        photo: PhotoLS,
       },
       {
         name: { zh: "陈刚", en: "Gang Chen" },
