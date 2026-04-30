@@ -53,6 +53,9 @@ import PhotoST from "~/assets/committee/st.avif?inline";
 import PhotoCG from "~/assets/committee/cg.avif?inline";
 import PhotoSW from "~/assets/committee/sw.avif?inline";
 import PhotoDZH from "~/assets/committee/dzh.avif?inline";
+import PhotoLongJuanjuan from "~/assets/committee/longjuanjuan.avif?inline";
+import PhotoLuJian from "~/assets/committee/lujian.avif?inline";
+import PhotoLiuSong from "~/assets/committee/liusong.avif?inline";
 
 export const zh = {
   PageTitle: "委员会成员 - ChinaVis 2026",
@@ -106,6 +109,72 @@ export const committee: {
     ],
   },
   {
+    role: { zh: "组织委员会委员", en: "Organizing Committee Members" },
+    members: [
+      {
+        name: { zh: "李飞", en: "Fei Li" },
+        affiliation: {
+          zh: "贵州省文物考古研究所",
+          en: "Guizhou Provincial Institute of Cultural Relics and Archaeology",
+        },
+        photo: PhotoLF,
+      },
+      {
+        name: { zh: "李甫", en: "Fu Li" },
+        affiliation: {
+          zh: "贵州省博物馆",
+          en: "Guizhou Provincial Museum",
+        },
+        photo: PhotoLFU,
+      },
+      {
+        name: { zh: "霍雨佳", en: "Yujia Huo" },
+        affiliation: { zh: "贵州民族大学", en: "Guizhou Minzu University" },
+        photo: PhotoHYJ,
+      },
+      {
+        name: { zh: "欧阳柏成", en: "Baicheng Ouyang" },
+        affiliation: { zh: "贵阳学院", en: "Guiyang University" },
+        photo: PhotoOYBC,
+      },
+      {
+        name: { zh: "赵林畅", en: "Linchang Zhao" },
+        affiliation: { zh: "贵阳学院", en: "Guiyang University" },
+        photo: PhotoZLC,
+      },
+      {
+        name: { zh: "宋滔", en: "Tao Song" },
+        affiliation: { zh: "贵阳学院", en: "Guiyang University" },
+        photo: PhotoST,
+      },
+      {
+        name: { zh: "陈刚", en: "Gang Chen" },
+        affiliation: { zh: "贵阳学院", en: "Guiyang University" },
+        photo: PhotoCG,
+      },
+      {
+        name: { zh: "孙武", en: "Wu Sun" },
+        affiliation: { zh: "贵阳学院", en: "Guiyang University" },
+        photo: PhotoSW,
+      },
+      {
+        name: { zh: "丁泽华", en: "Zehua Ding" },
+        affiliation: { zh: "贵阳学院", en: "Guiyang University" },
+        photo: PhotoDZH,
+      },
+      {
+        name: { zh: "吕健", en: "Jian Lu" },
+        affiliation: { zh: "贵州大学", en: "Guizhou University" },
+        photo: PhotoLuJian,
+      },
+      {
+        name: { zh: "刘松", en: "Song Liu" },
+        affiliation: { zh: "贵阳学院", en: "Guiyang University" },
+        photo: PhotoLiuSong,
+      }
+    ],
+  },
+  {
     role: { zh: "宣传主席", en: "Publicity Chairs" },
     members: [
       {
@@ -117,9 +186,9 @@ export const committee: {
         photo: PhotoZF,
       },
       {
-        name: { zh: "黄竹兰", en: "Zhulan Huang" },
-        affiliation: { zh: "贵阳学院", en: "Guiyang University" },
-        photo: PhotoHZL,
+        name: { zh: "龙涓涓", en: "Juanjuan Long" },
+        affiliation: { zh: "江南大学", en: "Jiangnan University" },
+        photo: PhotoLongJuanjuan,
       },
     ],
   },
@@ -280,6 +349,11 @@ export const committee: {
         affiliation: { zh: "上海大学", en: "Shanghai University" },
         photo: PhotoLQS,
       },
+      {
+        name: { zh: "黄竹兰", en: "Zhulan Huang" },
+        affiliation: { zh: "贵阳学院", en: "Guiyang University" },
+        photo: PhotoHZL,
+      },
     ],
   },
   {
@@ -421,60 +495,5 @@ export const committee: {
       },
     ],
   },
-  {
-    role: { zh: "组织委员会委员", en: "Organizing Committee Members" },
-    members: [
-      {
-        name: { zh: "李飞", en: "Fei Li" },
-        affiliation: {
-          zh: "贵州省文物考古研究所",
-          en: "Guizhou Provincial Institute of Cultural Relics and Archaeology",
-        },
-        photo: PhotoLF,
-      },
-      {
-        name: { zh: "李甫", en: "Fu Li" },
-        affiliation: {
-          zh: "贵州省博物馆",
-          en: "Guizhou Provincial Museum",
-        },
-        photo: PhotoLFU,
-      },
-      {
-        name: { zh: "霍雨佳", en: "Yujia Huo" },
-        affiliation: { zh: "贵州民族大学", en: "Guizhou Minzu University" },
-        photo: PhotoHYJ,
-      },
-      {
-        name: { zh: "欧阳柏成", en: "Baicheng Ouyang" },
-        affiliation: { zh: "贵阳学院", en: "Guiyang University" },
-        photo: PhotoOYBC,
-      },
-      {
-        name: { zh: "赵林畅", en: "Linchang Zhao" },
-        affiliation: { zh: "贵阳学院", en: "Guiyang University" },
-        photo: PhotoZLC,
-      },
-      {
-        name: { zh: "宋滔", en: "Tao Song" },
-        affiliation: { zh: "贵阳学院", en: "Guiyang University" },
-        photo: PhotoST,
-      },
-      {
-        name: { zh: "陈刚", en: "Gang Chen" },
-        affiliation: { zh: "贵阳学院", en: "Guiyang University" },
-        photo: PhotoCG,
-      },
-      {
-        name: { zh: "孙武", en: "Wu Sun" },
-        affiliation: { zh: "贵阳学院", en: "Guiyang University" },
-        photo: PhotoSW,
-      },
-      {
-        name: { zh: "丁泽华", en: "Zehua Ding" },
-        affiliation: { zh: "贵阳学院", en: "Guiyang University" },
-        photo: PhotoDZH,
-      },
-    ],
-  },
+
 ];
