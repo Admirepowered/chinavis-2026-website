@@ -56,6 +56,10 @@ import PhotoDZH from "~/assets/committee/dzh.avif?inline";
 import PhotoLongJuanjuan from "~/assets/committee/longjuanjuan.avif?inline";
 import PhotoLuJian from "~/assets/committee/lujian.avif?inline";
 import PhotoLiuSong from "~/assets/committee/liusong.avif?inline";
+import PhotoXuJin from "~/assets/committee/xujin.avif?inline";
+import PhotoChenJing from "~/assets/committee/chenjing.avif?inline";
+import PhotoZhangJunjie from "~/assets/committee/zhangjunjie.avif?inline";
+import PhotoHanJun from "~/assets/committee/hanjun.avif?inline";
 
 export const zh = {
   PageTitle: "委员会成员 - ChinaVis 2026",
@@ -460,12 +464,35 @@ export const committee: {
     ],
   },
   {
-    role: { zh: "可视分析竞赛主席", en: "Data Challenge Chair" },
+    role: { zh: "可视分析竞赛主席", en: "Data Challenge Chairs" },
     members: [
       {
         name: { zh: "张慧杰", en: "Huijie Zhang" },
         affiliation: { zh: "东北师范大学", en: "Northeast Normal University" },
         photo: PhotoZHJ,
+      },
+      {
+        name: { zh: "徐进", en: "Jin Xu" },
+        affiliation: { zh: "杭州师范大学", en: "Hangzhou Normal University" },
+        photo: PhotoXuJin,
+      },
+      {
+        name: { zh: "陈静", en: "Jing Chen" },
+        affiliation: { zh: "南京大学", en: "Nanjing University" },
+        photo: PhotoChenJing,
+      },
+      {
+        name: { zh: "张俊杰", en: "Junjie Zhang" },
+        affiliation: {
+          zh: "香港科技大学（广州）",
+          en: "Hong Kong University of Science and Technology (Guangzhou)",
+        },
+        photo: PhotoZhangJunjie,
+      },
+      {
+        name: { zh: "韩俊", en: "Jun Han" },
+        affiliation: { zh: "香港科技大学", en: "Hong Kong University of Science and Technology" },
+        photo: PhotoHanJun,
       },
     ],
   },
