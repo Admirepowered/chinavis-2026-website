@@ -464,13 +464,18 @@ export const committee: {
     ],
   },
   {
-    role: { zh: "可视分析竞赛主席", en: "Data Challenge Chairs" },
+    role: { zh: "可视分析竞赛主席", en: "Data Challenge Chair" },
     members: [
       {
         name: { zh: "张慧杰", en: "Huijie Zhang" },
         affiliation: { zh: "东北师范大学", en: "Northeast Normal University" },
         photo: PhotoZHJ,
       },
+    ],
+  },
+  {
+    role: { zh: "可视分析竞赛委员", en: "Data Challenge Committee Members" },
+    members: [
       {
         name: { zh: "徐进", en: "Jin Xu" },
         affiliation: { zh: "杭州师范大学", en: "Hangzhou Normal University" },
