@@ -353,6 +353,11 @@ export const committee: {
         affiliation: { zh: "上海大学", en: "Shanghai University" },
         photo: PhotoLQS,
       },
+    ],
+  },
+  {
+    role: { zh: "形象设计主席", en: "Visual Identity Design Chair" },
+    members: [
       {
         name: { zh: "黄竹兰", en: "Zhulan Huang" },
         affiliation: { zh: "贵阳学院", en: "Guiyang University" },
