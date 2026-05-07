@@ -30,6 +30,7 @@ import PhotoTJ from "~/assets/committee/tj.avif?inline";
 import PhotoWF from "~/assets/committee/wf.avif?inline";
 import PhotoLL from "~/assets/committee/ll.avif?inline";
 import PhotoWCS from "~/assets/committee/wcs.avif?inline";
+import PhotoWCB from "~/assets/committee/wcb.avif?inline";
 import PhotoCXJ from "~/assets/committee/cxj.avif?inline";
 import PhotoZY from "~/assets/committee/zy.avif?inline";
 import PhotoZYU from "~/assets/committee/zyu.avif?inline";
@@ -452,6 +453,21 @@ export const committee: {
         name: { zh: "刘日晨", en: "Richen Liu" },
         affiliation: { zh: "南京师范大学", en: "Nanjing Normal University" },
         photo: PhotoLRC,
+      },
+    ],
+  },
+  {
+    role: { zh: "课程主席", en: "Course Chairs" },
+    members: [
+      {
+        name: { zh: "王长波", en: "Changbo Wang" },
+        affiliation: { zh: "华东师范大学", en: "East China Normal University" },
+        photo: PhotoWCB,
+      },
+      {
+        name: { zh: "龙涓涓", en: "Juanjuan Long" },
+        affiliation: { zh: "江南大学", en: "Jiangnan University" },
+        photo: PhotoLongJuanjuan,
       },
     ],
   },
