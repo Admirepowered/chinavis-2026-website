@@ -61,7 +61,6 @@ import PhotoXuJin from "~/assets/committee/xujin.avif?inline";
 import PhotoChenJing from "~/assets/committee/chenjing.avif?inline";
 import PhotoZhangJunjie from "~/assets/committee/zhangjunjie.avif?inline";
 import PhotoHanJun from "~/assets/committee/hanjun.avif?inline";
-import PhotoWYC from "~/assets/committee/wyc.avif?inline";
 import PhotoCN from "~/assets/committee/cn.avif?inline";
 import PhotoTYB from "~/assets/committee/tyb.avif?inline";
 import PhotoCQ from "~/assets/committee/cq.avif?inline";
@@ -699,13 +698,23 @@ export const committee: {
     ],
   },
   {
-    role: { zh: "PANEL主席", en: "Panel Chairs" },
+    role: { zh: "Fast Forward主席", en: "Fast Forward Chairs" },
     members: [
       {
-        name: { zh: "巫英才", en: "Yingcai Wu" },
-        affiliation: { zh: "浙江大学", en: "Zhejiang University" },
-        photo: PhotoWYC,
+        name: { zh: "曾琼", en: "Qiong Zeng" },
+        affiliation: { zh: "山东大学", en: "Shandong University" },
+        photo: PhotoZQ,
       },
+      {
+        name: { zh: "张怡", en: "Yi Zhang" },
+        affiliation: { zh: "天津大学", en: "Tianjin University" },
+        photo: PhotoZY,
+      },
+    ],
+  },
+  {
+    role: { zh: "PANEL主席", en: "Panel Chairs" },
+    members: [
       {
         name: { zh: "曹楠", en: "Nan Cao" },
         affiliation: { zh: "同济大学", en: "Tongji University" },
