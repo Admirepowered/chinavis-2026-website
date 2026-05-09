@@ -56,7 +56,7 @@ import PhotoSW from "~/assets/committee/sw.avif?inline";
 import PhotoDZH from "~/assets/committee/dzh.avif?inline";
 import PhotoLongJuanjuan from "~/assets/committee/longjuanjuan.avif?inline";
 import PhotoLuJian from "~/assets/committee/lujian.avif?inline";
-import PhotoLiuSong from "~/assets/committee/liusong.avif?inline";
+import PhotoLiuSong from "~/assets/committee/liusong.jpg?inline";
 import PhotoXuJin from "~/assets/committee/xujin.avif?inline";
 import PhotoChenJing from "~/assets/committee/chenjing.avif?inline";
 import PhotoZhangJunjie from "~/assets/committee/zhangjunjie.avif?inline";
