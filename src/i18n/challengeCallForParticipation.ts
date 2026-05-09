@@ -212,7 +212,7 @@ export const en = {
     
     ### Track 1: Data Visualization Challenge
     
-    #### Track I: Data Visual Analytics and Humanities & Creativity Competition
+    #### I: Data Visual Analytics and Humanities & Creativity Competition
     
     Peking Opera (Jingju), as an important representative of traditional Chinese performing arts, integrates multiple elements including literature, performance, music, fine arts, and historical culture, carrying rich character development, narrative structures, and cultural expressions. A large number of Peking Opera scripts not only record the evolution process of classical stage art but also reflect social concepts, value systems, and aesthetic characteristics across different historical periods. With the advancement of digital preservation efforts, the scale and completeness of Peking Opera script text data continue to improve, providing new opportunities for computational analysis and visualization research of traditional opera.
     
