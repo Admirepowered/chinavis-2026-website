@@ -16,7 +16,6 @@ export const zh = {
     ## 重要日期
 
     - 提交截止：2026 年 6 月 7 日 北京时间下午 11:59
-
     - 结果通知：2026 年 6 月 14 日 北京时间下午 11:59
 
     ## 联系人
@@ -55,7 +54,6 @@ export const en = {
     ## Important Dates
 
     - Submission Deadline: June 7, 2026, 11:59 PM (Beijing Time)
-
     - Notification of Acceptance: June 14, 2026, 11:59 PM (Beijing Time)
 
     ## Chairs

@@ -9,15 +9,15 @@ export const zh = {
 
     ## 大会核心价值
 
-    ### 1. 600 + 精准行业人群
+    <h3 style="margin-left: 2rem;">1. 600 + 精准行业人群</h3>
 
     全国可视化、可视分析、数据科学、人工智能、图形图像领域的企业高管、技术负责人、科研专家齐聚，高效对接项目、合作、资源。
 
-    ### 2. 近百所高校深度参与
+    <h3 style="margin-left: 2rem;">2. 近百所高校深度参与</h3>
 
     全国近100 所重点高校派出专家、教授、优秀研究生与本科生参会，是企业技术交流、人才招聘、校企合作、实验室共建的绝佳机会。
 
-    ### 3. 贵阳大数据高地加持
+    <h3 style="margin-left: 2rem;">3. 贵阳大数据高地加持</h3>
 
     落地中国算力与大数据核心城市，对接地方政企、数字经济项目，品牌影响力直达西南市场。
 
@@ -92,15 +92,15 @@ export const en = {
 
     ## Core Value of the Conference
 
-    ### 1. 600+ targeted industry participants
+    <h3 style="margin-left: 2rem;">1. 600+ targeted industry participants</h3>
 
     Corporate executives, technical leaders, and research experts from the fields of visualization, visual analytics, data science, artificial intelligence, graphics, and imaging across the country gather here to efficiently connect projects, cooperation, and resources.
 
-    ### 2. Deep participation from nearly 100 universities
+    <h3 style="margin-left: 2rem;">2. Deep participation from nearly 100 universities</h3>
 
     Nearly 100 key universities across the country send experts, professors, outstanding graduate students, and undergraduate students to attend, making it an excellent opportunity for corporate technical exchange, talent recruitment, university-industry cooperation, and joint laboratory development.
 
-    ### 3. Strong support from Guiyang, a hub for big data
+    <h3 style="margin-left: 2rem;">3. Strong support from Guiyang, a hub for big data</h3>
 
     Located in one of China’s core cities for computing power and big data, the conference connects with local governments, enterprises, and digital economy projects, allowing brand influence to directly reach the Southwest China market.
 
