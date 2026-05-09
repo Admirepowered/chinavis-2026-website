@@ -25,7 +25,7 @@ export const zh = {
     
     请参赛者任选以下任务中的一个完成。
     
-    ##### 任务一：「戏韵万象」京剧数据可视分析赛
+    **任务一：「戏韵万象」京剧数据可视分析赛**
     
     - 基于剧本中角色的性别、年龄、身份、性格描述及唱念做打等表演提示，推断未标注角色的行当归属（如生、旦、净、丑及其细分支），并分析角色特征与行当分类之间的典型对应模式。进一步结合剧本创作年代或历史时期背景，利用数据分析和可视化等手段，探究不同时期角色-行当对应关系的变化规律（建议文字不超过800字，图片不超过5张）。
     - 请识别剧本中主要角色之间的互动关系，构建角色关系网络，并分析不同剧目（历史戏、家庭戏、公案戏等）中的角色关系网络结构特征（建议文字不超过800字，图片不超过5张）。
@@ -33,7 +33,7 @@ export const zh = {
     - 请基于剧本中表演形式的标记以及剧本内容等对剧本的叙事结构进行系统分析，识别剧情发展中的关键阶段，刻画剧情起伏与节奏变化。进一步比较不同剧本在叙事结构上的差异，总结典型叙事模式及其结构特征（建议文字不超过800字，图片不超过5张）。
     - 请在前述分析基础上，综合角色关系、主题结构与叙事结构，系统分析三者之间的关联机制与差异特征。例如，探讨特定角色关系如何承载和推动主题表达，主题结构如何影响叙事策略与剧情组织，以及不同叙事方式又如何重塑角色关系的呈现与演化。通过构建可交互的可视分析系统，探索人物关系、主题表达与叙事方式之间是否存在典型的关联模式、协同演化规律或稳定结构特征。（建议文字不超过800字，图片不超过5张）
     
-    ##### 任务二：「戏韵千秋」京剧人文可视化创意赛
+    **任务二：「戏韵千秋」京剧人文可视化创意赛**
     
     以“京剧文化的数字传承与智能表达”为主题，邀请参赛选手基于大赛提供的京剧剧本文本数据集或自选扩展数据集开展相关分析与创意设计，并在规定时间内完成作品。
     
@@ -98,6 +98,7 @@ export const zh = {
     **提交入口：**
     
     **赛道1作品提交链接：** **即将发布**
+    
     **赛道2作品提交链接：** **即将发布**
     
     - 提交信息包括：参赛队伍编号、作品赛道及主题、作品名称、作品摘要（100字）以及作品提交内容。
@@ -221,7 +222,7 @@ export const en = {
     
     Participants may choose one of the following tasks to complete.
     
-    ##### Task One: 「Opera Rhyme, Myriad Phenomena」 Peking Opera Visual Analytics Competition
+    **Task One: 「Opera Rhyme, Myriad Phenomena」 Peking Opera Visual Analytics Competition**
     
     - Based on characters' gender, age, identity, personality descriptions, and performance cues (singing, recitation, acting, combat) in the scripts, infer the unlabeled role types (hangdang) of characters (such as Sheng, Dan, Jing, Chou and their subcategories), and analyze typical correspondence patterns between character features and role type classifications. Further, combined with the script creation period or historical background, use data analysis and visualization methods to explore the changing patterns of character-role type correspondence across different periods (recommended text: no more than 800 words; images: no more than 5).
     - Identify interaction relationships among major characters in the scripts, construct character relationship networks, and analyze the structural characteristics of character relationship networks in different types of plays (historical plays, family plays, court case plays, etc.) (recommended text: no more than 800 words; images: no more than 5).
@@ -229,7 +230,7 @@ export const en = {
     - Based on performance form markers and script content, conduct systematic analysis of the narrative structure of scripts, identify key stages in plot development, and characterize plot fluctuations and pacing changes. Further compare differences in narrative structure among different scripts, and summarize typical narrative patterns and their structural characteristics (recommended text: no more than 800 words; images: no more than 5).
     - Building upon the above analyses, comprehensively analyze the association mechanisms and differential characteristics among character relationships, thematic structure, and narrative structure. For example, explore how specific character relationships carry and drive thematic expression, how thematic structure influences narrative strategies and plot organization, and how different narrative approaches reshape the presentation and evolution of character relationships. By constructing an interactive visual analytics system, explore whether there are typical association patterns, co-evolutionary laws, or stable structural characteristics among character relationships, thematic expression, and narrative approaches (recommended text: no more than 800 words; images: no more than 5).
     
-    ##### Task Two: 「Opera Rhyme, Millennia of Heritage」 Peking Opera Visualization Creativity Competition
+    **Task Two: 「Opera Rhyme, Millennia of Heritage」 Peking Opera Visualization Creativity Competition**
     
     With the theme "Digital Heritage and Intelligent Expression of Peking Opera Culture," this task invites participants to conduct relevant analysis and creative design based on the Peking Opera script text dataset provided by the competition or self-selected extended datasets, and to complete their works within the specified timeframe.
     
@@ -293,8 +294,8 @@ export const en = {
     
     **Submission portals:**
     
-    - **Track 1 work submission link:** Coming soon
-    - **Track 2 work submission link:** Coming soon
+    **Track 1 work submission link:** Coming soon
+    **Track 2 work submission link:** Coming soon
     
     - Submission information includes: Team number, competition track and theme, work title, work abstract (100 words), and work submission content.
     - To update your work, please resubmit using the same team number. The last submission under the same team number and team name will be considered final. The work title will be based on the last submission and work description document.
