@@ -20,6 +20,8 @@ export default defineConfig({
         "/2026/en/venue",
         "/2026/zh/challenge",
         "/2026/en/challenge",
+        "/2026/zh/challenge_call_for_participation",
+        "/2026/en/challenge_call_for_participation",
         "/2026/zh/volunteer",
         "/2026/en/volunteer",
         "/2026/zh/doctoralcolloquium",
