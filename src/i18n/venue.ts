@@ -28,15 +28,15 @@ export const zh = {
     **高级大床房：**
     
     <div class="wide_image" style="display: flex; gap: 8px; justify-content: center; align-items: center; max-width: 900px; margin: 25px auto;">
-      <img src="{{ vipKing1Image }}" alt="贵州饭店·贵宾楼高级大床房1" style="width: calc(50% - 4px); max-height: 360px; object-fit: cover;" />
+      <img src="{{ vipKing1Image }}" alt="贵州饭店·贵宾楼高级大床房" style="width: calc(50% - 4px); max-height: 360px; object-fit: cover;" />
       <img src="{{ vipKing2Image }}" alt="贵州饭店·贵宾楼高级大床房2" style="width: calc(50% - 4px); max-height: 360px; object-fit: cover;" />
     </div>
     
     **高级双床房：**
     
     <div class="wide_image" style="display: flex; gap: 8px; justify-content: center; align-items: center; max-width: 900px; margin: 25px auto;">
-      <img src="{{ vipTwin1Image }}" alt="贵州饭店·贵宾楼高级双床房1" style="width: calc(50% - 4px); max-height: 360px; object-fit: cover;" />
-      <img src="{{ vipTwin2Image }}" alt="贵州饭店·贵宾楼高级双床房2" style="width: calc(50% - 4px); max-height: 360px; object-fit: cover;" />
+      <img src="{{ vipTwin1Image }}" alt="贵州饭店·贵宾楼高级双床房" style="width: calc(50% - 4px); max-height: 360px; object-fit: cover;" />
+      <img src="{{ vipTwin2Image }}" alt="贵州饭店·贵宾楼高级双床房" style="width: calc(50% - 4px); max-height: 360px; object-fit: cover;" />
     </div>
     
     ### （二）贵州饭店·迎宾楼
@@ -48,8 +48,8 @@ export const zh = {
     **大床房/双床房 协议价：** 450元/晚（含双早）
     
     <div class="wide_image" style="display: flex; gap: 8px; justify-content: center; align-items: center; max-width: 900px; margin: 25px auto;">
-      <img src="{{ yingbinRoom1Image }}" alt="贵州饭店·迎宾楼房间1" style="width: calc(50% - 4px); max-height: 360px; object-fit: cover;" />
-      <img src="{{ yingbinRoom2Image }}" alt="贵州饭店·迎宾楼房间2" style="width: calc(50% - 4px); max-height: 360px; object-fit: cover;" />
+      <img src="{{ yingbinRoom1Image }}" alt="贵州饭店·迎宾楼房间" style="width: calc(50% - 4px); max-height: 360px; object-fit: cover;" />
+      <img src="{{ yingbinRoom2Image }}" alt="贵州饭店·迎宾楼房间" style="width: calc(50% - 4px); max-height: 360px; object-fit: cover;" />
     </div>
     
     ## 乘车路线
@@ -79,109 +79,75 @@ export const zh = {
 export const en = {
   PageTitle: "Venue & Hotels - ChinaVis 2026",
   Title: "Conference Venue & Hotels",
+  // language=HTML
   Content: marked.parse(
     `
     ## Conference Venue
 
-    **Hotel:** Wenlan Hotel Northern Hangzhou
-
-    **Address:** No. 566 Moganshan Road, Gongshu District, Hangzhou
-
-    **Phone:** 0571-88003888
-
-      <img src="{{ wenlaiBuildingImage }}" alt="Wenlan Hotel Northern Hangzhou" style="width: 100%; max-width: 600px; margin: 25px auto; display: block;" />
-
-    ## Hotel Reservation
-
-    **Booking Process for Wenlan Hotel Northern Hangzhou (Conference Hotel):**
-
-    Scan the QR code below → Log in with phone number and verification code → Select check-in and check-out dates → Choose room type and number of rooms → Enter guest name + phone number → Pay the first night's room fee (deposit) → Booking successful
-
-    <img src="{{ wenlaiQrCodeImage }}" alt="QR Code" style="width: 100%; max-width: 150px; margin: 25px auto; display: block;" />
-
+    **Hotel:** Guizhou Hotel
+    
+    **Address:** Guizhou Hotel International Conference Center, No. 66 Beijing Road, Yunyan District, Guiyang, Guizhou Province
+    
+    <img src="{{ venueCenterImage }}" alt="Guizhou Hotel International Conference Center" style="width: 100%; max-width: 600px; margin: 25px auto; display: block;" />
+    
     ## Hotel Information
-
-    ### (1) Wenlan Hotel Northern Hangzhou (Conference Hotel)
-
-    **Location:** No. 566 Moganshan Road, Gongshu District, Hangzhou
-
-    **Contact Person:** Manager Xu 18657181139
-
-    **King/Twin Room Conference Rate:** 450 RMB/night (with single breakfast), 500 RMB/night (with double breakfast)
-
-    The hotel is located on Moganshan Road in Gongshu District, Hangzhou, adjacent to the Joy City shopping center. It is 12 km from Hangzhou East Railway Station, 17 km from Hangzhou West Railway Station, 39 km from Xiaoshan International Airport, and 12 km from Hangzhou Railway Station.
-
-    <div class="wide_image">
-      <img src="{{ wenlaiLobbyImage }}" alt="Wenlan Hotel Northern Hangzhou Lobby"/>
+    
+    ### (1) The Grand Guizhou Park Hotel
+    
+    **Location:** No. 66 Beijing Road, Yunyan District, Guiyang (near the Guizhou Provincial Government and Beijing Road Metro Station, Exit D)
+    
+    **Contact Person:** Lin Minyu 13007860786
+    
+    **Superior King Room / Superior Twin Room Conference Rate:** 1050 RMB/night (including breakfast for two)
+    
+    The hotel is located on Beijing Road, in the core business district of Yunyan District, Guiyang. It is adjacent to the Guizhou Provincial Government and Qianling Mountain Park, with convenient transportation. It is about 10 km from Guiyang North Railway Station and about 12 km from Guiyang Longdongbao International Airport. Beijing Road Metro Station is about a 3-minute walk away. As a landmark five-star hotel in Guiyang, it has hosted many important provincial-level conferences and events.
+    
+    **Superior King Room:**
+    
+    <div class="wide_image" style="display: flex; gap: 8px; justify-content: center; align-items: center; max-width: 900px; margin: 25px auto;">
+      <img src="{{ vipKing1Image }}" alt="The Grand Guizhou Park Hotel Superior King Room" style="width: calc(50% - 4px); max-height: 360px; object-fit: cover;" />
+      <img src="{{ vipKing2Image }}" alt="The Grand Guizhou Park Hotel Superior King Room 2" style="width: calc(50% - 4px); max-height: 360px; object-fit: cover;" />
     </div>
-
-    <div class="wide_image">
-      <img src="{{ wenlaiRoomImage }}" alt="Wenlan Hotel Northern Hangzhou Room"/>
+    
+    **Superior Twin Room:**
+    
+    <div class="wide_image" style="display: flex; gap: 8px; justify-content: center; align-items: center; max-width: 900px; margin: 25px auto;">
+      <img src="{{ vipTwin1Image }}" alt="The Grand Guizhou Park Hotel Superior Twin Room" style="width: calc(50% - 4px); max-height: 360px; object-fit: cover;" />
+      <img src="{{ vipTwin2Image }}" alt="The Grand Guizhou Park Hotel Superior Twin Room" style="width: calc(50% - 4px); max-height: 360px; object-fit: cover;" />
     </div>
-
-    ### (2) Hampton by Hilton Hangzhou Xixi Zijingang (Partner Hotel)
-
-    **Location:** Hotel Lobby, 8th Floor South, Block A, Yifanghui, No. 987 Moganshan Road, Gongshu District, Hangzhou (1 km from the conference hotel, about a 15-minute walk)
-
-    **Hotel Front Desk:** 0571-86098089
-
-    **King/Twin Room Conference Rate:** 430 RMB/night (including double breakfast)
-
-    **Please book by phone:** 0571-86098089 (Mention the conference name when booking)
-
-    The hotel enjoys a superior location with convenient transportation. An elevator on the B1 floor of Hemu Metro Station provides direct access to the hotel lobby. It is 15 km from Hangzhou East Railway Station, 20 km from Hangzhou West Railway Station, 41 km from Xiaoshan International Airport, and 13 km from Hangzhou Railway Station.
-
-    <div class="wide_image">
-      <img src="{{ hiltonLobbyImage }}" alt="Hampton by Hilton Hangzhou Xixi Zijingang Lobby"/>
+    
+    ### (2) Guizhou Hotel (Yingbin Building)
+    
+    **Location:** No. 66 Beijing Road, Yunyan District, Guiyang (near the Guizhou Provincial Government and Beijing Road Metro Station, Exit D)
+    
+    **Contact Person:** Lin Minyu 13007860786
+    
+    **King Room / Twin Room Conference Rate:** 450 RMB/night (including breakfast for two)
+    
+    <div class="wide_image" style="display: flex; gap: 8px; justify-content: center; align-items: center; max-width: 900px; margin: 25px auto;">
+      <img src="{{ yingbinRoom1Image }}" alt="Guizhou Hotel Yingbin Building Room" style="width: calc(50% - 4px); max-height: 360px; object-fit: cover;" />
+      <img src="{{ yingbinRoom2Image }}" alt="Guizhou Hotel Yingbin Building Room" style="width: calc(50% - 4px); max-height: 360px; object-fit: cover;" />
     </div>
-
-    <div class="wide_image">
-      <img src="{{ hiltonRoomImage }}" alt="Hampton by Hilton Hangzhou Xixi Zijingang Room"/>
-    </div>
-
-    ### (3) Mercure Hangzhou Zijingang Hotel (Partner Hotel)
-
-    **Location:** No. 99 Shenhua Road, Gongshu District, Hangzhou (2 km from the conference hotel, about a 30-minute walk)
-
-    **Contact Person:** Manager Wang 15757594555
-
-    **King/Twin Room Conference Rate:** 380 RMB/night (with double breakfast)
-
-    **Conference Booking:** Please scan the QR code below to book the hotel.
-
-    <img src="{{ mercureQrCodeImage }}" alt="Mercure Hangzhou Zijingang Hotel QR Code" style="width: 100%; max-width: 300px; margin: 25px auto; display: block;" />
-
-    The hotel is located in the Shenhua area, adjacent to business districts such as the Asian Games Park, Intime Shopping Center, and Joy City. It is only a 10-minute walk from Exit D of Hemu Metro Station. It is 13 km from Hangzhou East Railway Station, 15 km from Hangzhou West Railway Station, 39 km from Xiaoshan International Airport, and 13 km from Hangzhou Railway Station.
-
-    <div class="wide_image">
-      <img src="{{ mercureLobbyImage }}" alt="Mercure Hangzhou Zijingang Hotel Lobby" />
-    </div>
-
-    <div class="wide_image">
-      <img src="{{ mercureRoomImage }}" alt="Mercure Hangzhou Zijingang Hotel Room" />
-    </div>
-
+    
     ## Transportation Guide
-
-    ### 1. Guiyang East Railway Station to Guizhou Hotel
-
-    **By Taxi:** (Approx. 20 minutes), cost around 35 RMB.
-
-    **By Public Transport:** From Guiyang East Railway Station, take Metro Line 2 to Yan'an West Road Station, transfer to Metro Line 1 to Beijing Road Station (Exit C). Walk about 200 meters to the hotel. (Total time: approx. 40 minutes).
-
-    ### 2. Guiyang North Railway Station to Hanting Hotel (Supporting Hotel)
-
-    **By Taxi:** (Approx. 26 minutes), cost around 30 RMB.
-
-    **By Public Transport:** From Guiyang North Railway Station, take Metro Line 1 directly to Beijing Road Station (Exit C). After exiting, proceed to the hotel. Please note, Hanting Hotel is located near the "Hemu" Metro Station on Line 3. As there is currently no direct metro route from Guiyang North Station to Hemu Station requiring multiple transfers, it is highly recommended to take a taxi or ride-hailing service from the station for the most convenient experience.
-
-    ### 3. Guiyang Railway Station to Hilton Garden Inn (Supporting Hotel)
-
-    **By Taxi:** (Approx. 32 minutes), cost around 25 RMB.
-
-    **By Public Transport:**  From Guiyang Railway Station, take Metro Line 1 to Beijing Road Station (Exit C). Then, choose one of the following options to reach the hotel (approx. 1 km away)
-
-  
+    
+    ### 1. Guiyang North Railway Station to Guizhou Hotel
+    
+    **By Taxi:** Approx. 20 minutes, fare around 30 RMB.
+    
+    **By Public Transport:** Take Metro Line 1 from Guiyang North Railway Station to Beijing Road Station. Exit from Exit D and walk about 120 meters to the hotel. The total journey takes about 35 minutes.
+    
+    ### 2. Guiyang Longdongbao International Airport to Guizhou Hotel
+    
+    **By Taxi:** Approx. 25 minutes, fare around 40 RMB.
+    
+    **By Public Transport:** Take Metro Line 2 from the airport to Penshuichi Station, then transfer to Metro Line 1 to Beijing Road Station. Exit from Exit D and walk about 120 meters to the hotel. The total journey takes about 50 minutes.
+    
+    ### 3. Guiyang Railway Station to Guizhou Hotel
+    
+    **By Taxi:** Approx. 15 minutes, fare around 15 RMB.
+    
+    **By Public Transport:** Take Bus No. 1 or No. 2 from Guiyang Railway Station to Beijing Road Station. After getting off, walk about 5 minutes to the hotel. The total journey takes about 30 minutes.
     `.replace(/^    /gm, ""),
     { async: false }
   ),
