@@ -3,18 +3,27 @@ import * as Dict from "~/i18n/venue";
 
 import "./venue.css";
 
-import wenlaiBuildingImage from "~/assets/venue/wenlai_building.avif";
-import wenlaiQrCodeImage from "~/assets/venue/wenlai_qrcode.avif";
-import wenlaiLobbyImage from "~/assets/venue/wenlai_lobby.avif";
-import wenlaiRoomImage from "~/assets/venue/wenlai_room.avif";
-import hiltonLobbyImage from "~/assets/venue/hilton_lobby.avif";
-import hiltonRoomImage from "~/assets/venue/hilton_room.avif";
-import mercureQrCodeImage from "~/assets/venue/mercure_qrcode.avif";
-import mercureLobbyImage from "~/assets/venue/mercure_lobby.avif";
-import mercureRoomImage from "~/assets/venue/mercure_room.avif";
+import venueCenterImage from "~/assets/venue/venue-center.avif";
+import vipKing1Image from "~/assets/venue/vip-king-1.avif";
+import vipKing2Image from "~/assets/venue/vip-king-2.avif";
+import vipTwin1Image from "~/assets/venue/vip-twin-1.avif";
+import vipTwin2Image from "~/assets/venue/vip-twin-2.avif";
+import yingbinRoom1Image from "~/assets/venue/yingbin-room-1.avif";
+import yingbinRoom2Image from "~/assets/venue/yingbin-room-2.avif";
 
 export default function Venue() {
   return (
-    <MarkdownPage dict={Dict} variables={{ wenlaiBuildingImage, wenlaiQrCodeImage, wenlaiLobbyImage, wenlaiRoomImage, hiltonLobbyImage, hiltonRoomImage, mercureQrCodeImage, mercureLobbyImage, mercureRoomImage }} />
+    <MarkdownPage
+      dict={Dict}
+      variables={{
+        venueCenterImage,
+        vipKing1Image,
+        vipKing2Image,
+        vipTwin1Image,
+        vipTwin2Image,
+        yingbinRoom1Image,
+        yingbinRoom2Image,
+      }}
+    />
   );
 }
