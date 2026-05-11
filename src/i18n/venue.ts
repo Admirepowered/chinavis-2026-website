@@ -27,16 +27,16 @@ export const zh = {
     
     **高级大床房：**
     
-    <div class="wide_image" style="display: flex; gap: 12px; justify-content: center; align-items: stretch; margin: 25px auto;">
-      <img src="{{ vipKing1Image }}" alt="贵州饭店·贵宾楼高级大床房1" style="width: 50%; object-fit: cover;" />
-      <img src="{{ vipKing2Image }}" alt="贵州饭店·贵宾楼高级大床房2" style="width: 50%; object-fit: cover;" />
+    <div class="wide_image" style="display: flex; gap: 8px; justify-content: center; align-items: center; max-width: 900px; margin: 25px auto;">
+      <img src="{{ vipKing1Image }}" alt="贵州饭店·贵宾楼高级大床房1" style="width: calc(50% - 4px); max-height: 360px; object-fit: cover;" />
+      <img src="{{ vipKing2Image }}" alt="贵州饭店·贵宾楼高级大床房2" style="width: calc(50% - 4px); max-height: 360px; object-fit: cover;" />
     </div>
     
     **高级双床房：**
     
-    <div class="wide_image" style="display: flex; gap: 12px; justify-content: center; align-items: stretch; margin: 25px auto;">
-      <img src="{{ vipTwin1Image }}" alt="贵州饭店·贵宾楼高级双床房1" style="width: 50%; object-fit: cover;" />
-      <img src="{{ vipTwin2Image }}" alt="贵州饭店·贵宾楼高级双床房2" style="width: 50%; object-fit: cover;" />
+    <div class="wide_image" style="display: flex; gap: 8px; justify-content: center; align-items: center; max-width: 900px; margin: 25px auto;">
+      <img src="{{ vipTwin1Image }}" alt="贵州饭店·贵宾楼高级双床房1" style="width: calc(50% - 4px); max-height: 360px; object-fit: cover;" />
+      <img src="{{ vipTwin2Image }}" alt="贵州饭店·贵宾楼高级双床房2" style="width: calc(50% - 4px); max-height: 360px; object-fit: cover;" />
     </div>
     
     ### （二）贵州饭店·迎宾楼
@@ -47,9 +47,9 @@ export const zh = {
     
     **大床房/双床房 协议价：** 450元/晚（含双早）
     
-    <div class="wide_image" style="display: flex; gap: 12px; justify-content: center; align-items: stretch; margin: 25px auto;">
-      <img src="{{ yingbinRoom1Image }}" alt="贵州饭店·迎宾楼房间1" style="width: 50%; object-fit: cover;" />
-      <img src="{{ yingbinRoom2Image }}" alt="贵州饭店·迎宾楼房间2" style="width: 50%; object-fit: cover;" />
+    <div class="wide_image" style="display: flex; gap: 8px; justify-content: center; align-items: center; max-width: 900px; margin: 25px auto;">
+      <img src="{{ yingbinRoom1Image }}" alt="贵州饭店·迎宾楼房间1" style="width: calc(50% - 4px); max-height: 360px; object-fit: cover;" />
+      <img src="{{ yingbinRoom2Image }}" alt="贵州饭店·迎宾楼房间2" style="width: calc(50% - 4px); max-height: 360px; object-fit: cover;" />
     </div>
     
     ## 乘车路线
