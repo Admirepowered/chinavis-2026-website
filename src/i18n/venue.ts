@@ -29,7 +29,7 @@ export const zh = {
     
     <div class="wide_image" style="display: flex; gap: 8px; justify-content: center; align-items: center; max-width: 900px; margin: 25px auto;">
       <img src="{{ vipKing1Image }}" alt="贵州饭店·贵宾楼高级大床房" style="width: calc(50% - 4px); max-height: 360px; object-fit: cover;" />
-      <img src="{{ vipKing2Image }}" alt="贵州饭店·贵宾楼高级大床房2" style="width: calc(50% - 4px); max-height: 360px; object-fit: cover;" />
+      <img src="{{ vipKing2Image }}" alt="贵州饭店·贵宾楼高级大床房" style="width: calc(50% - 4px); max-height: 360px; object-fit: cover;" />
     </div>
     
     **高级双床房：**
@@ -106,7 +106,7 @@ export const en = {
     
     <div class="wide_image" style="display: flex; gap: 8px; justify-content: center; align-items: center; max-width: 900px; margin: 25px auto;">
       <img src="{{ vipKing1Image }}" alt="The Grand Guizhou Park Hotel Superior King Room" style="width: calc(50% - 4px); max-height: 360px; object-fit: cover;" />
-      <img src="{{ vipKing2Image }}" alt="The Grand Guizhou Park Hotel Superior King Room 2" style="width: calc(50% - 4px); max-height: 360px; object-fit: cover;" />
+      <img src="{{ vipKing2Image }}" alt="The Grand Guizhou Park Hotel Superior King Room" style="width: calc(50% - 4px); max-height: 360px; object-fit: cover;" />
     </div>
     
     **Superior Twin Room:**
