@@ -295,6 +295,7 @@ export const en = {
     **Submission portals:**
     
     **Track 1 work submission link:** (To be updated)
+    
     **Track 2 work submission link:** (To be updated)
     
     - Submission information includes: Team number, competition track and theme, work title, work abstract (100 words), and work submission content.
