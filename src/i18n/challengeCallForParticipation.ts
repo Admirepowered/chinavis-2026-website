@@ -43,7 +43,7 @@ export const zh = {
     
     探索宇宙大尺度结构的形成是现代天体物理学的核心课题。[Nyx](https://amrex-astro.github.io/Nyx/) 是一款基于 AMReX 框架开发的并行自适应网格细化（AMR）宇宙学模拟代码。Nyx 宇宙学模拟程序以可压缩流体力学与暗物质 N 体模拟为核心，用于模拟宇宙演化过程，重点研究星系际介质以及莱曼阿尔法森林等天文现象。与显式追踪活动星系核粒子程序不同，Nyx 采用自适应网格加密技术，在计算自引力的同时，精准求解高密度区域的欧拉流体动力学过程。其模拟产生的低密度气体填充着星系间的巨大空隙，是理解暗能量、暗物质和宇宙热演化历史的主要观测手段。
     
-    请根据提供的 Nyx 数据集，完成以下任务。
+    Nyx 数据集中的每个时间步的数据都以小端字节序(little-endian)和float32保存的文件。数据按列优先顺序存储，即先存储 z 轴数据，然后是 y 轴数据，最后是 x 轴数据。请基于提供的 Nyx 数据集完成以下任务。
     
     - 采用体数据渲染技术，并设计合适的传递函数和光照效果，展示宇宙演化中密度信息的变化（建议文字不超过800字，图片不超过5张）。
     - 基于可视化图像结果，归纳宇宙密度的演化特征，总结宇宙结构形成、星系际介质演化的核心规律，阐释可视化技术在宇宙学数据分析中的应用价值（建议文字不超过800字，图片不超过5张）。
@@ -97,13 +97,13 @@ export const zh = {
     
     **提交入口：**
     
-    **赛道1作品提交链接：** **即将发布**
+    **赛道1作品提交链接：** **（待更新）**
     
-    **赛道2作品提交链接：** **即将发布**
+    **赛道2作品提交链接：** **（待更新）**
     
     - 提交信息包括：参赛队伍编号、作品赛道及主题、作品名称、作品摘要（100字）以及作品提交内容。
     - 如更新作品，请用同一参赛编号再次提交作品即可，以同一参赛编号最后一次提交的同队名作品为准。作品名称以最后一次提交和作品说明文档为准。
-    - 建议参考往年优秀作品，具体见“历届挑战赛优秀作品回顾”；也可以参考IEEE VIS Conference组织的IEEE VAST Challenge 的入选作品，作品库见：[http://cs.umd.edu/hcil/varepository/benchmarks.php](http://cs.umd.edu/hcil/varepository/benchmarks.php)；关于挑战赛2015-2017相关信息请参看文档[“数据可视分析挑战赛三年回顾”](http://t.cn/EflGyVM)。
+    - 建议参考往年优秀作品，具体见“历届挑战赛优秀作品回顾”；也可以参考IEEE VIS Conference组织的IEEE VAST Challenge 的入选作品，作品库见：[http://cs.umd.edu/hcil/varepository/benchmarks.php](http://cs.umd.edu/hcil/varepository/benchmarks.php)。
     
     ### 作品提交材料要求
     
@@ -240,7 +240,7 @@ export const en = {
     
     Exploring the formation of large-scale cosmic structures is a core topic in modern astrophysics. [Nyx](https://amrex-astro.github.io/Nyx/) is a parallel adaptive mesh refinement (AMR) cosmological simulation code developed based on the AMReX framework. The Nyx cosmological simulation program uses compressible hydrodynamics and dark matter N-body simulation as its core to simulate cosmic evolution processes, with a focus on studying the intergalactic medium and Lyman-alpha forest phenomena. Unlike programs that explicitly track active galactic nucleus particles, Nyx employs adaptive mesh refinement technology to accurately solve Eulerian fluid dynamics processes in high-density regions while computing self-gravity. The low-density gas produced by its simulations fills the vast voids between galaxies and serves as the primary observational means for understanding dark energy, dark matter, and the thermal history of the universe.
     
-    Please complete the following tasks based on the provided Nyx dataset.
+    Each timestep in the Nyx dataset is stored as a file encoded in little-endian byte order and saved in float32 format. The data are stored in column-major order: values along the z-axis are stored first, followed by the y-axis, and finally the x-axis. Please complete the following tasks based on the provided Nyx dataset.
     
     - Employ volume data rendering techniques, and design appropriate transfer functions and lighting effects to demonstrate the changes in density information during cosmic evolution (recommended text: no more than 800 words; images: no more than 5).
     - Based on visualization image results, summarize the evolutionary characteristics of cosmic density, elucidate the core laws of cosmic structure formation and intergalactic medium evolution, and explain the application value of visualization technology in cosmological data analysis (recommended text: no more than 800 words; images: no more than 5).
@@ -294,12 +294,12 @@ export const en = {
     
     **Submission portals:**
     
-    **Track 1 work submission link:** Coming soon
-    **Track 2 work submission link:** Coming soon
+    **Track 1 work submission link:** (To be updated)
+    **Track 2 work submission link:** (To be updated)
     
     - Submission information includes: Team number, competition track and theme, work title, work abstract (100 words), and work submission content.
     - To update your work, please resubmit using the same team number. The last submission under the same team number and team name will be considered final. The work title will be based on the last submission and work description document.
-    - It is recommended to refer to previous outstanding works. For details, please see "Review of Past Challenge Outstanding Works." You may also refer to selected works from the IEEE VAST Challenge organized by the IEEE VIS Conference. The work repository can be found at: [http://cs.umd.edu/hcil/varepository/benchmarks.php](http://cs.umd.edu/hcil/varepository/benchmarks.php). For information about the Challenge from 2015-2017, please refer to the document ["Three-Year Review of the Data Visual Analytics Challenge: http://t.cn/EflGyVM"](http://t.cn/EflGyVM).
+    - It is recommended to refer to previous outstanding works. For details, please see "Review of Past Challenge Outstanding Works." You may also refer to selected works from the IEEE VAST Challenge organized by the IEEE VIS Conference. The work repository can be found at: [http://cs.umd.edu/hcil/varepository/benchmarks.php](http://cs.umd.edu/hcil/varepository/benchmarks.php). 
     
     ### Work Submission Material Requirements
     
