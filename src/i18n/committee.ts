@@ -78,6 +78,7 @@ import PhotoZJJArts from "~/assets/committee/zjj.avif?inline";
 import PhotoZJD from "~/assets/committee/zjd.avif?inline";
 import PhotoAJJ from "~/assets/committee/ajj.avif?inline";
 import PhotoLYR from "~/assets/committee/lyr.avif?inline";
+import PhotoHKD from "~/assets/committee/hkd.avif?inline";
 
 export const zh = {
   PageTitle: "委员会成员 - ChinaVis 2026",
@@ -148,6 +149,14 @@ export const committee: {
           en: "Guizhou Provincial Museum",
         },
         photo: PhotoLFU,
+      },
+      {
+        name: { zh: "何凯迪", en: "Kaidi He" },
+        affiliation: {
+          zh: "云景文旅科技有限公司",
+          en: "Yunjing Culture and Tourism Technology Co., Ltd.",
+        },
+        photo: PhotoHKD,
       },
       {
         name: { zh: "霍雨佳", en: "Yujia Huo" },
