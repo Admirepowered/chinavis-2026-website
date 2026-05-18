@@ -25,7 +25,7 @@ export const zh = {
     
     请参赛者任选以下任务中的一个完成。
     
-    **任务一：京剧数据可视分析挑战赛**
+    **任务一：「戏韵万象」京剧数据可视分析挑战赛**
     
     - 基于剧本中角色的性别、年龄、身份、性格描述及唱念做打等表演提示，推断未标注角色的行当归属（如生、旦、净、丑及其细分支），并分析角色特征与行当分类之间的典型对应模式。进一步结合剧本创作年代或历史时期背景，利用数据分析和可视化等手段，探究不同时期角色-行当对应关系的变化规律（建议文字不超过800字，图片不超过5张）。
     - 请识别剧本中主要角色之间的互动关系，构建角色关系网络，并分析不同剧目（历史戏、家庭戏、公案戏等）中的角色关系网络结构特征（建议文字不超过800字，图片不超过5张）。
@@ -222,7 +222,7 @@ export const en = {
     
     Participants may choose one of the following tasks to complete.
     
-    **Task One: Peking Opera Visual Analytics Competition**
+    **Task One: 「Opera Rhyme, Myriad Phenomena」 Peking Opera Visual Analytics Competition**
     
     - Based on characters' gender, age, identity, personality descriptions, and performance cues (singing, recitation, acting, combat) in the scripts, infer the unlabeled role types (hangdang) of characters (such as Sheng, Dan, Jing, Chou and their subcategories), and analyze typical correspondence patterns between character features and role type classifications. Further, combined with the script creation period or historical background, use data analysis and visualization methods to explore the changing patterns of character-role type correspondence across different periods (recommended text: no more than 800 words; images: no more than 5).
     - Identify interaction relationships among major characters in the scripts, construct character relationship networks, and analyze the structural characteristics of character relationship networks in different types of plays (historical plays, family plays, court case plays, etc.) (recommended text: no more than 800 words; images: no more than 5).
