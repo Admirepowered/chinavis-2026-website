@@ -330,7 +330,7 @@ export const committee: {
         photo: PhotoWCB,
       },
       {
-        name: { zh: "龙涓涓", en: "Juanjuan Long" },
+        name: { zh: "龙娟娟", en: "Juanjuan Long" },
         affiliation: { zh: "江南大学", en: "Jiangnan University" },
         photo: PhotoLongJuanjuan,
       },
@@ -399,16 +399,6 @@ export const committee: {
         name: { zh: "李杰", en: "Jie Li" },
         affiliation: { zh: "天津大学", en: "Tianjin University" },
         photo: PhotoLJ,
-      },
-      {
-        name: { zh: "曾琼", en: "Qiong Zeng" },
-        affiliation: { zh: "山东大学", en: "Shandong University" },
-        photo: PhotoZQ,
-      },
-      {
-        name: { zh: "张怡", en: "Yi Zhang" },
-        affiliation: { zh: "天津大学", en: "Tianjin University" },
-        photo: PhotoZY,
       },
       {
         name: { zh: "刘子鹏", en: "Zipeng Liu" },
