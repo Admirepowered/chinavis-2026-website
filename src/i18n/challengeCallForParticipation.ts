@@ -85,7 +85,7 @@ export const zh = {
     
     ### 报名方式
     
-    - 竞赛采取线上报名方式，报名入口：**即将发布**。
+    - 竞赛采取线上报名方式，报名入口：[https://s99x45wjic.jiandaoyun.com/f/6a0ae5b7d2ebb735eedc664d](https://s99x45wjic.jiandaoyun.com/f/6a0ae5b7d2ebb735eedc664d)。
     - 报名信息包括：通讯 Email，队名，参赛人员（队长、队员、指导老师）、手机号、Email、单位（学校学院等）、职称（学历年级等）。
     - 获奖证书署名按报名顺序印刷，学生在前，指导老师在后。
     - 一个Email只能注册一个参赛队伍，参赛队伍编号唯一，并与通讯Email绑定。
@@ -97,9 +97,9 @@ export const zh = {
     
     **提交入口：**
     
-    **赛道1作品提交链接：** **（待更新）**
+    **赛道1作品提交链接：**[https://s99x45wjic.jiandaoyun.com/f/6a0ae5b7d2ebb735eedc664e](https://s99x45wjic.jiandaoyun.com/f/6a0ae5b7d2ebb735eedc664e)
     
-    **赛道2作品提交链接：** **（待更新）**
+    **赛道2作品提交链接：**[https://s99x45wjic.jiandaoyun.com/f/6a0ae5b7d2ebb735eedc6642](https://s99x45wjic.jiandaoyun.com/f/6a0ae5b7d2ebb735eedc6642)
     
     - 提交信息包括：参赛队伍编号、作品赛道及主题、作品名称、作品摘要（100字）以及作品提交内容。
     - 如更新作品，请用同一参赛编号再次提交作品即可，以同一参赛编号最后一次提交的同队名作品为准。作品名称以最后一次提交和作品说明文档为准。
@@ -282,7 +282,7 @@ export const en = {
     
     ### Registration Method
     
-    - The competition adopts online registration. Registration portal: **Coming soon**.
+    - The competition adopts online registration. Registration portal: [https://s99x45wjic.jiandaoyun.com/f/6a0ae5b7d2ebb735eedc664d](https://s99x45wjic.jiandaoyun.com/f/6a0ae5b7d2ebb735eedc664d).
     - Registration information includes: Contact Email, Team Name, Participants (Team Leader, Members, Advisors), Phone Number, Email, Institution (School/College, etc.), Title (Degree/Year, etc.).
     - Award certificates will be printed according to the registration order, with students listed first, followed by advisors.
     - One Email can only register one team. The team number is unique and bound to the contact Email.
@@ -294,9 +294,9 @@ export const en = {
     
     **Submission portals:**
     
-    **Track 1 work submission link:** (To be updated)
+    **Track 1 work submission link:** [https://s99x45wjic.jiandaoyun.com/f/6a0ae5b7d2ebb735eedc664e](https://s99x45wjic.jiandaoyun.com/f/6a0ae5b7d2ebb735eedc664e)
     
-    **Track 2 work submission link:** (To be updated)
+    **Track 2 work submission link:** [https://s99x45wjic.jiandaoyun.com/f/6a0ae5b7d2ebb735eedc6642](https://s99x45wjic.jiandaoyun.com/f/6a0ae5b7d2ebb735eedc6642)
     
     - Submission information includes: Team number, competition track and theme, work title, work abstract (100 words), and work submission content.
     - To update your work, please resubmit using the same team number. The last submission under the same team number and team name will be considered final. The work title will be based on the last submission and work description document.
