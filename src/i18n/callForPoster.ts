@@ -28,28 +28,28 @@ export const zh = {
 
     ## 海报投稿⽅式
 
-    海报投稿请打开 https://send2me.cn/Ucm-fQ-G/Q1OYOoCb7BAEKg 链接提交，提交⽂件中需包含：
+    海报投稿请打开 [https://send2me.cn/jrAZViCl/SG23UfwcXs7FRw](https://send2me.cn/jrAZViCl/SG23UfwcXs7FRw) 链接提交，提交⽂件中需包含：
 
-    - 2 页⼯作总结，命名为 ChinaVis2026_Poster_FirstAuthorName_BriefTitle_2Page.pdf
-    - 海报设计草稿 (PDF），命名为 ChinaVis2026_Poster_FirstAuthorName_BriefTitle.pdf
+    - 2 页⼯作总结
+    - 海报设计草稿（PDF）
 
-    提交⽂件说明：2 页⼯作总结应参照 IEEE VIS 格式。语⾔可以是中⽂或者英⽂，内容须包含简短的研究思路、研究结果或发现、⽀持性图⽰，以及此⼯作对其应⽤领域产⽣的影响的讨论。不需要列举⾮常全⾯的⽂献，但需要提供最相关的⽂献。我们建议作者提交⼀个能概括海报⼯作的视频。 海报可以是中文与英文（尤其鼓励英文海报投稿）。
+    提交⽂件说明：2 页⼯作总结应参照 IEEE VIS 格式。语⾔可以是中⽂或者英⽂，内容须包含简短的研究思路、研究结果或发现、⽀持性图⽰，以及此⼯作对其应⽤领域产⽣的影响的讨论。不需要列举⾮常全⾯的⽂献，但需要提供最相关的⽂献。我们建议作者提交⼀个能概括海报⼯作的视频。海报可以是中文与英文（尤其鼓励英文海报投稿）。
 
-    海报必须以纵向格式呈现，尺⼨不能超过A0纸的⼤⼩（841 毫⽶ * 1189 毫⽶或 33.1 英⼨ * 46.8 英⼨）。语⾔可以是中⽂或者英⽂。在提交总结时，应同时提交海报的设计草稿 （PDF 格式）。
+    海报必须以纵向格式呈现，尺寸不能超过 A0 纸的大小（841 毫⽶ * 1189 毫米 或 33.1 英寸 * 46.8 英寸）。语言可以是中文或者英文。在提交总结时，应同时提交海报的设计草稿（PDF 格式）。
 
-    **VGTC会议模板：https://tc.computer.org/vgtc/publications/conference/**
+    **VGTC 会议模板：[https://tc.computer.org/vgtc/publications/conference/](https://tc.computer.org/vgtc/publications/conference/)**
 
     ## 重要⽇期
 
-    - 征稿截⽌： 2026 年 7 月 3 日
-    - 录⽤通知： 2026 年 7 月 10 日
+    - 征稿截⽌：2026 年 6 月 26 日
+    - 录⽤通知：2026 年 7 月 10 日
     - 最终版提交：2026 年 7 月 15 日
 
     所有截止时间均为北京时间 23:59。
 
     ## 海报展示
 
-    被录⽤海报必须有（至少⼀位）作者注册会议，并到会参与海报展⽰和交流讨论。作者应⾃⾏打印⽤于会议张贴的海报，并带⾄会议指定地点粘贴。展⽰期间作者应在海报展⽰地和与会者进⾏交流讨论。若有相关视频或现场演⽰，作者需⾃⾏准备笔记本等相关设备。
+    被录⽤海报必须有（至少⼀位）作者注册会议，并到会参与海报展示和交流讨论。作者应自行打印用于会议张贴的海报，并带至会议指定地点粘贴。展示期间作者应在海报展示地和与会者进行交流讨论。若有相关视频或现场演示，作者需自行准备笔记本等相关设备。
 
     ## 最佳海报
 
@@ -57,11 +57,11 @@ export const zh = {
 
     ## 海报主席
 
-    **曾　伟**　香港科技大学（广州）
-
-    **俞凌云**　西交利物浦大学
-
     **马昱欣**　南方科技大学
+
+    **李　杰**　天津大学
+
+    **刘子鹏**　北京航空航天大学
     `.replace(/^    /gm, ""),
     { async: false }
   ),
@@ -72,63 +72,65 @@ export const en = {
   Title: "Call for Posters",
   Content: marked.parse(
     `
-    The 13th China Visualization and Visual Analytics Conference (ChinaVis 2026) will be held in Guiyang from July 19th to 22nd, 2026. ChinaVis Poster Program aims to promote communication between scholars in visualization with interactive and dynamic presentation on the latest results and ideas of visualization research. The ChinaVis 2026 Poster Program encourages the submission of any work related to visualization, especially those that have not been officially published and are in progress, or published that can trigger new thinking through visualization. The Poster Program welcomes any topics in visualization and visual analytics, including but not limited to:
+    The 13th China Visualization and Visual Analytics Conference (ChinaVis 2026) will be held in Guiyang from July 19th to 22nd, 2026. The ChinaVis 2026 Poster Program aims to promote communication among scholars in visualization through interactive and dynamic presentations of the latest visualization research results and ideas. The ChinaVis 2026 Poster Program encourages the submission of any work related to visualization, including unpublished or ongoing work, as well as published work that can inspire new thinking. The Poster Program welcomes topics in visualization and visual analytics, including but not limited to:
 
-    - Visualization and visual analysis theory
+    - Visualization and visual analytics theory
     - New methods of scientific visualization
     - New methods of information visualization
-    - New methods of visual analysis
+    - Human-computer interaction and visualization methods
+    - AI+VIS
+    - Visualization storytelling methods
+    - New methods of visual analytics
     - Visual knowledge representation and discovery
-    - Visualization evaluation method and theory
+    - Visualization evaluation methods and theories
     - Visual representation of various types of data
     - Visual data management
     - Visual query and mining
-    - Interactive visualization technology and equipment
-    - Big data visualization and visual analysis techniques and systems
-    - Scientific and engineering simulation and visualization
+    - Interactive visualization technologies and devices
+    - Big data visualization and visual analytics techniques and systems
+    - Scientific and engineering simulation, modeling, and visualization
     - Visual display technology
-    - Visualization and visual analysis system
-    - Applications of visualization (including natural sciences and social sciences)
-
+    - Visualization and visual analytics systems
+    - Applications of visualization, including natural sciences and social sciences
 
     ## Submission Instructions
 
-    To submit a poster, please open the following link https://send2me.cn/Ucm-fQ-G/Q1OYOoCb7BAEKg and upload the required files, which should include:
+    To submit a poster, please open the following link and upload the required files: [https://send2me.cn/jrAZViCl/SG23UfwcXs7FRw](https://send2me.cn/jrAZViCl/SG23UfwcXs7FRw)
 
-    - A two-page summary of your poster named as: ChinaVis2026_Poster_FirstAuthorName_BriefTitle_2Page.pdf
-    - The sketch of your poster layout (in PDF format) named as: ChinaVis2026_Poster_FirstAuthorName_BriefTitle.pdf
+    The submission should include:
 
+    - A two-page work summary
+    - A poster design draft in PDF format
 
-    Authors of each poster are required to submit a two-page summary in the IEEE VIS format: https://tc.computer.org/vgtc/publications/conference/ The summary can be written in either Chinese or English. The summary needs to include an introduction of the research motivation, results, findings, illustrations, and a discussion of the broader impact to application domains. It is not necessary to include a comprehensive list of references, but it is required to cite the most relevant literature in the 2-page summary. In addition, we highly recommend the authors to include a video that highlights the research work. The video submission can be made by including an online link to the video.
+    The two-page work summary should follow the IEEE VIS format. It can be written in either Chinese or English. The summary should include a brief description of the research idea, results or findings, supporting figures, and a discussion of the impact of the work on its application domain. It is not necessary to include a comprehensive list of references, but the most relevant references should be provided. We recommend that authors submit a video summarizing the poster work. Posters can be written in Chinese or English, and English submissions are especially encouraged.
 
-    The orientation of the poster must be portrait (taller than wide), and the dimension may not exceed A0 paper size (841 mm x 1189 mm / 33.1 in x 46.8 in). The language can be either Chinese or English. The design sketch (in PDF format) must be submitted together with the two-page summary.
+    The poster must be in portrait orientation, and its size must not exceed A0 paper size (841 mm * 1189 mm or 33.1 in * 46.8 in). The poster can be written in either Chinese or English. The poster design draft in PDF format should be submitted together with the summary.
 
-    **VGTC conference template: https://tc.computer.org/vgtc/publications/conference/**
+    **VGTC conference template: [https://tc.computer.org/vgtc/publications/conference/](https://tc.computer.org/vgtc/publications/conference/)**
 
     ## Important Dates
 
-    - Submission deadline: Jul. 3, 2026
+    - Submission deadline: Jun. 26, 2026
     - Notification of acceptance: Jul. 10, 2026
-    - Final submission of camera ready versions: Jul. 15, 2026
-
+    - Final submission of camera-ready versions: Jul. 15, 2026
 
     All deadlines are at 23:59 Beijing Time.
 
     ## Poster Presentation
 
-    At least one author of each poster should be registered for the conference and be available at the poster to discuss their work during the poster session. The authors must print the poster and hang the poster at the designated location at the conference venue. During the poster session, the authors should plan to present their work and discuss with attendees. Please bring a laptop to the poster session if you plan to show live demos or videos.
+    At least one author of each accepted poster must register for the conference and attend the poster presentation and discussion session. Authors should print their posters and bring them to the designated location at the conference venue for display. During the poster session, authors should be present at their posters to discuss their work with attendees. If videos or live demonstrations are involved, authors should prepare their own laptops and related equipment.
 
     ## Best Poster Awards
 
-The poster chairs will award a "Best Poster" award and several "Best Poster Honorable Mention" awards based on the review comments, and present certificates accordingly.
+    The poster chairs will select one "Best Poster" and several "Best Poster Honorable Mentions" based on the review comments, and certificates will be presented accordingly.
 
     ## Poster Chairs
 
-    **Zeng Wei**, Hong Kong University of Science and Technology (Guangzhou)
-
-    **Yu Lingyun**, Xi'an Jiaotong-Liverpool University
-
     **Ma Yuxin**, Southern University of Science and Technology
+
+    **Li Jie**, Tianjin University
+
+    **Liu Zipeng**, Beihang University
     `.replace(/^    /gm, ""),
     { async: false }
   ),
