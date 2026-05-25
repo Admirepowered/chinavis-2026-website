@@ -417,12 +417,7 @@ export const committee: {
           en: "Xinjiang Technical Institute of Physics and Chemistry, CAS",
         },
         photo: PhotoZF,
-      },
-      {
-        name: { zh: "龙涓涓", en: "Juanjuan Long" },
-        affiliation: { zh: "江南大学", en: "Jiangnan University" },
-        photo: PhotoLongJuanjuan,
-      },
+      }
     ],
   },
   {
