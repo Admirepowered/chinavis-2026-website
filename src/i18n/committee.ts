@@ -79,6 +79,7 @@ import PhotoZJD from "~/assets/committee/zjd.avif?inline";
 import PhotoAJJ from "~/assets/committee/ajj.avif?inline";
 import PhotoLYR from "~/assets/committee/lyr.avif?inline";
 import PhotoHKD from "~/assets/committee/hkd.avif?inline";
+import PhotoSGH from "~/assets/committee/sgh.jpg?inline";
 
 export const zh = {
   PageTitle: "委员会成员 - ChinaVis 2026",
@@ -340,9 +341,9 @@ export const committee: {
     role: { zh: "PANEL主席", en: "Panel Chairs" },
     members: [
       {
-        name: { zh: "曹楠", en: "Nan Cao" },
-        affiliation: { zh: "同济大学", en: "Tongji University" },
-        photo: PhotoCN,
+        name: { zh: "单桂华", en: "Guihua Shan" },
+        affiliation: { zh: "中国科学院计算机网络信息中心", en: "Computer Network Information Center, Chinese Academy of Sciences" },
+        photo: PhotoSGH,
       },
     ],
   },
