@@ -7,13 +7,13 @@ export const zh = {
     `
     ## 学生志愿者项目
 
-    本届会议我们广泛召集学生志愿者为 ChinaVis 2026 大会提供服务，你们的热情参与将提高所有参会者的会议体验。学生志愿者能够在第一时间了解可视化与可视分析研究的最新进展，近距离接触来自世界各地的专家学者，建立属于自己的学术网络。同时，学生志愿者项目旨在寻找可靠、热心、有责任心的学生志愿者，为他们提供一次宝贵的经历，同时协助会议主办方提供更好的会议服务。
+    本届会议诚挚招募学生志愿者，为 ChinaVis 2026 大会提供支持。您的积极参与将显著提升全体参会者的会议体验。作为志愿者，您将第一时间掌握可视化与可视分析领域的前沿动态，近距离接触全球专家学者，拓展宝贵的学术人脉。同时，本项目致力于选拔认真负责、热情奉献的学生志愿者，为其提供难得的实践机会，助力会议顺利举办，共同营造高效、温馨的学术交流环境。
 
-    有意愿申请志愿者的同学，前往 https://www.wjx.cn/vm/Ok2D5wU.aspx 提交志愿者申请，申请时需提交导师推荐意见（<a href="/2026/volunteer/rec_form_cn.docx" target="_blank">模板</a>），我们将根据您填写的资料进行志愿者资格审核和志愿者选拔，选拔结果会通过邮件或电话通知到志愿者。
+    有意向申请志愿者的同学，请前往 [https://www.wjx.cn/vm/Ok2D5wU.aspx](https://www.wjx.cn/vm/Ok2D5wU.aspx) 填写志愿者申请表，申请时需提交导师推荐意见（详见 <a href="/2026/volunteer/rec_form_cn.docx" target="_blank">《ChinaVis 志愿者导师推荐表》</a>）。我们将根据您填写的资料进行资格审核与选拔，最终结果将通过邮件或电话通知入选者。
 
-    入选的同学将按照志愿者优惠缴纳注册费，未入选同学按照大会注册类型缴纳注册费，<span style="color: red">**请申请志愿者的同学等待选拔结果公布后再进行缴费。**</span>
+    入选志愿者的同学将享受专属注册费优惠；未入选者请按大会规定的注册类型缴纳费用。<strong style="color: red">请有意申请者耐心等待选拔结果公布后再行缴费。</strong>
 
-    如有任何申请相关问题，请联系：chinavis_volunteer@163.com
+    如对申请事宜有任何疑问，请联系：chinavis_volunteer@163.com。
 
     ## 志愿者申请资格
 
@@ -25,7 +25,7 @@ export const zh = {
 
     ## 志愿者福利
 
-    对于参与会议服务工作的学生志愿者能得到如下福利：
+    参与会议服务工作的学生志愿者将享有以下福利：
 
     - 第一时间了解可视化与可视分析研究的最新进展，近距离接触来自世界各地的专家学者，建立属于自己的学术网络。
     - 参与 ChinaVis 志愿者能力提升活动，提高组织沟通能力，团队合作能力。
@@ -36,7 +36,7 @@ export const zh = {
 
     ## 学生志愿者选拔条件
 
-    我们的目标是建立一个专业的、有责任心、可持续发展的志愿者队伍。当收到的志愿者申请超过限定人数时，我们将采用如下优先条件进行选拔：
+    我们的目标是打造一支专业、负责且可持续发展的志愿者团队。当申请人数超过限定名额时，将依据以下优先条件进行选拔：
 
     - 参加过 ChinaVis 往届会议。
     - 参加过 ChinaVis 往届会议并承担志愿者工作。
@@ -44,7 +44,7 @@ export const zh = {
     - 参加过 IEEE VIS、EuroVis、IEEE PacificVis 等可视化国际会议并承担志愿者工作。
     - 参加过其他会议/活动志愿者经验。
     - 后备 ChinaVis 举办地所属大学的申请者。
-    - 博士、硕士研究生。
+    - 博士、硕士研究生和本科生。
 
     注：
 
@@ -56,25 +56,23 @@ export const zh = {
 
     时间：2026 年 7 月 19 日 - 7 月 22 日
 
-    地点：待定
+    地点：贵州饭店国际会议中心
 
-    地址：待定
+    地址：贵州省贵阳市云岩区北京路 66 号
 
     ## 志愿者申请时间节点
 
-    志愿者申请截至时间：2026 年 6 月 22 日
+    志愿者申请截止时间：2026 年 6 月 28 日
 
-    志愿者评审公布时间：2026 年 6 月 25 日
+    志愿者评审公布时间：2026 年 6 月 30 日
 
     所有截止时间均为北京时间 23:59。
 
     ## 志愿者主席
 
+    **许　凯**　贵阳学院
+
     **王伽臣**　浙江大学
-
-    **谢　潇**　浙江大学
-
-    **刘晓静**　青海大学
   `.replace(/^    /gm, ""),
     { async: false }
   ),
@@ -82,18 +80,18 @@ export const zh = {
 
 export const en = {
   PageTitle: "Volunteers - ChinaVis 2026",
-  Title: "Call for Volunteers",
+  Title: "Join Us: Volunteer for ChinaVis 2026",
   Content: marked.parse(
     `
     ## Student Volunteer Program
 
-    We are calling for student volunteers for ChinaVis 2026.This program looks for reliable and responsible student volunteers to assist the conference organizers in providing better conference services. Student volunteers can obtain the latest research progress in visualization and visual analysis and work with visualization scholars from all over the world.
+    We are calling for student volunteers for ChinaVis 2026. This program looks for reliable and responsible student volunteers to assist the conference organizers in providing better conference services. Student volunteers can obtain the latest research progress in visualization and visual analysis, and work with visualization scholars from all over the world.
 
-    Students interested in applying as volunteers should submit their volunteer application at https://www.wjx.cn/vm/mBK2953.aspx with a recommendation letter (<a href="/2026/volunteer/rec_form_en.docx" target="_blank">template</a>). We will review the qualifications and select volunteers based on the information provided. The selection results will be notified to the volunteers via email or phone.
+    Students interested in applying for the volunteer position are invited to complete the volunteer application form at [https://www.wjx.cn/vm/mBK2953.aspx](https://www.wjx.cn/vm/mBK2953.aspx). A letter of recommendation from your supervisor is required during the application (please refer to the <a href="/2026/volunteer/rec_form_en.docx" target="_blank">template.docx</a>). We will conduct a qualification review and selection based on the submitted information, and final results will be communicated via email or phone.
 
-    Selected students will pay the registration fee at a discounted rate for volunteers, while those not selected will pay according to the regular conference registration type. <span style="color: red">**Please wait for the announcement of the selection results before making any payments.**</span>
+    Selected volunteers will receive a special discount on conference registration fees; those not selected should pay according to the registered fee category specified by the conference. <strong style="color: red">Applicants are kindly requested to wait for the announcement of selection results before making any payment.</strong>
 
-    If you have any problems with the application, please contact chinavis_volunteer@163.com.
+    For any inquiries regarding the application, please contact: chinavis_volunteer@163.com.
 
     ## Application Qualifications
 
@@ -103,19 +101,18 @@ export const en = {
     - Strong responsibility for completing conference services well.
     - CSIG student members.
 
-    ## Volunteer benefits
+    ## Volunteer Benefits
 
     Student volunteers can receive the following benefits:
 
     - Obtain the latest research progress in visualization and visual analytics.
     - Improve organization skills, communication skills, and teamwork skills.
-    - Work with well-known visualization scholars, and become a candidatestaff member of the ChinaVis community.
+    - Work with well-known visualization scholars, and become a candidate staff member of the ChinaVis community.
     - Registration with discount fees.
-    - Volunteer's uniform and name tags.
-    - Honorary certificates of volunteers from the conference
+    - Volunteer’s uniform and name tags.
+    - Honorary certificates of volunteers from the conference.
 
-
-    ## Qualifications for selection
+    ## Qualifications for Selection
 
     We aim to establish a professional, responsible, and sustainable volunteer team. The following are the priority criteria for selection:
 
@@ -133,31 +130,31 @@ export const en = {
     - Those who have worked as ChinaVis volunteers with negative evaluations will not be accepted.
     - The volunteer committee reserves the right of final interpretation.
 
-
-    ## Working hours and place
+    ## Working Hours and Place
 
     Time: July 19 - July 22, 2026
 
-    Venue: TBD
+    Venue: Guizhou International Conference Center, Guizhou Hotel
 
-    Address: TBD
+    Address: No. 66 Beijing Road, Yunyan District, Guiyang City, Guizhou Province, China.
 
+    If you are interested in our program, please submit your volunteer application as soon as possible. The recruited volunteers will be notified by email or phone in time.
 
-    ## Important dates
+    Please register after confirming the result of your application. The volunteers will register with discount fees.
 
-    Application deadline: June 22, 2026
+    ## Important Dates
 
-    Notice for Volunteer list: June 25, 2026
+    Application deadline: June 28, 2026
+
+    Notice for Volunteer list: June 30, 2026
 
     All deadlines are at 23:59 Beijing Time.
 
     ## Volunteer Chairs
 
+    **Kai Xu**, Guiyang University
+
     **Jiachen Wang**, Zhejiang University
-
-    **Xiao Xie**, Zhejiang University
-
-    **Xiaojing Liu**, Qinghai University
   `.replace(/^    /gm, ""),
     { async: false }
   ),
