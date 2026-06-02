@@ -73,6 +73,7 @@ export function Navbar() {
       <div class="flex-1 lg:flex-0"></div>
       <div class="absolute hidden lg:block lg:relative lg:flex-1 left-0 top-full lg:top-0 w-full lg:w-auto min-h-[calc(100vh-80px)] lg:min-h-0 lg:h-auto z-50 bg-black" classList={{ "!block": menuExpanded() }} onClick={toggleMenu}>
         <NavLink href={`/2026/${locale()}/`} title={t("Home")!} />
+        <NavLink href={`/2026/${locale()}/registration`} title={t("Registration")!} />
         <NavLink href={`/2026/${locale()}/callforpaper`} title={t("CallForPaper")!} />
         <NavLink href={`/2026/${locale()}/callforposter`} title={t("Poster")!} />
         <NavLink href={`/2026/${locale()}/specialtopic`} title={t("SpecialTopic")!} />
