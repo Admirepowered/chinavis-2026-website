@@ -111,7 +111,7 @@ export const zh = {
 
     团体优惠适用范围：仅限早鸟注册、常规注册，现场注册不享受团体减免。
 
-    办理方式：统一填报团体报名信息表（<a href="/2026/registration/团体报名信息表.xlsx" target="_blank">团体报名信息表.xlsx</a>），发送至官方邮箱：chinavis2026_reg@163.com 预约报名。
+    办理方式：统一填报团体报名信息表（点击此处下载 <strong><a href="/2026/registration/团体报名信息表.xlsx" target="_blank">团体报名信息表.xlsx</a></strong>），填写后发送至发送至官方邮箱：chinavis2026_reg@163.com 预约报名。
 
     团体不分学生/普通、会员/非会员类别，均按统一标准减免；实行统一归集、集中开票。
 
@@ -248,7 +248,7 @@ export const en = {
 
     The group discount applies only to early-bird registration and regular registration. It does not apply to on-site registration.
 
-    Application method: Complete the group registration information form (<a href="/2026/registration/团体报名信息表.xlsx" target="_blank">form.xlsx</a>) and send it to the official email address chinavis2026_reg@163.com for reservation.
+    Application method: Complete the group registration information form (click here to download <strong><a href="/2026/registration/团体报名信息表.xlsx" target="_blank">Group Registration Information Form.xlsx</a></strong>) and send it to the official email address chinavis2026_reg@163.com for reservation.
 
     The group discount applies uniformly regardless of student/regular or member/non-member category. Group registrations will be consolidated and invoiced centrally.
 
