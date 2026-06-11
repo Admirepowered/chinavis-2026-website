@@ -656,11 +656,6 @@ export const committee: {
     role: { zh: "国际论坛委员会主席", en: "International Forum Committee Chairs" },
     members: [
       {
-        name: { zh: "韩俊", en: "Jun Han" },
-        affiliation: { zh: "香港科技大学", en: "Hong Kong University of Science and Technology" },
-        photo: PhotoHanJunForum,
-      },
-      {
         name: { zh: "陈晴", en: "Qing Chen" },
         affiliation: { zh: "同济大学", en: "Tongji University" },
         photo: PhotoCQ,
