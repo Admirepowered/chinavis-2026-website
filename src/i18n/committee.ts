@@ -303,7 +303,7 @@ export const committee: {
         photo: PhotoYZQ,
       },
       {
-        name: { zh: "杨维凯", en: "Weikai Yang" },
+        name: { zh: "杨维铠", en: "Weikai Yang" },
         affiliation: {
           zh: "香港科技大学（广州）",
           en: "Hong Kong University of Science and Technology (Guangzhou)",
