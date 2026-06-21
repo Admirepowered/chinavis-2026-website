@@ -46,7 +46,7 @@ export const zh = {
     - 摘要提交截止日期 (PCS 系统)：2026 年 5 月 10 日
     - 论文提交截止日期 (PCS 系统)：2026 年 5 月 15 日
     - 论文第一轮评审结果通知日期：2026 年 6 月 20 日
-    - 论文提交期刊审稿系统日期：2026 年 7 月 10 日（暂定）
+    - Camera-ready提交日期：2026 年 7 月 10 日
 
     所有截止时间均为北京时间23:59。
 
@@ -115,7 +115,7 @@ export const en = {
     - Abstract Submission Deadline (PCS System): May 10, 2026
     - Paper Submission Deadline (PCS System): May 15, 2026
     - Notification of First-Round Review Results: June 20, 2026
-    - Submission to Journal Review System: July 10, 2026 (Tentative)
+    - Camera-ready submission deadline: July 10, 2026
 
     All deadlines are 23:59 Beijing Time.
 

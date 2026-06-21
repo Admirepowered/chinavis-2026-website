@@ -1,5 +1,6 @@
 import PhotoLXY from "~/assets/course/lxy.avif";
 import PhotoTJ from "~/assets/course/tj.avif";
+import PhotoHZL from "~/assets/course/hzl.avif";
 
 export const zh = {
   PageTitle: "课程 - ChinaVis 2026",
@@ -84,5 +85,41 @@ export const courses: {
         },
       },
     ],
-  }
+  },
+  {
+    id: "botanical-dyeing-traditional-color-atlas",
+    title: {
+      zh: "草木染章 色树观象——非遗印染技艺与中国传统色彩数据图谱构建",
+      en: "Botanical Dyeing and Color-Tree Observation: Intangible Heritage Dyeing Crafts and Building a Data Atlas of Traditional Chinese Colors",
+    },
+    date: {
+      zh: "2026 年 7 月 19 日 上午 9:00 - 12:00",
+      en: "July 19, 2026, 9:00 AM - 12:00 PM",
+    },
+    location: {
+      zh: "贵州省贵阳市 贵州饭店 第五会议室",
+      en: "Meeting Room 5, Guizhou Hotel, Guiyang, Guizhou",
+    },
+    description: {
+      zh: "<p>艺术可视化简单来说就是把看不见的抽象概念（像声音、数据、情感）变成看得见的艺术作品。本课程将非遗技艺、传统美学与数字数据研究交叉融合，以“观草木之色、传非遗之韵、构数据之谱”为教学主线，指导学员通过非遗印染技艺进行中国色彩数据图谱的手工制作。</p><p>课程分为理论讲授、实操体验、成果研讨三个环节。在理论讲授环节，将深度梳理中国传统草木染、型糊染、蜡染、扎染等经典非遗印染技艺体系，立足“色树观象”的东方传统美学思维，解析古人取色于自然、赋色于器物的造物智慧，理清青、赤、黄、白、黑五正色及间色的文化内涵、色彩体系与应用场景，挖掘传统色彩背后承载的礼制文化、民俗文化与艺术审美内核。在实践操作环节，学员通过沉浸式掌握传统印染手工技艺，自由构建中国传统色色彩树，亲身完成中国传统色彩艺术可视化的全流程创作。在成果研讨环节，学员将逐一展示个人创作作品，分享与讨论创作思路、实操感悟与心得体会。</p>",
+      en: '<p>Art visualization, simply put, is about turning invisible abstract concepts (such as sound, data, and emotion) into visible works of art. This course integrates intangible cultural heritage crafts, traditional aesthetics, and digital data research, taking "observing the colors of plants, passing on the charm of intangible heritage, and building a spectrum of data" as its main teaching thread, guiding participants to hand-make a data atlas of Chinese colors through intangible heritage dyeing techniques.</p><p>The course is divided into three parts: theoretical lectures, hands-on experience, and results discussion. In the theoretical lecture section, it thoroughly reviews the classic intangible heritage dyeing systems of traditional China—such as botanical dyeing, paste-resist dyeing, batik, and tie-dyeing—and, grounded in the Eastern traditional aesthetic thinking of "observing phenomena through color trees", analyzes the ancients\' wisdom in drawing colors from nature and applying them to objects, clarifies the cultural connotations, color systems, and application scenarios of the five primary colors (blue/green, red, yellow, white, black) and their intermediate colors, and explores the ritual culture, folk culture, and artistic aesthetics carried behind traditional colors. In the hands-on session, participants will immersively master traditional dyeing handcraft techniques, freely construct a traditional Chinese color tree, and personally complete the entire creative process of visualizing traditional Chinese color art. In the results discussion section, participants will present their individual works one by one and share and discuss their creative ideas, hands-on reflections, and insights.</p>',
+    },
+    speakers: [
+      {
+        name: {
+          zh: "黄竹兰",
+          en: "Zhulan Huang",
+        },
+        affiliation: {
+          zh: "贵阳学院",
+          en: "Guiyang University",
+        },
+        photo: PhotoHZL,
+        description: {
+          zh: "黄竹兰，贵阳学院美术学院教授，中国工艺美术协会会员，主要研究方向是民族民间手工技艺、非遗传承及创新。“马尾绣进校园”微课入选2024年教育部“礼敬中华优秀传统文化”系列活动；国家一级出版社出版专著1部，参编“十三五”国家重点出版物出版规划项目1项，CSSCI发表专业学术论文5篇、作品2篇，拥有外观设计专利20余项。",
+          en: 'Zhulan Huang is a Professor at the School of Fine Arts, Guiyang University, and a member of the China Arts and Crafts Association. Her main research interests are ethnic and folk handicraft techniques and the inheritance and innovation of intangible cultural heritage. Her micro-course "Horsetail Embroidery Enters Campus" was selected for the Ministry of Education\'s 2024 "Honoring China\'s Outstanding Traditional Culture" series of events. She has published one monograph with a first-tier national publisher, co-edited one project under the 13th Five-Year Plan national key publication program, published five professional academic papers and two works in CSSCI journals, and holds more than 20 design patents.',
+        },
+      },
+    ],
+  },
 ];

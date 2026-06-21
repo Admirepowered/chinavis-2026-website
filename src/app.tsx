@@ -1,4 +1,4 @@
-import { Suspense } from "solid-js";
+import { onMount, Suspense } from "solid-js";
 import { Router } from "@solidjs/router";
 import { Link, Meta, MetaProvider } from "@solidjs/meta";
 import { FileRoutes } from "@solidjs/start/router";
@@ -9,16 +9,29 @@ import { Navbar } from "~/components/Navbar";
 import { Teaser } from "~/components/Teaser";
 import { Footer } from "~/components/Footer";
 import { ScrollToTopButton } from "~/components/ScrollToTopButton";
-import { ServiceWorkerNotification } from "~/components/ServiceWorkerNotification";
 
 export default function App() {
-  if ('serviceWorker' in navigator) {
-    window.addEventListener('load', () => {
-      navigator.serviceWorker.register('/2026/service-worker.js')
-        .then(reg => console.log('SW registered', reg))
-        .catch(err => console.error('SW registration failed', err));
-    });
-  }
+  onMount(() => {
+    if ("serviceWorker" in navigator) {
+      navigator.serviceWorker.getRegistrations()
+        .then((registrations) => Promise.all(
+          registrations
+            .filter((registration) => new URL(registration.scope).pathname.startsWith("/2026/"))
+            .map((registration) => registration.unregister())
+        ))
+        .catch((error) => console.warn("Service worker cleanup failed", error));
+    }
+
+    if ("caches" in window) {
+      window.caches.keys()
+        .then((keys) => Promise.all(
+          keys
+            .filter((key) => key.startsWith("chinavis-2026-"))
+            .map((key) => window.caches.delete(key))
+        ))
+        .catch((error) => console.warn("Cache cleanup failed", error));
+    }
+  });
 
   return (
     <MetaProvider>
@@ -33,7 +46,6 @@ export default function App() {
             <Suspense>{props.children}</Suspense>
             <Footer />
             <ScrollToTopButton />
-            <ServiceWorkerNotification />
           </>
         )}
       >
