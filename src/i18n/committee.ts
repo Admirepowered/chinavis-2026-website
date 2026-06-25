@@ -317,7 +317,7 @@ export const committee: {
       },
       {
         name: { zh: "刘日晨", en: "Richen Liu" },
-        affiliation: { zh: "南京师范大学", en: "Nanjing Normal University" },
+        affiliation: { zh: "中国人民大学", en: "Renmin University of China" },
         photo: PhotoLRC,
       },
     ],
