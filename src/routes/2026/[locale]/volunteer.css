@@ -1,0 +1,22 @@
+.page h1 {
+  margin: 3rem 0 2.5rem;
+  text-align: center;
+  font-size: 2.5rem;
+  line-height: 1.2;
+  font-weight: 400;
+}
+
+/* Style the Markdown-rendered announcement emphasis without embedding HTML. */
+.page p:nth-of-type(2),
+.page p:nth-of-type(4) strong,
+.page p:nth-of-type(7) strong {
+  color: #f00;
+  font-weight: 700;
+}
+
+@media (max-width: 640px) {
+  .page h1 {
+    margin: 2.25rem 0 2rem;
+    font-size: 1.875rem;
+  }
+}
