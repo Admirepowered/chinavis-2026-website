@@ -1,17 +1,52 @@
 import { marked } from "marked";
 
+const fileLinkRenderer = new marked.Renderer();
+
+function escapeHtmlAttribute(value: string) {
+  return value.replace(/[&<>"']/g, (char) => ({
+    "&": "&amp;",
+    "<": "&lt;",
+    ">": "&gt;",
+    "\"": "&quot;",
+    "'": "&#39;",
+  })[char]!);
+}
+
+fileLinkRenderer.link = function ({ href, title, tokens }) {
+  const text = this.parser.parseInline(tokens);
+  const titleAttr = title ? ` title="${escapeHtmlAttribute(title)}"` : "";
+  const isFileLink = /\.(pdf|docx?|xlsx?)($|[?#])/i.test(href);
+  const fileAttrs = isFileLink ? ' target="_blank" rel="noopener" download' : "";
+
+  return `<a href="${escapeHtmlAttribute(href)}"${titleAttr}${fileAttrs}>${text}</a>`;
+};
+
 export const zh = {
   PageTitle: "志愿者 - ChinaVis 2026",
-  Title: "志愿者招募",
+  Title: "ChinaVis 2026 学生志愿者入围名单公布通知",
   Content: marked.parse(
     `
+    经个人申请、导师推荐及志愿者委员会综合评审，ChinaVis 2026 学生志愿者入围名单已初步确定，具体名单详见附件。
+
+    **请入围同学注意以下事项：**
+
+      1. 请于 2026 年 7 月 2 日 23:59（北京时间）前回复确认邮件，确认是否参加志愿服务工作。
+      2. 请尽快扫描邮件附件中的二维码加入志愿者群，以便及时接收后续工作安排及培训通知，保持通讯畅通，确保信息及时传达。
+      3. 如因特殊原因无法参加，请及时邮件告知志愿者委员会。
+
+    如有疑问，请联系：chinavis_volunteer@163.com
+
+    **入围名单下载：** [ChinaVis 2026学生志愿者入围名单.pdf](/2026/volunteer/volunteer_list.pdf)
+
+    # ChinaVis 2026 志愿者征集
+
     ## 学生志愿者项目
 
     本届会议诚挚招募学生志愿者，为 ChinaVis 2026 大会提供支持。您的积极参与将显著提升全体参会者的会议体验。作为志愿者，您将第一时间掌握可视化与可视分析领域的前沿动态，近距离接触全球专家学者，拓展宝贵的学术人脉。同时，本项目致力于选拔认真负责、热情奉献的学生志愿者，为其提供难得的实践机会，助力会议顺利举办，共同营造高效、温馨的学术交流环境。
 
-    有意向申请志愿者的同学，请前往 [https://www.wjx.cn/vm/Ok2D5wU.aspx](https://www.wjx.cn/vm/Ok2D5wU.aspx) 填写志愿者申请表，申请时需提交导师推荐意见（详见 <a href="/2026/volunteer/rec_form_cn.docx" target="_blank">《ChinaVis 志愿者导师推荐表》</a>）。我们将根据您填写的资料进行资格审核与选拔，最终结果将通过邮件或电话通知入选者。
+    有意向申请志愿者的同学，请前往 [https://www.wjx.cn/vm/Ok2D5wU.aspx](https://www.wjx.cn/vm/Ok2D5wU.aspx) 填写志愿者申请表，申请时需提交导师推荐意见（详见 [《ChinaVis 志愿者导师推荐表》](/2026/volunteer/rec_form_cn.docx)）。我们将根据您填写的资料进行资格审核与选拔，最终结果将通过邮件或电话通知入选者。
 
-    入选志愿者的同学将享受专属注册费优惠；未入选者请按大会规定的注册类型缴纳费用。<strong style="color: red">请有意申请者耐心等待选拔结果公布后再行缴费。</strong>
+    入选志愿者的同学将享受专属注册费优惠；未入选者请按大会规定的注册类型缴纳费用。**请有意申请者耐心等待选拔结果公布后再行缴费。**
 
     如对申请事宜有任何疑问，请联系：chinavis_volunteer@163.com。
 
@@ -74,22 +109,36 @@ export const zh = {
 
     **王伽臣**　浙江大学
   `.replace(/^    /gm, ""),
-    { async: false }
+    { async: false, renderer: fileLinkRenderer }
   ),
 };
 
 export const en = {
   PageTitle: "Volunteers - ChinaVis 2026",
-  Title: "Join Us: Volunteer for ChinaVis 2026",
+  Title: "ChinaVis 2026 Student Volunteer Shortlist Announcement",
   Content: marked.parse(
     `
+    After individual applications, supervisor recommendations, and comprehensive review by the volunteer committee, the ChinaVis 2026 student volunteer shortlist has been preliminarily confirmed. Please see the attachment for the full list.
+
+    **Shortlisted students should note:**
+
+     1. Please reply to the confirmation email by 23:59 (Beijing Time) on July 2, 2026 to confirm whether you will participate in the volunteer service.
+     2. Please scan the QR code in the email attachment to join the volunteer group as soon as possible, so you can receive follow-up assignments and training notices in time. Keep communication channels open.
+     3. If you cannot participate for special reasons, please inform the volunteer committee by email in time.
+
+    For inquiries, contact: chinavis_volunteer@163.com.
+
+    **Shortlist Download:** [ChinaVis 2026 Student Volunteer Shortlist PDF](/2026/volunteer/volunteer_list.pdf)
+
+    # ChinaVis 2026 Volunteer Recruitment
+
     ## Student Volunteer Program
 
     We are calling for student volunteers for ChinaVis 2026. This program looks for reliable and responsible student volunteers to assist the conference organizers in providing better conference services. Student volunteers can obtain the latest research progress in visualization and visual analysis, and work with visualization scholars from all over the world.
 
-    Students interested in applying for the volunteer position are invited to complete the volunteer application form at [https://www.wjx.cn/vm/mBK2953.aspx](https://www.wjx.cn/vm/mBK2953.aspx). A letter of recommendation from your supervisor is required during the application (please refer to the <a href="/2026/volunteer/rec_form_en.docx" target="_blank">template.docx</a>). We will conduct a qualification review and selection based on the submitted information, and final results will be communicated via email or phone.
+    Students interested in applying for the volunteer position are invited to complete the volunteer application form at [https://www.wjx.cn/vm/mBK2953.aspx](https://www.wjx.cn/vm/mBK2953.aspx). A letter of recommendation from your supervisor is required during the application (please refer to the [template.docx](/2026/volunteer/rec_form_en.docx)). We will conduct a qualification review and selection based on the submitted information, and final results will be communicated via email or phone.
 
-    Selected volunteers will receive a special discount on conference registration fees; those not selected should pay according to the registered fee category specified by the conference. <strong style="color: red">Applicants are kindly requested to wait for the announcement of selection results before making any payment.</strong>
+    Selected volunteers will receive a special discount on conference registration fees; those not selected should pay according to the registered fee category specified by the conference. **Applicants are kindly requested to wait for the announcement of selection results before making any payment.**
 
     For any inquiries regarding the application, please contact: chinavis_volunteer@163.com.
 
@@ -156,6 +205,6 @@ export const en = {
 
     **Jiachen Wang**, Zhejiang University
   `.replace(/^    /gm, ""),
-    { async: false }
+    { async: false, renderer: fileLinkRenderer }
   ),
 };
