@@ -722,6 +722,320 @@ export const zh = {
             <p style="margin: 0; text-indent: 0; line-height: 1.8"><strong>作者信息：</strong> 姚牧原、王若璞（指导老师）</p>
       </div>
     </div>
+    
+    ### 赛道2：艺术可视化竞赛
+
+    ChinaVis 2026 数据可视化竞赛赛道 2（艺术可视化竞赛）共 30 个作品入选，其中金奖作品 2 个，银奖作品 5 个，铜奖作品 6 个，优秀作品 8 个，入围作品 9 个，名单如下：
+
+    <div style="text-indent: 0; margin-top: 6px"><span style="color: #de0000; font-weight: 700">金奖作品</span></div>
+
+    <div style="display: grid; grid-template-columns: 2.8em minmax(0, 1fr); column-gap: 0.55em; text-indent: 0; margin: 10px 0 14px 0; align-items: start">
+      <div style="text-align: right; text-indent: 0; line-height: 1.8">1.</div>
+      <div style="min-width: 0; text-indent: 0">
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>作品名称：</strong> 可编辑的我</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>参赛单位：</strong> 鲁迅美术学院</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>作者信息：</strong> 李婉婷、林贞利、刘梦雅、刘放（指导老师）、方美乔（指导老师）</p>
+            <p style="margin: 0; text-indent: 0; line-height: 1.8"><strong>作品链接：</strong> <a href="https://www.bilibili.com/video/BV14VE26RELn/?share_source=copy_web&amp;vd_source=3d16c0aee918ae772f754fd3c3a37228" target="_blank">在线视频</a>　<a href="https://pan.baidu.com/s/16Xd2dmUioziHkvQtdmlvFQ?pwd=w9rb" target="_blank">作品下载</a>（提取码：w9rb）</p>
+      </div>
+    </div>
+
+    <div style="display: grid; grid-template-columns: 2.8em minmax(0, 1fr); column-gap: 0.55em; text-indent: 0; margin: 10px 0 14px 0; align-items: start">
+      <div style="text-align: right; text-indent: 0; line-height: 1.8">2.</div>
+      <div style="min-width: 0; text-indent: 0">
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>作品名称：</strong> 森冈周治 · 侵华实录</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>参赛单位：</strong> 北京交通大学</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>作者信息：</strong> 赵娜、张丽荣、屈柯蕊、董月夕（指导老师）、王征（指导老师）</p>
+            <p style="margin: 0; text-indent: 0; line-height: 1.8"><strong>作品链接：</strong> <a href="http://150.109.44.33" target="_blank">在线视频</a>　<a href="https://pan.baidu.com/s/1kUVP9e90VtzQ94SXqluQew?pwd=s33b" target="_blank">作品下载</a>（提取码：s33b）</p>
+      </div>
+    </div>
+
+    <div style="text-indent: 0; margin-top: 6px"><span style="color: #de0000; font-weight: 700">银奖作品</span></div>
+
+    <div style="display: grid; grid-template-columns: 2.8em minmax(0, 1fr); column-gap: 0.55em; text-indent: 0; margin: 10px 0 14px 0; align-items: start">
+      <div style="text-align: right; text-indent: 0; line-height: 1.8">1.</div>
+      <div style="min-width: 0; text-indent: 0">
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>作品名称：</strong> 天地之和，声乐宇宙——曾侯乙墓的信息可视化设计</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>参赛单位：</strong> 内蒙古师范大学</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>作者信息：</strong> 邰苏苒、柏林夫（指导老师）</p>
+            <p style="margin: 0; text-indent: 0; line-height: 1.8"><strong>作品链接：</strong> <a href="https://pan.baidu.com/s/1z6g3jI1l_u-kluvGdHI1zA" target="_blank">在线视频</a>（提取码：ks6g）　<a href="https://pan.baidu.com/s/1gASsrEoLoosgXChM88uHTA" target="_blank">作品下载</a>（提取码：hgs5）</p>
+      </div>
+    </div>
+
+    <div style="display: grid; grid-template-columns: 2.8em minmax(0, 1fr); column-gap: 0.55em; text-indent: 0; margin: 10px 0 14px 0; align-items: start">
+      <div style="text-align: right; text-indent: 0; line-height: 1.8">2.</div>
+      <div style="min-width: 0; text-indent: 0">
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>作品名称：</strong> 数染力迹</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>参赛单位：</strong> 安徽工业大学</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>作者信息：</strong> 曹孟涵、朱佳钰、侯嘉祺（指导老师）</p>
+            <p style="margin: 0; text-indent: 0; line-height: 1.8"><strong>作品链接：</strong> <a href="https://m.v.qq.com/x/m/play?vid=y3281r98jja&amp;cid=&amp;ptag=share_11_11&amp;pageStyle=immersive_first_page&amp;pageType=immerse" target="_blank">在线视频</a>　<a href="https://pan.baidu.com/s/1jRpJShEPrl-C6Zk5UpUYaw?pwd=a6jy" target="_blank">作品下载</a>（提取码：a6jy）</p>
+      </div>
+    </div>
+
+    <div style="display: grid; grid-template-columns: 2.8em minmax(0, 1fr); column-gap: 0.55em; text-indent: 0; margin: 10px 0 14px 0; align-items: start">
+      <div style="text-align: right; text-indent: 0; line-height: 1.8">3.</div>
+      <div style="min-width: 0; text-indent: 0">
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>作品名称：</strong> 织算成林</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>参赛单位：</strong> 武汉纺织大学、普渡大学</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>作者信息：</strong> 高圣雨、范可欣、吴桐傲雪、张莫岩、冯安然（指导老师）、柯佳明（指导老师）</p>
+            <p style="margin: 0; text-indent: 0; line-height: 1.8"><strong>作品链接：</strong> <a href="https://www.bilibili.com/video/BV1zkEX6FEAQ/" target="_blank">在线视频</a>　<a href="https://pan.baidu.com/s/1kdT4MKa4vW4JTInjlCJHHw" target="_blank">作品下载</a>（提取码：rwnk）</p>
+      </div>
+    </div>
+
+    <div style="display: grid; grid-template-columns: 2.8em minmax(0, 1fr); column-gap: 0.55em; text-indent: 0; margin: 10px 0 14px 0; align-items: start">
+      <div style="text-align: right; text-indent: 0; line-height: 1.8">4.</div>
+      <div style="min-width: 0; text-indent: 0">
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>作品名称：</strong> 只是当我不能想象一个坑</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>参赛单位：</strong> 中国美术学院</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>作者信息：</strong> 章昱、苏睿哲、黄钠墉、连瞻宇、葛晓婵（指导老师）</p>
+            <p style="margin: 0; text-indent: 0; line-height: 1.8"><strong>作品链接：</strong> <a href="http://xhslink.com/o/fdpB1uBmDB" target="_blank">在线视频</a>　<a href="https://pan.baidu.com/s/1LCx0niZ5-ndJKhgLn13_2g?pwd=hhnb" target="_blank">作品下载</a>（提取码：hhnb）</p>
+      </div>
+    </div>
+
+    <div style="display: grid; grid-template-columns: 2.8em minmax(0, 1fr); column-gap: 0.55em; text-indent: 0; margin: 10px 0 14px 0; align-items: start">
+      <div style="text-align: right; text-indent: 0; line-height: 1.8">5.</div>
+      <div style="min-width: 0; text-indent: 0">
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>作品名称：</strong> 无言之物</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>参赛单位：</strong> 鲁迅美术学院</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>作者信息：</strong> 楼洁、贾萧郡、楼可人、刘放（指导老师）、方美乔（指导老师）</p>
+            <p style="margin: 0; text-indent: 0; line-height: 1.8"><strong>作品链接：</strong> <a href="https://www.bilibili.com/video/BV1MwEJ6EEmk?vd_source=7dbf971875626d13e7964f8610f90fdd" target="_blank">在线视频</a>　<a href="https://pan.baidu.com/s/1GO2KENFimqSAfiyjXnAmKA?pwd=e4sp" target="_blank">作品下载</a>（提取码：e4sp）</p>
+      </div>
+    </div>
+
+    <div style="text-indent: 0; margin-top: 6px"><span style="color: #de0000; font-weight: 700">铜奖作品</span></div>
+
+    <div style="display: grid; grid-template-columns: 2.8em minmax(0, 1fr); column-gap: 0.55em; text-indent: 0; margin: 10px 0 14px 0; align-items: start">
+      <div style="text-align: right; text-indent: 0; line-height: 1.8">1.</div>
+      <div style="min-width: 0; text-indent: 0">
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>作品名称：</strong> 麦田之下</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>参赛单位：</strong> 南京艺术学院</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>作者信息：</strong> 孙艺昕、杨美琪、熊瑞、魏婧婧（指导老师）</p>
+            <p style="margin: 0; text-indent: 0; line-height: 1.8"><strong>作品链接：</strong> <a href="https://pan.baidu.com/s/1XnJrod9TRmnGeoSUEkFUhw" target="_blank">作品下载</a>（提取码：w85u）</p>
+      </div>
+    </div>
+
+    <div style="display: grid; grid-template-columns: 2.8em minmax(0, 1fr); column-gap: 0.55em; text-indent: 0; margin: 10px 0 14px 0; align-items: start">
+      <div style="text-align: right; text-indent: 0; line-height: 1.8">2.</div>
+      <div style="min-width: 0; text-indent: 0">
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>作品名称：</strong> 前蜀宴乐</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>参赛单位：</strong> 四川美术学院</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>作者信息：</strong> 杜与源、何林芝、郑海泉</p>
+            <p style="margin: 0; text-indent: 0; line-height: 1.8"><strong>作品链接：</strong> <a href="https://pan.baidu.com/s/1WGrDtQ14Mxad-hWTcgFAoQ?pwd=c222" target="_blank">作品下载</a>（提取码：c222）</p>
+      </div>
+    </div>
+
+    <div style="display: grid; grid-template-columns: 2.8em minmax(0, 1fr); column-gap: 0.55em; text-indent: 0; margin: 10px 0 14px 0; align-items: start">
+      <div style="text-align: right; text-indent: 0; line-height: 1.8">3.</div>
+      <div style="min-width: 0; text-indent: 0">
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>作品名称：</strong> 炭息</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>参赛单位：</strong> 内蒙古师范大学</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>作者信息：</strong> 柏林夫（指导老师）、刘鉴震、秦佳鑫</p>
+            <p style="margin: 0; text-indent: 0; line-height: 1.8"><strong>作品链接：</strong> <a href="https://pan.baidu.com/s/1mLI1AHyO15JqIffzBSyaEQ?pwd=48rf" target="_blank">在线视频</a>（提取码：48rf）　<a href="https://pan.baidu.com/s/1IkWIjl4VgOitN5C1E9Nbuw?pwd=es1a" target="_blank">作品下载</a>（提取码：es1a）</p>
+      </div>
+    </div>
+
+    <div style="display: grid; grid-template-columns: 2.8em minmax(0, 1fr); column-gap: 0.55em; text-indent: 0; margin: 10px 0 14px 0; align-items: start">
+      <div style="text-align: right; text-indent: 0; line-height: 1.8">4.</div>
+      <div style="min-width: 0; text-indent: 0">
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>作品名称：</strong> 堆叠的贝丘</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>参赛单位：</strong> 中国美术学院</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>作者信息：</strong> 陈贝尔</p>
+            <p style="margin: 0; text-indent: 0; line-height: 1.8"><strong>作品链接：</strong> <a href="https://pan.baidu.com/s/1YgoRf4y7eB4mMIsMvHsWog?pwd=728v" target="_blank">作品下载</a>（提取码：728v）</p>
+      </div>
+    </div>
+
+    <div style="display: grid; grid-template-columns: 2.8em minmax(0, 1fr); column-gap: 0.55em; text-indent: 0; margin: 10px 0 14px 0; align-items: start">
+      <div style="text-align: right; text-indent: 0; line-height: 1.8">5.</div>
+      <div style="min-width: 0; text-indent: 0">
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>作品名称：</strong> 熵谷</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>参赛单位：</strong> 广州应用科技学院</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>作者信息：</strong> 胡恩豪</p>
+            <p style="margin: 0; text-indent: 0; line-height: 1.8"><strong>作品链接：</strong> <a href="https://www.bilibili.com/video/BV1ufET6QEc7/?vd_source=e3c58828a41e6c4c5d71c1b19309cc08" target="_blank">在线视频</a>　<a href="https://pan.baidu.com/s/1HRkNb62bgkhRSQNHXQxT9g?pwd=ucks" target="_blank">作品下载</a>（提取码：ucks）</p>
+      </div>
+    </div>
+
+    <div style="display: grid; grid-template-columns: 2.8em minmax(0, 1fr); column-gap: 0.55em; text-indent: 0; margin: 10px 0 14px 0; align-items: start">
+      <div style="text-align: right; text-indent: 0; line-height: 1.8">6.</div>
+      <div style="min-width: 0; text-indent: 0">
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>作品名称：</strong> 生成代谢GenBolism</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>参赛单位：</strong> 清华大学</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>作者信息：</strong> 苏子霖、吴琼（指导老师）</p>
+            <p style="margin: 0; text-indent: 0; line-height: 1.8"><strong>作品链接：</strong> <a href="https://www.bilibili.com/video/BV16AVZ6YEhU/?share_source=copy_web" target="_blank">在线视频</a>　<a href="https://pan.baidu.com/s/1RKiNLc4vB_wSTSVSIjgY3Q?pwd=aasu" target="_blank">作品下载</a>（提取码：aasu）</p>
+      </div>
+    </div>
+
+    <div style="text-indent: 0; margin-top: 6px"><span style="color: #de0000; font-weight: 700">优秀作品</span></div>
+
+    <div style="display: grid; grid-template-columns: 2.8em minmax(0, 1fr); column-gap: 0.55em; text-indent: 0; margin: 10px 0 14px 0; align-items: start">
+      <div style="text-align: right; text-indent: 0; line-height: 1.8">1.</div>
+      <div style="min-width: 0; text-indent: 0">
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>作品名称：</strong> 管窥敕勒川——呼和浩特市水资源互动感知装置设计</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>参赛单位：</strong> 内蒙古师范大学</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>作者信息：</strong> 邰苏苒、柏林夫（指导老师）</p>
+            <p style="margin: 0; text-indent: 0; line-height: 1.8"><strong>作品链接：</strong> <a href="https://pan.baidu.com/s/1kfYjMfSCRt6Nj1rz-10QNg" target="_blank">在线视频</a>（提取码：sve9）　<a href="https://pan.baidu.com/s/1rgEHZ69I448uaJEo8vUSwQ" target="_blank">作品下载</a>（提取码：dswe）</p>
+      </div>
+    </div>
+
+    <div style="display: grid; grid-template-columns: 2.8em minmax(0, 1fr); column-gap: 0.55em; text-indent: 0; margin: 10px 0 14px 0; align-items: start">
+      <div style="text-align: right; text-indent: 0; line-height: 1.8">2.</div>
+      <div style="min-width: 0; text-indent: 0">
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>作品名称：</strong> 心灵沙洲——留守老人沙盘心理的视觉转译研究</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>参赛单位：</strong> 南京林业大学</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>作者信息：</strong> 汪玥、金珈伊、侯嘉祺（指导老师）</p>
+            <p style="margin: 0; text-indent: 0; line-height: 1.8"><strong>作品链接：</strong> <a href="https://www.bilibili.com/video/BV1MqVz6tEJk/" target="_blank">在线视频</a>　<a href="https://pan.baidu.com/s/1V2OwolZO9PmWBXbbHvp3KA?pwd=wb5d" target="_blank">作品下载</a>（提取码：wb5d）</p>
+      </div>
+    </div>
+
+    <div style="display: grid; grid-template-columns: 2.8em minmax(0, 1fr); column-gap: 0.55em; text-indent: 0; margin: 10px 0 14px 0; align-items: start">
+      <div style="text-align: right; text-indent: 0; line-height: 1.8">3.</div>
+      <div style="min-width: 0; text-indent: 0">
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>作品名称：</strong> 森冈周治日记：713天战地实录</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>参赛单位：</strong> 北京交通大学</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>作者信息：</strong> 孙刘钱、陈奕彤、董月夕（指导老师）、王征（指导老师）</p>
+            <p style="margin: 0; text-indent: 0; line-height: 1.8"><strong>作品链接：</strong> <a href="https://www.bilibili.com/video/BV1PZEd62EVW/?pop_share=1&amp;spm_id_from=333.40164.0.0&amp;vd_source=4daf620ca678072ea6571626927179e3" target="_blank">在线视频</a>　<a href="https://pan.baidu.com/s/1Z74m5WGivCAc9noZr5h_nQ" target="_blank">作品下载</a>（提取码：d29k）</p>
+      </div>
+    </div>
+
+    <div style="display: grid; grid-template-columns: 2.8em minmax(0, 1fr); column-gap: 0.55em; text-indent: 0; margin: 10px 0 14px 0; align-items: start">
+      <div style="text-align: right; text-indent: 0; line-height: 1.8">4.</div>
+      <div style="min-width: 0; text-indent: 0">
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>作品名称：</strong> 黔影云脉：贵州影像转场与算力叙事</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>参赛单位：</strong> 鲁迅美术学院</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>作者信息：</strong> 宋蕊、姚佳雨、刘放（指导老师）</p>
+            <p style="margin: 0; text-indent: 0; line-height: 1.8"><strong>作品链接：</strong> <a href="https://pan.baidu.com/s/1gYUxtsXECqFEcJV1ZZNqjg" target="_blank">作品下载</a>（提取码：crr4）</p>
+      </div>
+    </div>
+
+    <div style="display: grid; grid-template-columns: 2.8em minmax(0, 1fr); column-gap: 0.55em; text-indent: 0; margin: 10px 0 14px 0; align-items: start">
+      <div style="text-align: right; text-indent: 0; line-height: 1.8">5.</div>
+      <div style="min-width: 0; text-indent: 0">
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>作品名称：</strong> 匠心宅院·非遗的守望</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>参赛单位：</strong> 南京艺术学院</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>作者信息：</strong> 孙浩哲、黄兰皓、Jenny（胡嘉琳）、魏婧婧（指导老师）</p>
+            <p style="margin: 0; text-indent: 0; line-height: 1.8"><strong>作品链接：</strong> <a href="https://v.qq.com/x/page/z3280ifwv4w.html?url_from=share" target="_blank">在线视频</a>　<a href="https://pan.baidu.com/s/17yQ5Yorxxsva2ezCK01b7w?pwd=36fn" target="_blank">作品下载</a>（提取码：36fn）</p>
+      </div>
+    </div>
+
+    <div style="display: grid; grid-template-columns: 2.8em minmax(0, 1fr); column-gap: 0.55em; text-indent: 0; margin: 10px 0 14px 0; align-items: start">
+      <div style="text-align: right; text-indent: 0; line-height: 1.8">6.</div>
+      <div style="min-width: 0; text-indent: 0">
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>作品名称：</strong> 日月换新天</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>参赛单位：</strong> 中国美术学院</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>作者信息：</strong> 蔡艺、路小梦、顾文佳（指导老师）</p>
+            <p style="margin: 0; text-indent: 0; line-height: 1.8"><strong>作品链接：</strong> <a href="https://pan.baidu.com/s/1VFBmukZmIDKCn1l3EGVUNg?pwd=ec6p" target="_blank">作品下载</a>（提取码：ec6p）</p>
+      </div>
+    </div>
+
+    <div style="display: grid; grid-template-columns: 2.8em minmax(0, 1fr); column-gap: 0.55em; text-indent: 0; margin: 10px 0 14px 0; align-items: start">
+      <div style="text-align: right; text-indent: 0; line-height: 1.8">7.</div>
+      <div style="min-width: 0; text-indent: 0">
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>作品名称：</strong> Campus Sounds</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>参赛单位：</strong> 上海外国语大学贤达经济人文学院</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>作者信息：</strong> 沙赛青、马腾飞（指导老师）</p>
+            <p style="margin: 0; text-indent: 0; line-height: 1.8"><strong>作品链接：</strong> <a href="https://www.bilibili.com/video/BV1BCER6TEdj/?share_source=copy_web&amp;vd_source=4089a9b65c442191831d5abed1452c9d" target="_blank">在线视频</a>　<a href="https://pan.baidu.com/s/1mdMhiRUtvvAC7xv4XWd0wA?pwd=gv8x" target="_blank">作品下载</a>（提取码：gv8x）</p>
+      </div>
+    </div>
+
+    <div style="display: grid; grid-template-columns: 2.8em minmax(0, 1fr); column-gap: 0.55em; text-indent: 0; margin: 10px 0 14px 0; align-items: start">
+      <div style="text-align: right; text-indent: 0; line-height: 1.8">8.</div>
+      <div style="min-width: 0; text-indent: 0">
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>作品名称：</strong> 观相引轴</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>参赛单位：</strong> 南京林业大学</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>作者信息：</strong> 谢泽恺、贺鹏飞、曹梦洋、侯嘉祺（指导老师）</p>
+            <p style="margin: 0; text-indent: 0; line-height: 1.8"><strong>作品链接：</strong> <a href="https://www.bilibili.com/video/BV1upEn69Eq6/?share_source=copy_web&amp;vd_source=748f7b0d039747375840791e38fe49f8" target="_blank">在线视频</a>　<a href="https://pan.baidu.com/s/1FV4imElTpucVE3Hjch16Ww?pwd=egfc" target="_blank">作品下载</a>（提取码：egfc）</p>
+      </div>
+    </div>
+
+    <div style="text-indent: 0; margin-top: 6px"><span style="color: #de0000; font-weight: 700">入围作品</span></div>
+
+    <div style="display: grid; grid-template-columns: 2.8em minmax(0, 1fr); column-gap: 0.55em; text-indent: 0; margin: 10px 0 14px 0; align-items: start">
+      <div style="text-align: right; text-indent: 0; line-height: 1.8">1.</div>
+      <div style="min-width: 0; text-indent: 0">
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>作品名称：</strong> 剧见昙华</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>参赛单位：</strong> 南京艺术学院</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>作者信息：</strong> 郭凯悦、魏婧婧（指导老师）</p>
+            <p style="margin: 0; text-indent: 0; line-height: 1.8"><strong>作品链接：</strong> <a href="https://b23.tv/Y0N3uLi" target="_blank">在线视频</a>　<a href="https://pan.baidu.com/s/1OtayybnbfoT0kIeJoO72aQ?pwd=mmnn" target="_blank">作品下载</a>（提取码：mmnn）</p>
+      </div>
+    </div>
+
+    <div style="display: grid; grid-template-columns: 2.8em minmax(0, 1fr); column-gap: 0.55em; text-indent: 0; margin: 10px 0 14px 0; align-items: start">
+      <div style="text-align: right; text-indent: 0; line-height: 1.8">2.</div>
+      <div style="min-width: 0; text-indent: 0">
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>作品名称：</strong> 青鸟令</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>参赛单位：</strong> 内蒙古师范大学</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>作者信息：</strong> 蒋雨琪</p>
+            <p style="margin: 0; text-indent: 0; line-height: 1.8"><strong>作品链接：</strong> <a href="https://pan.baidu.com/s/1-04Xv5G_rKj0gW8g7RgWTg?pwd=fpgs" target="_blank">作品下载</a>（提取码：fpgs）</p>
+      </div>
+    </div>
+
+    <div style="display: grid; grid-template-columns: 2.8em minmax(0, 1fr); column-gap: 0.55em; text-indent: 0; margin: 10px 0 14px 0; align-items: start">
+      <div style="text-align: right; text-indent: 0; line-height: 1.8">3.</div>
+      <div style="min-width: 0; text-indent: 0">
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>作品名称：</strong> 光启·共生</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>参赛单位：</strong> 南京艺术学院</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>作者信息：</strong> 洑鼎霄、房彦琦、周潘辰、魏婧婧（指导老师）</p>
+            <p style="margin: 0; text-indent: 0; line-height: 1.8"><strong>作品链接：</strong> <a href="https://www.bilibili.com/video/BV1LCEt6pEYM?vd_source=1ad56254e6c2ce8f6c5e9730a454ec15" target="_blank">在线视频</a>　<a href="https://pan.baidu.com/s/1_JFaONCHCoSk0iZl3u4bTA?pwd=p76p" target="_blank">作品下载</a>（提取码：p76p）</p>
+      </div>
+    </div>
+
+    <div style="display: grid; grid-template-columns: 2.8em minmax(0, 1fr); column-gap: 0.55em; text-indent: 0; margin: 10px 0 14px 0; align-items: start">
+      <div style="text-align: right; text-indent: 0; line-height: 1.8">4.</div>
+      <div style="min-width: 0; text-indent: 0">
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>作品名称：</strong> 四时羽迹——大黑河湿地候鸟迁徙信息可视化设计</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>参赛单位：</strong> 内蒙古师范大学</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>作者信息：</strong> 李敏州、于逸霏、严琦琦、周子萌、张帆（指导老师）、李晨璐（指导老师）</p>
+            <p style="margin: 0; text-indent: 0; line-height: 1.8"><strong>作品链接：</strong> <a href="https://b23.tv/9so62sL" target="_blank">在线视频</a>　<a href="https://pan.baidu.com/s/1ZWe1oWDBOiIhsD2sIA8_LQ?pwd=1v84" target="_blank">作品下载</a>（提取码：1v84）</p>
+      </div>
+    </div>
+
+    <div style="display: grid; grid-template-columns: 2.8em minmax(0, 1fr); column-gap: 0.55em; text-indent: 0; margin: 10px 0 14px 0; align-items: start">
+      <div style="text-align: right; text-indent: 0; line-height: 1.8">5.</div>
+      <div style="min-width: 0; text-indent: 0">
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>作品名称：</strong> 白蓝缬迹</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>参赛单位：</strong> 四川美术学院</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>作者信息：</strong> 杨浩斌</p>
+            <p style="margin: 0; text-indent: 0; line-height: 1.8"><strong>作品链接：</strong> <a href="https://pan.baidu.com/s/1XQwd5_FCgN0txnegPANIww?pwd=i3k5" target="_blank">作品下载</a>（提取码：i3k5）</p>
+      </div>
+    </div>
+
+    <div style="display: grid; grid-template-columns: 2.8em minmax(0, 1fr); column-gap: 0.55em; text-indent: 0; margin: 10px 0 14px 0; align-items: start">
+      <div style="text-align: right; text-indent: 0; line-height: 1.8">6.</div>
+      <div style="min-width: 0; text-indent: 0">
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>作品名称：</strong> 空心岛</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>参赛单位：</strong> 南京林业大学</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>作者信息：</strong> 汪玥、李袁、周佳琦、彭千禧龙（指导老师）</p>
+            <p style="margin: 0; text-indent: 0; line-height: 1.8"><strong>作品链接：</strong> <a href="https://pan.baidu.com/s/1CPGQvM0yOyxFLS0xK6AJ4g?pwd=4gn3" target="_blank">作品下载</a>（提取码：4gn3）</p>
+      </div>
+    </div>
+
+    <div style="display: grid; grid-template-columns: 2.8em minmax(0, 1fr); column-gap: 0.55em; text-indent: 0; margin: 10px 0 14px 0; align-items: start">
+      <div style="text-align: right; text-indent: 0; line-height: 1.8">7.</div>
+      <div style="min-width: 0; text-indent: 0">
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>作品名称：</strong> 灯影华章</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>参赛单位：</strong> 惠州学院</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>作者信息：</strong> 周佩颖、叶晓可、张佳帝（指导老师）、张菁秋（指导老师）</p>
+            <p style="margin: 0; text-indent: 0; line-height: 1.8"><strong>作品链接：</strong> <a href="https://b23.tv/NVzyHv2" target="_blank">在线视频</a>　<a href="https://pan.baidu.com/s/1OmaxZ2t78qmy-Dwl3k2toQ?pwd=BG9r" target="_blank">作品下载</a>（提取码：BG9r）</p>
+      </div>
+    </div>
+
+    <div style="display: grid; grid-template-columns: 2.8em minmax(0, 1fr); column-gap: 0.55em; text-indent: 0; margin: 10px 0 14px 0; align-items: start">
+      <div style="text-align: right; text-indent: 0; line-height: 1.8">8.</div>
+      <div style="min-width: 0; text-indent: 0">
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>作品名称：</strong> 岭南古典园林余荫山房信息可视化设计</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>参赛单位：</strong> 惠州学院</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>作者信息：</strong> 叶倩希、郑恩、刘静怡、张粤、张佳帝（指导老师）</p>
+            <p style="margin: 0; text-indent: 0; line-height: 1.8"><strong>作品链接：</strong> <a href="https://pan.baidu.com/s/1EyvoQ_OTPzgstiBl0Hnu5Q" target="_blank">在线视频</a>（提取码：0722）　<a href="https://pan.baidu.com/s/1NQP_I7XLfjofk7P-OfQU5A?pwd=0722" target="_blank">作品下载</a>（提取码：0722）</p>
+      </div>
+    </div>
+
+    <div style="display: grid; grid-template-columns: 2.8em minmax(0, 1fr); column-gap: 0.55em; text-indent: 0; margin: 10px 0 14px 0; align-items: start">
+      <div style="text-align: right; text-indent: 0; line-height: 1.8">9.</div>
+      <div style="min-width: 0; text-indent: 0">
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>作品名称：</strong> 气象脉络</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>参赛单位：</strong> 中国美术学院</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>作者信息：</strong> 席中钰、逯明慧、蔡文超（指导老师）</p>
+            <p style="margin: 0; text-indent: 0; line-height: 1.8"><strong>作品链接：</strong> <a href="https://pan.baidu.com/s/1mNldHN-lGGxo94kmI2aOBQ?pwd=cmpk" target="_blank">作品下载</a>（提取码：cmpk）</p>
+      </div>
+    </div>
 
     ## 可视化竞赛委员会
 
@@ -1472,6 +1786,320 @@ export const en = {
             <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Work Title:</strong> ComicVis</p>
             <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Institution:</strong> Information Engineering University</p>
             <p style="margin: 0; text-indent: 0; line-height: 1.8"><strong>Team Members:</strong> Yao Muyuan, Wang Ruopu (Advisor)</p>
+      </div>
+    </div>
+    
+    ### Track 2: Art Visualization Competition
+
+    ChinaVis 2026 Data Visualization Competition Track 2 (Art Visualization Competition) includes 30 selected works: 2 Gold Award works, 5 Silver Award works, 6 Bronze Award works, 8 Excellence Awards, and 9 Finalists. The list is as follows:
+
+    <div style="text-indent: 0; margin-top: 6px"><span style="color: #de0000; font-weight: 700">Gold Award</span></div>
+
+    <div style="display: grid; grid-template-columns: 2.8em minmax(0, 1fr); column-gap: 0.55em; text-indent: 0; margin: 10px 0 14px 0; align-items: start">
+      <div style="text-align: right; text-indent: 0; line-height: 1.8">1.</div>
+      <div style="min-width: 0; text-indent: 0">
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Work Title:</strong> Editable Me</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Institution:</strong> Luxun Academy of Fine Arts</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Team Members:</strong> Li Wanting, Lin Zhenli, Liu Mengya, Liu Fang (Advisor), Fang Meiqiao (Advisor)</p>
+            <p style="margin: 0; text-indent: 0; line-height: 1.8"><strong>Links:</strong> <a href="https://www.bilibili.com/video/BV14VE26RELn/?share_source=copy_web&amp;vd_source=3d16c0aee918ae772f754fd3c3a37228" target="_blank">Online Video</a> &nbsp; <a href="https://pan.baidu.com/s/16Xd2dmUioziHkvQtdmlvFQ?pwd=w9rb" target="_blank">Download</a> (code: w9rb)</p>
+      </div>
+    </div>
+
+    <div style="display: grid; grid-template-columns: 2.8em minmax(0, 1fr); column-gap: 0.55em; text-indent: 0; margin: 10px 0 14px 0; align-items: start">
+      <div style="text-align: right; text-indent: 0; line-height: 1.8">2.</div>
+      <div style="min-width: 0; text-indent: 0">
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Work Title:</strong> Shuji Morioka: Records of the Invasion of China</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Institution:</strong> Beijing Jiaotong University</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Team Members:</strong> Zhao Na, Zhang Lirong, Qu Kerui, Dong Yuexi (Advisor), Wang Zheng (Advisor)</p>
+            <p style="margin: 0; text-indent: 0; line-height: 1.8"><strong>Links:</strong> <a href="http://150.109.44.33" target="_blank">Online Video</a> &nbsp; <a href="https://pan.baidu.com/s/1kUVP9e90VtzQ94SXqluQew?pwd=s33b" target="_blank">Download</a> (code: s33b)</p>
+      </div>
+    </div>
+
+    <div style="text-indent: 0; margin-top: 6px"><span style="color: #de0000; font-weight: 700">Silver Award</span></div>
+
+    <div style="display: grid; grid-template-columns: 2.8em minmax(0, 1fr); column-gap: 0.55em; text-indent: 0; margin: 10px 0 14px 0; align-items: start">
+      <div style="text-align: right; text-indent: 0; line-height: 1.8">1.</div>
+      <div style="min-width: 0; text-indent: 0">
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Work Title:</strong> Harmony Between Heaven and Earth, a Musical Universe: Information Visualization Design of the Tomb of Marquis Yi of Zeng</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Institution:</strong> Inner Mongolia Normal University</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Team Members:</strong> Tai Suran, Bai Linfu (Advisor)</p>
+            <p style="margin: 0; text-indent: 0; line-height: 1.8"><strong>Links:</strong> <a href="https://pan.baidu.com/s/1z6g3jI1l_u-kluvGdHI1zA" target="_blank">Online Video</a> (code: ks6g) &nbsp; <a href="https://pan.baidu.com/s/1gASsrEoLoosgXChM88uHTA" target="_blank">Download</a> (code: hgs5)</p>
+      </div>
+    </div>
+
+    <div style="display: grid; grid-template-columns: 2.8em minmax(0, 1fr); column-gap: 0.55em; text-indent: 0; margin: 10px 0 14px 0; align-items: start">
+      <div style="text-align: right; text-indent: 0; line-height: 1.8">2.</div>
+      <div style="min-width: 0; text-indent: 0">
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Work Title:</strong> Digital Dyeing, Traces of Force</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Institution:</strong> Anhui University of Technology</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Team Members:</strong> Cao Menghan, Zhu Jiayu, Hou Jiaqi (Advisor)</p>
+            <p style="margin: 0; text-indent: 0; line-height: 1.8"><strong>Links:</strong> <a href="https://m.v.qq.com/x/m/play?vid=y3281r98jja&amp;cid=&amp;ptag=share_11_11&amp;pageStyle=immersive_first_page&amp;pageType=immerse" target="_blank">Online Video</a> &nbsp; <a href="https://pan.baidu.com/s/1jRpJShEPrl-C6Zk5UpUYaw?pwd=a6jy" target="_blank">Download</a> (code: a6jy)</p>
+      </div>
+    </div>
+
+    <div style="display: grid; grid-template-columns: 2.8em minmax(0, 1fr); column-gap: 0.55em; text-indent: 0; margin: 10px 0 14px 0; align-items: start">
+      <div style="text-align: right; text-indent: 0; line-height: 1.8">3.</div>
+      <div style="min-width: 0; text-indent: 0">
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Work Title:</strong> Weaving Computation into a Forest</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Institution:</strong> Wuhan Textile University, Purdue University</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Team Members:</strong> Gao Shengyu, Fan Kexin, Wu Tong Aoxue, Zhang Moyan, Feng Anran (Advisor), Ke Jiaming (Advisor)</p>
+            <p style="margin: 0; text-indent: 0; line-height: 1.8"><strong>Links:</strong> <a href="https://www.bilibili.com/video/BV1zkEX6FEAQ/" target="_blank">Online Video</a> &nbsp; <a href="https://pan.baidu.com/s/1kdT4MKa4vW4JTInjlCJHHw" target="_blank">Download</a> (code: rwnk)</p>
+      </div>
+    </div>
+
+    <div style="display: grid; grid-template-columns: 2.8em minmax(0, 1fr); column-gap: 0.55em; text-indent: 0; margin: 10px 0 14px 0; align-items: start">
+      <div style="text-align: right; text-indent: 0; line-height: 1.8">4.</div>
+      <div style="min-width: 0; text-indent: 0">
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Work Title:</strong> Only When I Cannot Imagine a Pit</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Institution:</strong> China Academy of Art</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Team Members:</strong> Zhang Yu, Su Ruizhe, Huang Nayong, Lian Zhanyu, Ge Xiaochan (Advisor)</p>
+            <p style="margin: 0; text-indent: 0; line-height: 1.8"><strong>Links:</strong> <a href="http://xhslink.com/o/fdpB1uBmDB" target="_blank">Online Video</a> &nbsp; <a href="https://pan.baidu.com/s/1LCx0niZ5-ndJKhgLn13_2g?pwd=hhnb" target="_blank">Download</a> (code: hhnb)</p>
+      </div>
+    </div>
+
+    <div style="display: grid; grid-template-columns: 2.8em minmax(0, 1fr); column-gap: 0.55em; text-indent: 0; margin: 10px 0 14px 0; align-items: start">
+      <div style="text-align: right; text-indent: 0; line-height: 1.8">5.</div>
+      <div style="min-width: 0; text-indent: 0">
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Work Title:</strong> Wordless Things</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Institution:</strong> Luxun Academy of Fine Arts</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Team Members:</strong> Lou Jie, Jia Xiaojun, Lou Keren, Liu Fang (Advisor), Fang Meiqiao (Advisor)</p>
+            <p style="margin: 0; text-indent: 0; line-height: 1.8"><strong>Links:</strong> <a href="https://www.bilibili.com/video/BV1MwEJ6EEmk?vd_source=7dbf971875626d13e7964f8610f90fdd" target="_blank">Online Video</a> &nbsp; <a href="https://pan.baidu.com/s/1GO2KENFimqSAfiyjXnAmKA?pwd=e4sp" target="_blank">Download</a> (code: e4sp)</p>
+      </div>
+    </div>
+
+    <div style="text-indent: 0; margin-top: 6px"><span style="color: #de0000; font-weight: 700">Bronze Award</span></div>
+
+    <div style="display: grid; grid-template-columns: 2.8em minmax(0, 1fr); column-gap: 0.55em; text-indent: 0; margin: 10px 0 14px 0; align-items: start">
+      <div style="text-align: right; text-indent: 0; line-height: 1.8">1.</div>
+      <div style="min-width: 0; text-indent: 0">
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Work Title:</strong> Beneath the Wheat Field</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Institution:</strong> Nanjing University of the Arts</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Team Members:</strong> Sun Yixin, Yang Meiqi, Xiong Rui, Wei Jingjing (Advisor)</p>
+            <p style="margin: 0; text-indent: 0; line-height: 1.8"><strong>Links:</strong> <a href="https://pan.baidu.com/s/1XnJrod9TRmnGeoSUEkFUhw" target="_blank">Download</a> (code: w85u)</p>
+      </div>
+    </div>
+
+    <div style="display: grid; grid-template-columns: 2.8em minmax(0, 1fr); column-gap: 0.55em; text-indent: 0; margin: 10px 0 14px 0; align-items: start">
+      <div style="text-align: right; text-indent: 0; line-height: 1.8">2.</div>
+      <div style="min-width: 0; text-indent: 0">
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Work Title:</strong> Banquet Music of Former Shu</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Institution:</strong> Sichuan Fine Arts Institute</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Team Members:</strong> Du Yuyuan, He Linzhi, Zheng Haiquan</p>
+            <p style="margin: 0; text-indent: 0; line-height: 1.8"><strong>Links:</strong> <a href="https://pan.baidu.com/s/1WGrDtQ14Mxad-hWTcgFAoQ?pwd=c222" target="_blank">Download</a> (code: c222)</p>
+      </div>
+    </div>
+
+    <div style="display: grid; grid-template-columns: 2.8em minmax(0, 1fr); column-gap: 0.55em; text-indent: 0; margin: 10px 0 14px 0; align-items: start">
+      <div style="text-align: right; text-indent: 0; line-height: 1.8">3.</div>
+      <div style="min-width: 0; text-indent: 0">
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Work Title:</strong> Carbon Breath</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Institution:</strong> Inner Mongolia Normal University</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Team Members:</strong> Bai Linfu (Advisor), Liu Jianzhen, Qin Jiaxin</p>
+            <p style="margin: 0; text-indent: 0; line-height: 1.8"><strong>Links:</strong> <a href="https://pan.baidu.com/s/1mLI1AHyO15JqIffzBSyaEQ?pwd=48rf" target="_blank">Online Video</a> (code: 48rf) &nbsp; <a href="https://pan.baidu.com/s/1IkWIjl4VgOitN5C1E9Nbuw?pwd=es1a" target="_blank">Download</a> (code: es1a)</p>
+      </div>
+    </div>
+
+    <div style="display: grid; grid-template-columns: 2.8em minmax(0, 1fr); column-gap: 0.55em; text-indent: 0; margin: 10px 0 14px 0; align-items: start">
+      <div style="text-align: right; text-indent: 0; line-height: 1.8">4.</div>
+      <div style="min-width: 0; text-indent: 0">
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Work Title:</strong> Stacked Shell Mounds</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Institution:</strong> China Academy of Art</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Team Members:</strong> Chen Beier</p>
+            <p style="margin: 0; text-indent: 0; line-height: 1.8"><strong>Links:</strong> <a href="https://pan.baidu.com/s/1YgoRf4y7eB4mMIsMvHsWog?pwd=728v" target="_blank">Download</a> (code: 728v)</p>
+      </div>
+    </div>
+
+    <div style="display: grid; grid-template-columns: 2.8em minmax(0, 1fr); column-gap: 0.55em; text-indent: 0; margin: 10px 0 14px 0; align-items: start">
+      <div style="text-align: right; text-indent: 0; line-height: 1.8">5.</div>
+      <div style="min-width: 0; text-indent: 0">
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Work Title:</strong> Entropy Valley</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Institution:</strong> Guangzhou College of Applied Science and Technology</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Team Members:</strong> Hu Enhao</p>
+            <p style="margin: 0; text-indent: 0; line-height: 1.8"><strong>Links:</strong> <a href="https://www.bilibili.com/video/BV1ufET6QEc7/?vd_source=e3c58828a41e6c4c5d71c1b19309cc08" target="_blank">Online Video</a> &nbsp; <a href="https://pan.baidu.com/s/1HRkNb62bgkhRSQNHXQxT9g?pwd=ucks" target="_blank">Download</a> (code: ucks)</p>
+      </div>
+    </div>
+
+    <div style="display: grid; grid-template-columns: 2.8em minmax(0, 1fr); column-gap: 0.55em; text-indent: 0; margin: 10px 0 14px 0; align-items: start">
+      <div style="text-align: right; text-indent: 0; line-height: 1.8">6.</div>
+      <div style="min-width: 0; text-indent: 0">
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Work Title:</strong> Generative Metabolism: GenBolism</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Institution:</strong> Tsinghua University</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Team Members:</strong> Su Zilin, Wu Qiong (Advisor)</p>
+            <p style="margin: 0; text-indent: 0; line-height: 1.8"><strong>Links:</strong> <a href="https://www.bilibili.com/video/BV16AVZ6YEhU/?share_source=copy_web" target="_blank">Online Video</a> &nbsp; <a href="https://pan.baidu.com/s/1RKiNLc4vB_wSTSVSIjgY3Q?pwd=aasu" target="_blank">Download</a> (code: aasu)</p>
+      </div>
+    </div>
+
+    <div style="text-indent: 0; margin-top: 6px"><span style="color: #de0000; font-weight: 700">Excellence Award</span></div>
+
+    <div style="display: grid; grid-template-columns: 2.8em minmax(0, 1fr); column-gap: 0.55em; text-indent: 0; margin: 10px 0 14px 0; align-items: start">
+      <div style="text-align: right; text-indent: 0; line-height: 1.8">1.</div>
+      <div style="min-width: 0; text-indent: 0">
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Work Title:</strong> A Glimpse into Chilechuan: Interactive Perception Installation Design for Water Resources in Hohhot</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Institution:</strong> Inner Mongolia Normal University</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Team Members:</strong> Tai Suran, Bai Linfu (Advisor)</p>
+            <p style="margin: 0; text-indent: 0; line-height: 1.8"><strong>Links:</strong> <a href="https://pan.baidu.com/s/1kfYjMfSCRt6Nj1rz-10QNg" target="_blank">Online Video</a> (code: sve9) &nbsp; <a href="https://pan.baidu.com/s/1rgEHZ69I448uaJEo8vUSwQ" target="_blank">Download</a> (code: dswe)</p>
+      </div>
+    </div>
+
+    <div style="display: grid; grid-template-columns: 2.8em minmax(0, 1fr); column-gap: 0.55em; text-indent: 0; margin: 10px 0 14px 0; align-items: start">
+      <div style="text-align: right; text-indent: 0; line-height: 1.8">2.</div>
+      <div style="min-width: 0; text-indent: 0">
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Work Title:</strong> Mind Sandbar: Visual Translation of Sandplay Psychology among Left-behind Elderly People</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Institution:</strong> Nanjing Forestry University</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Team Members:</strong> Wang Yue, Jin Jiayi, Hou Jiaqi (Advisor)</p>
+            <p style="margin: 0; text-indent: 0; line-height: 1.8"><strong>Links:</strong> <a href="https://www.bilibili.com/video/BV1MqVz6tEJk/" target="_blank">Online Video</a> &nbsp; <a href="https://pan.baidu.com/s/1V2OwolZO9PmWBXbbHvp3KA?pwd=wb5d" target="_blank">Download</a> (code: wb5d)</p>
+      </div>
+    </div>
+
+    <div style="display: grid; grid-template-columns: 2.8em minmax(0, 1fr); column-gap: 0.55em; text-indent: 0; margin: 10px 0 14px 0; align-items: start">
+      <div style="text-align: right; text-indent: 0; line-height: 1.8">3.</div>
+      <div style="min-width: 0; text-indent: 0">
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Work Title:</strong> Shuji Morioka&#x27;s Diary: A 713-day Battlefield Record</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Institution:</strong> Beijing Jiaotong University</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Team Members:</strong> Sun Liuqian, Chen Yitong, Dong Yuexi (Advisor), Wang Zheng (Advisor)</p>
+            <p style="margin: 0; text-indent: 0; line-height: 1.8"><strong>Links:</strong> <a href="https://www.bilibili.com/video/BV1PZEd62EVW/?pop_share=1&amp;spm_id_from=333.40164.0.0&amp;vd_source=4daf620ca678072ea6571626927179e3" target="_blank">Online Video</a> &nbsp; <a href="https://pan.baidu.com/s/1Z74m5WGivCAc9noZr5h_nQ" target="_blank">Download</a> (code: d29k)</p>
+      </div>
+    </div>
+
+    <div style="display: grid; grid-template-columns: 2.8em minmax(0, 1fr); column-gap: 0.55em; text-indent: 0; margin: 10px 0 14px 0; align-items: start">
+      <div style="text-align: right; text-indent: 0; line-height: 1.8">4.</div>
+      <div style="min-width: 0; text-indent: 0">
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Work Title:</strong> Qianying Yunmai: Guizhou Image Transitions and Computing-power Narratives</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Institution:</strong> Luxun Academy of Fine Arts</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Team Members:</strong> Song Rui, Yao Jiayu, Liu Fang (Advisor)</p>
+            <p style="margin: 0; text-indent: 0; line-height: 1.8"><strong>Links:</strong> <a href="https://pan.baidu.com/s/1gYUxtsXECqFEcJV1ZZNqjg" target="_blank">Download</a> (code: crr4)</p>
+      </div>
+    </div>
+
+    <div style="display: grid; grid-template-columns: 2.8em minmax(0, 1fr); column-gap: 0.55em; text-indent: 0; margin: 10px 0 14px 0; align-items: start">
+      <div style="text-align: right; text-indent: 0; line-height: 1.8">5.</div>
+      <div style="min-width: 0; text-indent: 0">
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Work Title:</strong> Crafted Courtyard: Guardianship of Intangible Cultural Heritage</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Institution:</strong> Nanjing University of the Arts</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Team Members:</strong> Sun Haozhe, Huang Lanhao, Jenny (Hu Jialin), Wei Jingjing (Advisor)</p>
+            <p style="margin: 0; text-indent: 0; line-height: 1.8"><strong>Links:</strong> <a href="https://v.qq.com/x/page/z3280ifwv4w.html?url_from=share" target="_blank">Online Video</a> &nbsp; <a href="https://pan.baidu.com/s/17yQ5Yorxxsva2ezCK01b7w?pwd=36fn" target="_blank">Download</a> (code: 36fn)</p>
+      </div>
+    </div>
+
+    <div style="display: grid; grid-template-columns: 2.8em minmax(0, 1fr); column-gap: 0.55em; text-indent: 0; margin: 10px 0 14px 0; align-items: start">
+      <div style="text-align: right; text-indent: 0; line-height: 1.8">6.</div>
+      <div style="min-width: 0; text-indent: 0">
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Work Title:</strong> The Sun and Moon Usher in a New World</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Institution:</strong> China Academy of Art</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Team Members:</strong> Cai Yi, Lu Xiaomeng, Gu Wenjia (Advisor)</p>
+            <p style="margin: 0; text-indent: 0; line-height: 1.8"><strong>Links:</strong> <a href="https://pan.baidu.com/s/1VFBmukZmIDKCn1l3EGVUNg?pwd=ec6p" target="_blank">Download</a> (code: ec6p)</p>
+      </div>
+    </div>
+
+    <div style="display: grid; grid-template-columns: 2.8em minmax(0, 1fr); column-gap: 0.55em; text-indent: 0; margin: 10px 0 14px 0; align-items: start">
+      <div style="text-align: right; text-indent: 0; line-height: 1.8">7.</div>
+      <div style="min-width: 0; text-indent: 0">
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Work Title:</strong> Campus Sounds</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Institution:</strong> Xianda College of Economics and Humanities, Shanghai International Studies University</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Team Members:</strong> Sha Saiqing, Ma Tengfei (Advisor)</p>
+            <p style="margin: 0; text-indent: 0; line-height: 1.8"><strong>Links:</strong> <a href="https://www.bilibili.com/video/BV1BCER6TEdj/?share_source=copy_web&amp;vd_source=4089a9b65c442191831d5abed1452c9d" target="_blank">Online Video</a> &nbsp; <a href="https://pan.baidu.com/s/1mdMhiRUtvvAC7xv4XWd0wA?pwd=gv8x" target="_blank">Download</a> (code: gv8x)</p>
+      </div>
+    </div>
+
+    <div style="display: grid; grid-template-columns: 2.8em minmax(0, 1fr); column-gap: 0.55em; text-indent: 0; margin: 10px 0 14px 0; align-items: start">
+      <div style="text-align: right; text-indent: 0; line-height: 1.8">8.</div>
+      <div style="min-width: 0; text-indent: 0">
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Work Title:</strong> Guiding the Axis by Observing Expressions</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Institution:</strong> Nanjing Forestry University</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Team Members:</strong> Xie Zekai, He Pengfei, Cao Mengyang, Hou Jiaqi (Advisor)</p>
+            <p style="margin: 0; text-indent: 0; line-height: 1.8"><strong>Links:</strong> <a href="https://www.bilibili.com/video/BV1upEn69Eq6/?share_source=copy_web&amp;vd_source=748f7b0d039747375840791e38fe49f8" target="_blank">Online Video</a> &nbsp; <a href="https://pan.baidu.com/s/1FV4imElTpucVE3Hjch16Ww?pwd=egfc" target="_blank">Download</a> (code: egfc)</p>
+      </div>
+    </div>
+
+    <div style="text-indent: 0; margin-top: 6px"><span style="color: #de0000; font-weight: 700">Finalists</span></div>
+
+    <div style="display: grid; grid-template-columns: 2.8em minmax(0, 1fr); column-gap: 0.55em; text-indent: 0; margin: 10px 0 14px 0; align-items: start">
+      <div style="text-align: right; text-indent: 0; line-height: 1.8">1.</div>
+      <div style="min-width: 0; text-indent: 0">
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Work Title:</strong> Dramas Meet Epiphyllum</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Institution:</strong> Nanjing University of the Arts</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Team Members:</strong> Guo Kaiyue, Wei Jingjing (Advisor)</p>
+            <p style="margin: 0; text-indent: 0; line-height: 1.8"><strong>Links:</strong> <a href="https://b23.tv/Y0N3uLi" target="_blank">Online Video</a> &nbsp; <a href="https://pan.baidu.com/s/1OtayybnbfoT0kIeJoO72aQ?pwd=mmnn" target="_blank">Download</a> (code: mmnn)</p>
+      </div>
+    </div>
+
+    <div style="display: grid; grid-template-columns: 2.8em minmax(0, 1fr); column-gap: 0.55em; text-indent: 0; margin: 10px 0 14px 0; align-items: start">
+      <div style="text-align: right; text-indent: 0; line-height: 1.8">2.</div>
+      <div style="min-width: 0; text-indent: 0">
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Work Title:</strong> Bluebird Decree</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Institution:</strong> Inner Mongolia Normal University</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Team Members:</strong> Jiang Yuqi</p>
+            <p style="margin: 0; text-indent: 0; line-height: 1.8"><strong>Links:</strong> <a href="https://pan.baidu.com/s/1-04Xv5G_rKj0gW8g7RgWTg?pwd=fpgs" target="_blank">Download</a> (code: fpgs)</p>
+      </div>
+    </div>
+
+    <div style="display: grid; grid-template-columns: 2.8em minmax(0, 1fr); column-gap: 0.55em; text-indent: 0; margin: 10px 0 14px 0; align-items: start">
+      <div style="text-align: right; text-indent: 0; line-height: 1.8">3.</div>
+      <div style="min-width: 0; text-indent: 0">
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Work Title:</strong> Light Awakening · Symbiosis</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Institution:</strong> Nanjing University of the Arts</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Team Members:</strong> Fu Dingxiao, Fang Yanqi, Zhou Panchen, Wei Jingjing (Advisor)</p>
+            <p style="margin: 0; text-indent: 0; line-height: 1.8"><strong>Links:</strong> <a href="https://www.bilibili.com/video/BV1LCEt6pEYM?vd_source=1ad56254e6c2ce8f6c5e9730a454ec15" target="_blank">Online Video</a> &nbsp; <a href="https://pan.baidu.com/s/1_JFaONCHCoSk0iZl3u4bTA?pwd=p76p" target="_blank">Download</a> (code: p76p)</p>
+      </div>
+    </div>
+
+    <div style="display: grid; grid-template-columns: 2.8em minmax(0, 1fr); column-gap: 0.55em; text-indent: 0; margin: 10px 0 14px 0; align-items: start">
+      <div style="text-align: right; text-indent: 0; line-height: 1.8">4.</div>
+      <div style="min-width: 0; text-indent: 0">
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Work Title:</strong> Seasonal Traces of Wings: Information Visualization Design for Migratory Birds in the Dahei River Wetland</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Institution:</strong> Inner Mongolia Normal University</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Team Members:</strong> Li Minzhou, Yu Yifei, Yan Qiqi, Zhou Zimeng, Zhang Fan (Advisor), Li Chenlu (Advisor)</p>
+            <p style="margin: 0; text-indent: 0; line-height: 1.8"><strong>Links:</strong> <a href="https://b23.tv/9so62sL" target="_blank">Online Video</a> &nbsp; <a href="https://pan.baidu.com/s/1ZWe1oWDBOiIhsD2sIA8_LQ?pwd=1v84" target="_blank">Download</a> (code: 1v84)</p>
+      </div>
+    </div>
+
+    <div style="display: grid; grid-template-columns: 2.8em minmax(0, 1fr); column-gap: 0.55em; text-indent: 0; margin: 10px 0 14px 0; align-items: start">
+      <div style="text-align: right; text-indent: 0; line-height: 1.8">5.</div>
+      <div style="min-width: 0; text-indent: 0">
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Work Title:</strong> Blue-and-white Tie-dye Traces</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Institution:</strong> Sichuan Fine Arts Institute</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Team Members:</strong> Yang Haobin</p>
+            <p style="margin: 0; text-indent: 0; line-height: 1.8"><strong>Links:</strong> <a href="https://pan.baidu.com/s/1XQwd5_FCgN0txnegPANIww?pwd=i3k5" target="_blank">Download</a> (code: i3k5)</p>
+      </div>
+    </div>
+
+    <div style="display: grid; grid-template-columns: 2.8em minmax(0, 1fr); column-gap: 0.55em; text-indent: 0; margin: 10px 0 14px 0; align-items: start">
+      <div style="text-align: right; text-indent: 0; line-height: 1.8">6.</div>
+      <div style="min-width: 0; text-indent: 0">
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Work Title:</strong> Hollow Island</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Institution:</strong> Nanjing Forestry University</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Team Members:</strong> Wang Yue, Li Yuan, Zhou Jiaqi, Peng Qianxilong (Advisor)</p>
+            <p style="margin: 0; text-indent: 0; line-height: 1.8"><strong>Links:</strong> <a href="https://pan.baidu.com/s/1CPGQvM0yOyxFLS0xK6AJ4g?pwd=4gn3" target="_blank">Download</a> (code: 4gn3)</p>
+      </div>
+    </div>
+
+    <div style="display: grid; grid-template-columns: 2.8em minmax(0, 1fr); column-gap: 0.55em; text-indent: 0; margin: 10px 0 14px 0; align-items: start">
+      <div style="text-align: right; text-indent: 0; line-height: 1.8">7.</div>
+      <div style="min-width: 0; text-indent: 0">
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Work Title:</strong> Splendor in Lantern Shadows</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Institution:</strong> Huizhou University</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Team Members:</strong> Zhou Peiying, Ye Xiaoke, Zhang Jiadi (Advisor), Zhang Jingqiu (Advisor)</p>
+            <p style="margin: 0; text-indent: 0; line-height: 1.8"><strong>Links:</strong> <a href="https://b23.tv/NVzyHv2" target="_blank">Online Video</a> &nbsp; <a href="https://pan.baidu.com/s/1OmaxZ2t78qmy-Dwl3k2toQ?pwd=BG9r" target="_blank">Download</a> (code: BG9r)</p>
+      </div>
+    </div>
+
+    <div style="display: grid; grid-template-columns: 2.8em minmax(0, 1fr); column-gap: 0.55em; text-indent: 0; margin: 10px 0 14px 0; align-items: start">
+      <div style="text-align: right; text-indent: 0; line-height: 1.8">8.</div>
+      <div style="min-width: 0; text-indent: 0">
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Work Title:</strong> Information Visualization Design of Yuyin Shanfang, a Classical Lingnan Garden</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Institution:</strong> Huizhou University</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Team Members:</strong> Ye Qianxi, Zheng En, Liu Jingyi, Zhang Yue, Zhang Jiadi (Advisor)</p>
+            <p style="margin: 0; text-indent: 0; line-height: 1.8"><strong>Links:</strong> <a href="https://pan.baidu.com/s/1EyvoQ_OTPzgstiBl0Hnu5Q" target="_blank">Online Video</a> (code: 0722) &nbsp; <a href="https://pan.baidu.com/s/1NQP_I7XLfjofk7P-OfQU5A?pwd=0722" target="_blank">Download</a> (code: 0722)</p>
+      </div>
+    </div>
+
+    <div style="display: grid; grid-template-columns: 2.8em minmax(0, 1fr); column-gap: 0.55em; text-indent: 0; margin: 10px 0 14px 0; align-items: start">
+      <div style="text-align: right; text-indent: 0; line-height: 1.8">9.</div>
+      <div style="min-width: 0; text-indent: 0">
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Work Title:</strong> Meteorological Contexts</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Institution:</strong> China Academy of Art</p>
+            <p style="margin: 0 0 8px 0; text-indent: 0; line-height: 1.8"><strong>Team Members:</strong> Xi Zhongyu, Lu Minghui, Cai Wenchao (Advisor)</p>
+            <p style="margin: 0; text-indent: 0; line-height: 1.8"><strong>Links:</strong> <a href="https://pan.baidu.com/s/1mNldHN-lGGxo94kmI2aOBQ?pwd=cmpk" target="_blank">Download</a> (code: cmpk)</p>
       </div>
     </div>
 
