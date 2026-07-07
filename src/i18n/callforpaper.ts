@@ -5,7 +5,7 @@ export const zh = {
   Title: "征稿通知",
   Content: marked.parse(
     `
-    第十三届中国可视化与可视分析大会（ChinaVis 2026）将于2026年7月19日至22日在贵阳举行。本次会议由中国图像图形学会主办，可视化与可视分析专委会、贵阳学院（贵州文化遗产数字化保护与开发利用重点实验室）、贵州大学大数据与信息工程学院、贵州师范大学大数据学院、贵州民族大学数据科学与信息工程学院等承办，多家赞助单位协办。
+    第十三届中国可视化与可视分析大会（ChinaVis 2026）将于2026年7月19日至22日在贵阳举行。本次会议由中国图像图形学会主办，可视化与可视分析专委会、贵州省文化遗产数字化保护与开发利用全省重点实验室以及贵阳学院、贵州大学、贵州师范大学、贵州民族大学等高校承办，多家赞助单位协办。
 
     ## 投稿方式
 
@@ -74,7 +74,7 @@ export const en = {
   Content: marked.parse(
     `
 
-    The 13th China Visualization and Visual Analytics Conference (ChinaVis 2026) will be held in Guiyang, China, from July 19 to 22, 2026. The conference is hosted by the China Society of Image and Graphics, and organized by the Technical Committee on Visualization and Visual Analytics, Guiyang University (Key Laboratory of Digital Protection and Development Utilization of Guizhou Cultural Heritage), School of Big Data and Information Engineering of Guizhou University, School of Big Data of Guizhou Normal University, and School of Data Science and Information Engineering of Guizhou Minzu University, with support from multiple sponsors.
+    The 13th China Visualization and Visual Analytics Conference (ChinaVis 2026) will be held in Guiyang, China, from July 19 to 22, 2026. The conference is hosted by the China Society of Image and Graphics, and organized by the Technical Committee on Visualization and Visual Analytics, the Guizhou Provincial Key Laboratory for Digital Protection, Development and Utilization of Cultural Heritage, Guiyang University, Guizhou University, Guizhou Normal University, Guizhou Minzu University, and other institutions, with support from multiple sponsors.
 
     ## Submission Guide
 
