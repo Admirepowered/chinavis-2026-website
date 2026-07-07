@@ -136,7 +136,6 @@ export const zh = {
   ),
 };
 
-
 export const en = {
   PageTitle: "Registration - ChinaVis 2026",
   Title: "Conference Registration",
@@ -145,7 +144,7 @@ export const en = {
     ## Registration QR Code and Link
 
     <img src="{{ qrcodeImage }}" alt="Registration QR Code" style="width: 200px; height: 200px; display: block; margin: 0 auto;" />
-    <p style="text-align: center; text-indent: 0; margin-top: 0">Scan QR Code to Register</p>
+    <p style="text-align: center; text-indent: 0; margin-top: 0">Scan the QR code to register</p>
 
     **Conference Registration Portal:** [ChinaVis 2026 Conference Registration](https://meeting.csig.org.cn/exh/default2/baoming?fair_id=395&role_id=22)
     
@@ -157,21 +156,21 @@ export const en = {
 
     Website registration: Visit the designated registration portal on the official ChinaVis 2026 conference website to complete the registration form and payment online.
 
-    On-site registration: Register on site at the designated conference check-in venue from July 20 to July 22.
+    On-site check-in registration: Register on site at the designated conference check-in venue from July 19 to July 22.
 
     Note: The official registration URL and QR code will be released simultaneously on the conference website, the CSIG official WeChat account, and the official conference notice.
 
     ## Registration Timeline
 
-    Early-bird registration: From now until June 30, 23:59. This is the most favorable rate and is recommended.
+    Early-bird advance registration: **<span style="color: #de0000; font-weight: 700">Open now until July 10, 23:59</span>** (the most favorable rate; recommended as the first choice).
 
-    Regular registration: July 1 to July 19.
+    Regular registration: July 11 to July 18.
 
-    On-site registration: July 20 to July 22. This is the highest rate and is not recommended.
+    On-site registration: July 19 to July 22 (the highest rate; not recommended).
 
     ## Registration Categories
 
-    Member: Refers specifically to official members of the China Society of Image and Graphics (CSIG). Non-members are advised to apply for membership in advance, select the Visualization and Visual Analytics Technical Committee, choose recommendation by a committee member, and register at the member rate after obtaining a membership number.
+    Member: Refers specifically to official members of the China Society of Image and Graphics (CSIG). Non-members are advised to apply for membership in advance, select the Visualization and Visual Analytics Technical Committee, obtain a recommendation from a committee member, and register at the member rate after obtaining a membership number.
 
     Student Registration: Full-time undergraduate and graduate students. Student status verification is required.
 
@@ -188,9 +187,9 @@ export const en = {
         <thead>
           <tr>
             <td rowspan="2">Registration Type</td>
-            <td colspan="2">Early-bird Registration<br />(Until June 30, 23:59)</td>
-            <td colspan="2">Regular Registration<br />(July 1 - July 19)</td>
-            <td colspan="2">On-site Registration<br />(July 20 - July 22)</td>
+            <td colspan="2">Early-bird Registration<br />Until July 10, 23:59</td>
+            <td colspan="2">Regular Registration<br />July 11 - July 18</td>
+            <td colspan="2">On-site Registration<br />July 19 - July 22</td>
             <td colspan="2">Single-day Registration<br />(Attend one day only)</td>
           </tr>
           <tr>
@@ -230,13 +229,13 @@ export const en = {
           <tr>
             <td>Volunteer Registration</td>
             <td>RMB 700</td>
-            <td>Not available</td>
-            <td>Not available</td>
-            <td>Not available</td>
-            <td>Not available</td>
-            <td>Not available</td>
-            <td>Not available</td>
-            <td>Not available</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
           </tr>
         </tbody>
       </table>
