@@ -351,7 +351,7 @@ export const committee: {
     ],
   },
   {
-    role: {zh: "可视分析竞赛主席", en: "Data Challenge Chair"},
+    role: {zh: "可视化竞赛委员主席", en: "Visualization Contest Committee Chair"},
     members: [
       {
         name: {zh: "张慧杰", en: "Huijie Zhang"},
@@ -361,7 +361,7 @@ export const committee: {
     ],
   },
   {
-    role: {zh: "可视分析竞赛委员", en: "Data Challenge Committee Members"},
+    role: {zh: "可视化竞赛委员会委员", en: "Visualization Contest Committee Members"},
     members: [
       {
         name: {zh: "徐进", en: "Jin Xu"},

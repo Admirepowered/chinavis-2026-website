@@ -9,7 +9,7 @@ export const zh = {
   Paper: "论文",
   Poster: "海报",
   SpecialTopic: "专题",
-  CJKWorkshop: "中日韩论坛",
+  CJKWorkshop: "国际论坛",
   Course: "课程",
   ArtExhibition: "艺术展览",
   Venue: "会址及住宿预定",
@@ -21,6 +21,7 @@ export const zh = {
   Committee: "委员会成员",
   ArtProgram: "艺术项目",
   History: "历届会议信息",
+  ReportTemplate: "报告模板",
 };
 
 export const en = {
@@ -31,7 +32,7 @@ export const en = {
   Paper: "Paper",
   Poster: "Poster",
   SpecialTopic: "Special Topic",
-  CJKWorkshop: "CJK Workshop",
+  CJKWorkshop: "International Forum",
   Course: "Course",
   ArtExhibition: "Art Exhibition",
   Venue: "Venue & Hotels",
@@ -43,4 +44,5 @@ export const en = {
   Committee: "Committee",
   ArtProgram: "Arts Program",
   History: "History",
+  ReportTemplate: "Presentation Template",
 };

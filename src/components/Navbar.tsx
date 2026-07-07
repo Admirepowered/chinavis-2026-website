@@ -77,6 +77,7 @@ export function Navbar() {
         <NavLink href={`/2026/${locale()}/callforpaper`} title={t("CallForPaper")!} />
         <NavLink href={`/2026/${locale()}/callforposter`} title={t("Poster")!} />
         <NavLink href={`/2026/${locale()}/specialtopic`} title={t("SpecialTopic")!} />
+        <NavLink href={`/2026/${locale()}/cjkworkshop`} title={t("CJKWorkshop")!} />
         <NavLink href={`/2026/${locale()}/course`} title={t("Course")!} />
         <NavLink href={`/2026/${locale()}/venue`} title={t("Venue")!} />
         <NavLink href={`/2026/${locale()}/challenge`} title={t("Challenge")!} />
@@ -86,6 +87,7 @@ export function Navbar() {
         <NavLink href={`/2026/${locale()}/committee`} title={t("Committee")!} />
         <ExternalNavLink href="http://chinavisap.net/2026/" title={t("ArtProgram")!} />
         <ExternalNavLink href={`https://chinavis.org/history${locale() == "en" ? "_en" : ""}.html`} title={t("History")!} />
+        <NavLink href={`/2026/${locale()}/reporttemplate`} title={t("ReportTemplate")!} />
       </div>
 
       <div class="flex-none h-full flex flex-col justify-center">

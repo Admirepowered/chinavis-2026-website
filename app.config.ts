@@ -1,4 +1,4 @@
-import { defineConfig } from "@solidjs/start/config";
+import {defineConfig} from "@solidjs/start/config";
 import tailwindcss from "@tailwindcss/vite";
 
 export default defineConfig({
@@ -102,6 +102,8 @@ export default defineConfig({
         "/2026/en/activity/industry",
         "/2026/zh/art_exhition",
         "/2026/en/art_exhition",
+        "/2026/zh/reporttemplate",
+        "/2026/en/reporttemplate",
       ],
       failOnError: true,
     },
