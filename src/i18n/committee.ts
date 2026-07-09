@@ -61,10 +61,8 @@ import PhotoXuJin from "~/assets/committee/xujin.avif?inline";
 import PhotoChenJing from "~/assets/committee/chenjing.avif?inline";
 import PhotoZhangJunjie from "~/assets/committee/zhangjunjie.avif?inline";
 import PhotoHanJun from "~/assets/committee/hanjun.avif?inline";
-import PhotoCN from "~/assets/committee/cn.avif?inline";
 import PhotoTYB from "~/assets/committee/tyb.avif?inline";
 import PhotoCQ from "~/assets/committee/cq.avif?inline";
-import PhotoHanJunForum from "~/assets/committee/hanjun_forum.avif?inline";
 import PhotoBLF from "~/assets/committee/blf.avif?inline";
 import PhotoLQ from "~/assets/committee/lq.avif?inline";
 import PhotoLZP from "~/assets/committee/lzp.avif?inline";
@@ -80,6 +78,9 @@ import PhotoAJJ from "~/assets/committee/ajj.avif?inline";
 import PhotoLYR from "~/assets/committee/lyr.avif?inline";
 import PhotoHKD from "~/assets/committee/hkd.avif?inline";
 import PhotoSGH from "~/assets/committee/sgh.jpg?inline";
+import PhotoCWB from "~/assets/committee/cwb.avif?inline";
+import PhotoDMS from "~/assets/committee/dms.avif?inline";
+import PhotoWXP from "~/assets/committee/wxp.avif?inline";
 
 export const zh = {
   PageTitle: "委员会成员 - ChinaVis 2026",
@@ -163,6 +164,21 @@ export const committee: {
         name: {zh: "霍雨佳", en: "Yujia Huo"},
         affiliation: {zh: "贵州民族大学", en: "Guizhou Minzu University"},
         photo: PhotoHYJ,
+      },
+      {
+        name: {zh: "邓明森", en: "Mingsen Deng"},
+        affiliation: {zh: "贵州财经大学", en: "Guizhou University of Finance and Economics"},
+        photo: PhotoDMS,
+      },
+      {
+        name: {zh: "程文波", en: "Wenbo Cheng"},
+        affiliation: {zh: "贵州中医药大学", en: "Guizhou University of Traditional Chinese Medicine"},
+        photo: PhotoCWB,
+      },
+      {
+        name: {zh: "吴小平", en: "Xiaoping Wu"},
+        affiliation: {zh: "凯里学院", en: "Kaili University"},
+        photo: PhotoWXP,
       },
       {
         name: {zh: "欧阳柏成", en: "Baicheng Ouyang"},

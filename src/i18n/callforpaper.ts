@@ -5,8 +5,8 @@ export const zh = {
   Title: "征稿通知",
   Content: marked.parse(
     `
-    第十三届中国可视化与可视分析大会（ChinaVis 2026）将于2026年7月19日至22日在贵阳举行。本次会议由中国图像图形学会主办，可视化与可视分析专委会、贵州省文化遗产数字化保护与开发利用全省重点实验室以及贵阳学院、贵州大学、贵州师范大学、贵州民族大学等高校承办，多家赞助单位协办。
-
+    第十三届中国可视化与可视分析大会（ChinaVis 2026）将于2026年7月19日至22日在贵阳举行。本次会议由中国图像图形学会主办，可视化与可视分析专委会、贵州省文化遗产数字化保护与开发利用全省重点实验室以及贵阳学院、贵州大学、贵州师范大学、贵州民族大学、贵州财经大学、贵州中医药大学、凯里学院等高校承办，多家赞助单位协办。
+    
     ## 投稿方式
 
     本次会议征集中英文论文。会议录取的英文技术论文将推荐至SCI期刊，如《Journal of Visualization》《Visual Informatics》；会议录取的优秀中文技术论文及综述论文将推荐至国内的中文期刊等。英文稿件格式请参考IEEE VGTC模版要求，中文稿件格式请参考《计算机辅助设计与图形学学报》模版要求。论文正文（不含参考文献）篇幅不超过8页。
@@ -74,8 +74,8 @@ export const en = {
   Content: marked.parse(
     `
 
-    The 13th China Visualization and Visual Analytics Conference (ChinaVis 2026) will be held in Guiyang, China, from July 19 to 22, 2026. The conference is hosted by the China Society of Image and Graphics, and organized by the Technical Committee on Visualization and Visual Analytics, the Guizhou Provincial Key Laboratory for Digital Protection, Development and Utilization of Cultural Heritage, Guiyang University, Guizhou University, Guizhou Normal University, Guizhou Minzu University, and other institutions, with support from multiple sponsors.
-
+    The 13th China Visualization and Visual Analytics Conference (ChinaVis 2026) will be held in Guiyang from July 19 to 22, 2026. The conference is hosted by the China Society of Image and Graphics, and organized by the Technical Committee on Visualization and Visual Analytics, the Guizhou Provincial Key Laboratory for Digital Protection, Development and Utilization of Cultural Heritage, Guiyang University, Guizhou University, Guizhou Normal University, Guizhou Minzu University, Guizhou University of Finance and Economics, Guizhou University of Traditional Chinese Medicine, Kaili University, and other institutions, with support from multiple sponsors.
+    
     ## Submission Guide
 
     This conference accepts papers in both Chinese and English. Accepted English technical papers will be recommended to SCI journals, such as Journal of Visualization and Visual Informatics. Outstanding accepted Chinese technical and review papers will be recommended to domestic Chinese journals. For English manuscripts, please refer to the IEEE VGTC template requirements, and for Chinese manuscripts, please refer to the Journal of Computer-Aided Design & Computer Graphics template requirements. The main text of the paper (excluding references) should not exceed 8 pages.
