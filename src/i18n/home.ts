@@ -9,7 +9,70 @@ export const zh = {
     中国可视化与可视分析大会 (ChinaVis) 由我国可视化业界工作者联合发起，宗旨是促进中国及周边地区的可视化与可视分析研究与应用的交流，探讨在大数据时代可视化与可视分析发展的方向与机遇，推动相关研究与应用的发展与进步，推进学科的发展，促进人才培养和交流，加深艺术与技术融合。会议将搭建与国内外著名专家、企业家、应用部门面对面交流，深入研讨可视化前沿技术及其应用的交流和沟通平台，促进中国可视化与可视分析领域产、学、研、用协同发展新生态的形成。中国可视化与可视分析大会分别于北京（2014 年）、天津（2015 年）、长沙（2016 年）、青岛（2017 年）、上海（2018 年）、成都（2019 年）、西安（2020 年）、武汉（2021 年）、西宁（2022 年）、重庆（2023 年）、香港（2024 年）和杭州（2025年）举办，会议汇集了国内外数百名可视化研究人员与领域专家，取得了圆满成功。
 
     **第十三届中国可视化与可视分析大会** (ChinaVis 2026) 将于 **2026 年 7 月 19 日 - 22 日**在**贵阳**举行。本次会议由中国图像图形学会主办，可视化与可视分析专委会、贵州省文化遗产数字化保护与开发利用全省重点实验室、贵阳学院、贵州大学、贵州师范大学、贵州民族大学、贵州财经大学、贵州中医药大学、凯里学院等高校承办，多家赞助单位协办。本次大会内容包括特邀报告、论文报告、海报、展览、专题研讨及艺术项目。大会将邀请国内外可视化领域知名专家就相关研究与应用最新进展作大会报告，介绍发展动态，开拓研究思路。欢迎从事可视化与可视分析，以及相关领域研究的专家、学者、艺术家、学生以及工业界的专家、专业技术人员踊跃投稿与参会。
+    
+<!--    ## 会议赞助-->
+<!--    -->
+<!--    ### 金牌赞助-->
 
+<!--    <div class="sponsor-cards sponsor-cards&#45;&#45;gold" aria-label="金牌赞助单位">-->
+<!--    <article class="sponsor-card sponsor-card&#45;&#45;gold">-->
+<!--    <div class="sponsor-card__tier sponsor-card__tier&#45;&#45;gold">金牌赞助</div>-->
+<!--    <div class="sponsor-card__body">-->
+<!--    <div class="sponsor-card__logo-row">-->
+<!--    <div class="sponsor-card__main-logo">-->
+<!--    <img src="{{ GZBigDataLogo }}" alt="贵州大数据产业集团有限公司" />-->
+<!--    </div>-->
+<!--    </div>-->
+<!--    <h4 class="sponsor-card__name">贵州大数据产业集团有限公司</h4>-->
+<!--    </div>-->
+<!--    </article>-->
+<!--    </div>-->
+
+<!--    ### 银牌赞助-->
+<!--    -->
+<!--    <div class="sponsor-cards" aria-label="银牌赞助单位">-->
+<!--    <article class="sponsor-card">-->
+<!--    <div class="sponsor-card__tier">银牌赞助</div>-->
+<!--    <div class="sponsor-card__body">-->
+<!--    <div class="sponsor-card__logo-row">-->
+<!--    <div class="sponsor-card__main-logo">-->
+<!--    <img src="{{ SeewoLogo }}" alt="广州视源电子科技股份有限公司 希沃" />-->
+<!--    </div>-->
+<!--    </div>-->
+<!--    <h4 class="sponsor-card__name">广州视源电子科技股份有限公司</h4>-->
+<!--    </div>-->
+<!--    </article>-->
+<!--    <article class="sponsor-card">-->
+<!--    <div class="sponsor-card__tier">银牌赞助</div>-->
+<!--    <div class="sponsor-card__body">-->
+<!--    <div class="sponsor-card__logo-row">-->
+<!--    <div class="sponsor-card__main-logo">-->
+<!--    <img src="{{ GZCultureTourismLogo }}" alt="贵州省文化旅游科技有限公司" />-->
+<!--    </div>-->
+<!--    </div>-->
+<!--    <h4 class="sponsor-card__name">贵州省文化旅游科技有限公司</h4>-->
+<!--    </div>-->
+<!--    </article>-->
+<!--    <article class="sponsor-card sponsor-card&#45;&#45;compound">-->
+<!--    <div class="sponsor-card__tier">银牌赞助</div>-->
+<!--    <div class="sponsor-card__body">-->
+<!--    <div class="sponsor-card__logo-row sponsor-card__logo-row&#45;&#45;compound">-->
+<!--    <div class="sponsor-card__company-logos" aria-label="赞助单位">-->
+<!--    <div class="sponsor-card__company-logo">-->
+<!--    <img src="{{ YeeHeartLogo }}" alt="北京亦心科技有限公司" />-->
+<!--    </div>-->
+<!--    <div class="sponsor-card__company-logo">-->
+<!--    <img src="{{ JixinLogo }}" alt="贵州计信科技有限公司" />-->
+<!--    </div>-->
+<!--    </div>-->
+<!--    <div class="sponsor-card__product-logo" aria-label="产品 logo">-->
+<!--    <img src="{{ WukongImageLogo }}" alt="悟空图像" />-->
+<!--    </div>-->
+<!--    </div>-->
+<!--    <h4 class="sponsor-card__name">北京亦心科技有限公司、贵州计信科技有限公司</h4>-->
+<!--    </div>-->
+<!--    </article>-->
+<!--    </div>-->
 
     `.replace(/^    /gm, ""),
     { async: false }

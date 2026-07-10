@@ -75,11 +75,13 @@ export function Navbar() {
         <NavLink href={`/2026/${locale()}/`} title={t("Home")!} />
         <NavLink href={`/2026/${locale()}/registration`} title={t("Registration")!} />
         <NavLink href={`/2026/${locale()}/callforpaper`} title={t("CallForPaper")!} />
-        <NavLink href={`/2026/${locale()}/callforposter`} title={t("Poster")!} />
+        <NavLink href={`/2026/${locale()}/poster`} title={t("Poster")!} />
         <NavLink href={`/2026/${locale()}/specialtopic`} title={t("SpecialTopic")!} />
         <NavLink href={`/2026/${locale()}/cjkworkshop`} title={t("CJKWorkshop")!} />
         <NavLink href={`/2026/${locale()}/course`} title={t("Course")!} />
         <NavLink href={`/2026/${locale()}/venue`} title={t("Venue")!} />
+        {/*<NavLink href={`/2026/${locale()}/keynote`} title={t("Keynote")!}/>*/}
+        <NavLink href={`/2026/${locale()}/panel`} title={t("Panel")!}/>
         <NavLink href={`/2026/${locale()}/challenge`} title={t("Challenge")!} />
         <NavLink href={`/2026/${locale()}/doctoralcolloquium`} title={t("DoctoralColloquium")!} />
         <NavLink href={`/2026/${locale()}/sponsor`} title={t("Sponsorship")!} />

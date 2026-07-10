@@ -2,182 +2,107 @@ import { Paper } from "~/components/PaperInfo";
 
 export const programPosters: Paper[] = [
   {
-    title:
-      "InfoAlign: Interactive Authoring for Narrative Infographics based on User Query through Knowledge-Visual Alignment and Layout Recommendation",
-    authors: [
-      "Jielin Feng",
-      "Xinwu Ye",
-      "Qianhui Li",
-      "Verena Ingrid Prantl",
-      "Jun-Hsiang Yao",
-      "Yun Wang",
-      "Siming Chen",
-    ],
+    title: "A Modular Visual Analytics Framework for Event Sequence Analysis",
+    authors: ["Ziwen Zhong", "Zehua Yu", "Haibo Hu", "Jun Tao"],
   },
   {
     title:
-      "MultiNotebook: Retrieval-Based Integration of Kaggle Notebooks for Learning Exploratory Data Analysis",
-    authors: ["Yi Shan", "Yixuan He", "Zekai Shao", "Kai Xu", "Siming Chen"],
+      "A Neural Database for Reusable Implicit Neural Representations in Volumetric Data Compression",
+    authors: ["Zhuoquan Fan", "Weihan Zhang", "Yanwen Peng", "Ziwen Zhong", "Jun Tao"],
   },
   {
     title:
-      "Carbon and Silicon, Coexist or Compete? A Survey on Human-AI Interactions in Agent-based Modeling and Simulation",
-    authors: [
-      "Ziyue Lin",
-      "Siqi Shen",
-      "Zichen Cheng",
-      "Cheok Lam Lai",
-      "Siming Chen",
-    ],
+      "A Visual Analytics Framework for Linking Artifact Evidence in Deep-Sea Archaeological Documentation",
+    authors: ["Haoyu Xu", "Songyuan Zhao", "Xiyao Mei", "Xin Hao", "Qijiang Deng", "Xiaoru Yuan"],
   },
   {
     title:
-      "FrameBeats: A prototype that compose the sound effects for input visuals",
-    authors: ["Sen Zhang", "Chengyang Song", "Lingyun Yu"],
+      "Chart2Template: Interactive System with Fine-tuned Multimodal Models for Recovering and Reusing Chart Templates",
+    authors: ["Wenkang Hao", "Yunchao Wang", "Junhao Lan", "Yingqi Pan", "Guodao Sun"],
+  },
+  {
+    title: "DiagramLens: Faceted Multimodal Retrieval for Diagrammatic Research Figures",
+    authors: ["Xinyue Chen", "Yu Liu", "Chiteng Ma", "Yuchu Luo", "Xiaoru Yuan"],
   },
   {
     title:
-      "A Policy-Driven Visual Analysis Method for Energy Demand in the Electric Vehicle Industry",
-    authors: ["Hongjia Wu", "Shuai Zhou", "Junxi Wang", "Hongxin Zhang"],
+      "Inscription Evolution: A Visual Analytics System for Comparative Reading and Dating of Multi-Version Stone Rubbings",
+    authors: ["Xin Hao", "Xueyunhe Song", "Rui Shi", "Xiaoru Yuan"],
+  },
+  {
+    title: "Large Language Model-Driven Intelligent Visual Analytics",
+    authors: ["Yuheng Zhao", "Yu Zhang", "Siming Chen"],
+  },
+  {
+    title: "LayoutSkill: Self-Evolving Layout Strategies for Query-Driven Graph Visualization",
+    authors: ["Jie Li", "Jiaqi Liu"],
   },
   {
     title:
-      "ChatStory: Narrative Visualization Generation via Search-Based Agentic Workflows",
-    authors: ["Yu Dai", "Yile Luo", "Zhenyang Wang", "Yuyu Luo"],
+      "NTL-Former: Urban Nighttime Light Visualization via Spatially-Guided Super-Resolution",
+    authors: ["Yifan Yuan", "Pengyu Xiang", "Yiqiu Zheng", "Chenhui Li", "Changbo Wang"],
   },
   {
     title:
-      "MegaCQA: Construction and Benchmarking of a Large-Scale Visual Chart Question Answering Dataset",
-    authors: [
-      "Xueqian Zheng",
-      "Tong Li",
-      "Zhou Liu",
-      "Qi Jiang",
-      "Xuhui Ma",
-      "Guodao Sun",
-    ],
-  },
-  {
-    title: "Question Answering Dataset",
-    authors: [
-      "Xueyou Zhang",
-      "Yicao Li",
-      "Yifei Feng",
-      "Wang Xia",
-      "Guodao Sun",
-    ],
-  },
-  {
-    title: "SceneLoom: Communicating Data with Scene Context",
-    authors: [
-      "Lin Gao",
-      "Leixian Shen",
-      "Yuheng Zhao",
-      "Jiexiang Lan",
-      "Huamin Qu",
-      "Siming Chen",
-    ],
+      "PotteryLens: Exploratory Visual Analytics for Painted Pottery Classification from Expert Archaeological Descriptions",
+    authors: ["Yuchu Luo", "Xiaoru Yuan"],
   },
   {
     title:
-      "Multidimensional Visual Comparative Analysis of Autonomous Vehicle Trajectory-Planning Models",
-    authors: ["Yicao Li", "Xueyou Zhang", "Yifei Feng", "Guodao Sun"],
-  },
-  {
-    title: "Image-adjusted Map Lettering",
-    authors: ["Manhong Cai", "Oliver Deussen", "Min Lu"],
+      "Rethinking Interaction with Large Models: From Chat-Based Interfaces to Visual-First Workflows",
+    authors: ["Zehua Yu", "Jun Tao"],
   },
   {
     title:
-      "From Curiosity to Insight: Designing Storytelling Dashboards for Science Communication with the IDEAL Model",
-    authors: ["Ruyi Lin", "Kun Xie", "Yihan Hou", "Wei Zeng", "Rongrong Chen"],
+      "ScoreFix: Visual Diagnosis and Pattern-Based Correction for Automatic Music Transcription",
+    authors: ["Shuqi Mo", "Zhirui Ling", "Jun Tao"],
   },
   {
-    title: "UnitoPia: A Framework for Pictorial Unit Visualization",
-    authors: [
-      "Xinghui Fu",
-      "Zhenyu Wang",
-      "Yanhui Guo",
-      "Yu Zhang",
-      "Guozheng Li",
-      "Bongshin Lee",
-      "Min Lu",
-    ],
+    title: "The Visulization of Computational Discrete Global Geometric Structures",
+    authors: ["Hui Zhao"],
+  },
+  {
+    title: "UUVisModel: A Visualization Pipeline Model of Unmanned Underwater Vehicles",
+    authors: ["Zhuo Shi", "Shuwen Zhang", "Zhongyi Zhai", "Yuhan Li", "Xiaonan Luo"],
   },
   {
     title:
-      "Bridging Data and Understanding: Visual Storytelling for Public Engagement in Early Dementia Intervention",
-    authors: ["Hongxin Fu", "Wei Li"],
+      "VidAnimator: User-Guided Stylized 3D Character Animation from Human Videos",
+    authors: ["Xinwu Ye", "Jun-Hsiang Yao", "Jielin Feng", "Xingyu Lan", "Siming Chen"],
   },
   {
     title:
-      "NeuroSync: Intent-Aware Code-Based Problem Solving and Alignment via Direct LLM Understanding Modification",
-    authors: [
-      "Wenshuo Zhang",
-      "Leixian Shen",
-      "Shuchang Xu",
-      "Jindu Wang",
-      "Jian Zhao",
-      "Huamin Qu",
-      "Linping Yuan",
-    ],
+      "Visual Analytics for Multi-UAV Cooperative Observation in Occluded Environments",
+    authors: ["Xuan Guo", "Ruiying Yang", "Junnan Liu"],
   },
   {
     title:
-      "DISCO: A Visualization Framework for Distributed Systems with Coordinated Observations",
-    authors: [
-      "Zhichao Zhang",
-      "Ningning Xu",
-      "Shuqi He",
-      "Fuqi Xie",
-      "Lingyun Yu",
-    ],
+      "Visualizing Ancient Chinese Tea Paintings Based on a Multi-dimensional Perception Framework",
+    authors: ["Xiyang Jing", "Yihan Zhou", "Yanru Lyu"],
   },
   {
-    title: "SeeHerVis: Visual Journey of Ancient Chinese Female Literati",
-    authors: [
-      "Jinye Li",
-      "Yanni Peng",
-      "Dashuai Hu",
-      "Haoyuan Zhong",
-      "Wei Song",
-    ],
+    title: "1988-2026：透过家书的数字远读",
+    authors: ["夏正琪", "戢翔天"],
+  },
+  {
+    title: "面向低质视觉数据可视分析的单步真实图像超分辨率增强",
+    authors: ["郭耀辉", "赵颖"],
+  },
+  {
+    title: "数智史料结构化重构-面向战时日记的双线叙事可视分析应用",
+    authors: ["陈奕彤", "孙刘钱", "张丽荣", "董月夕", "王征"],
   },
   {
     title:
-      "A Survey on Applications Involving Multi-Device Interaction with Smartwatches",
-    authors: [
-      "Yihan Liu",
-      "Jiazhe Huang",
-      "Yuchen Gu",
-      "Fabiola Polidoro",
-      "Lingyun Yu",
-      "Yu Liu",
-    ],
+      "诗迹索隐：基于LLM的交互式宋代文人行迹可信提取与溯源系统",
+    authors: ["李司君", "靳彤", "刘浩", "雷可", "左敏", "黄圣絮", "吴亚东", "王桂娟"],
   },
   {
-    title: "Visualization in Motion: Perception, Design, and User Experience",
-    authors: ["Lijie Yao"],
+    title: "针对可视化图表的多模态交互增强方法",
+    authors: ["符观集", "杨世博", "刘子鹏"],
   },
   {
-    title: "基于轨迹数据的城市群多尺度流动结构可视分析",
-    authors: ["邓志钢", "赵颖"],
-  },
-  {
-    title:
-      "Research and Development of Visual Analysis and Intelligent Decision-making System for Sewage Treatment Process Data",
-    authors: ["Yangxue Hu", "Xueyu Luo", "Sangui Jian", "Qiang Lu"],
-  },
-  {
-    title: "Visual Tasks and Design Guidelines for Animated Data Visualization",
-    authors: [
-      "Ouxun Jiang",
-      "Camillia Matuk",
-      "Anastasia Bezerianos",
-      "Jason Dykes",
-      "Fanny Chevalier",
-      "Petra Isenberg",
-      "Steven Franconeri",
-    ],
+    title: "中法关系视角下面向国家形象研究的多维可视分析",
+    authors: ["陈宗阳", "车亮", "张相梓", "朱孟潇"],
   },
 ];

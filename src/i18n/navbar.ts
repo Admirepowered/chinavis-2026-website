@@ -1,5 +1,3 @@
-import CJKWorkshop from "~/routes/2025/[locale]/cjkworkshop";
-import Program from "~/routes/2025/[locale]/program";
 
 export const zh = {
   Home: "首页",
@@ -22,6 +20,8 @@ export const zh = {
   ArtProgram: "艺术项目",
   History: "历届会议信息",
   ReportTemplate: "报告模板",
+  Keynote: "特邀报告",
+  Panel: "圆桌论坛"
 };
 
 export const en = {
@@ -45,4 +45,6 @@ export const en = {
   ArtProgram: "Arts Program",
   History: "History",
   ReportTemplate: "Presentation Template",
+  Keynote: "Keynotes",
+  Panel: "Roundtable Forum",
 };
