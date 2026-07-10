@@ -259,8 +259,8 @@ export const committee: {
       {
         name: {zh: "王昉", en: "Fang Wang"},
         affiliation: {
-          zh: "中国空气动力研究所",
-          en: "China Aerodynamics Research Center",
+          zh: "中国空气动力研究与发展中心",
+          en: "China Aerodynamics Research and Development Center",
         },
         photo: PhotoWF,
       },
