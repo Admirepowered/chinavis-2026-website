@@ -17,8 +17,10 @@ export default function PanelPage() {
 
   return (
     <main class="panel-page mx-auto w-full max-w-5xl px-5 py-10 md:px-8 md:py-12">
-      <Title>{L().pageTitle} · ChinaVis 2026</Title>
-
+      <Title>{L().pageTitle}</Title>
+      <h1 class="mb-10 text-center text-3xl font-bold text-neutral-900 md:text-4xl">
+        圆桌论坛
+      </h1>
       <div class="flex flex-col gap-20">
         <For each={panels}>
           {(panel) => <PanelBlock panel={panel} locale={locale()} labels={L()}/>}
@@ -60,9 +62,6 @@ function PanelBlock(props: {
 
   return (
     <section>
-      <h1 class="mb-10 text-center text-3xl font-bold text-neutral-900 md:text-4xl">
-        圆桌论坛
-      </h1>
       {/* 论坛标题 */}
       <SectionHeading size="lg">{p.title[loc]}</SectionHeading>
 
