@@ -20,7 +20,7 @@ export const zh = {
   ArtProgram: "艺术项目",
   History: "历届会议信息",
   ReportTemplate: "报告模板",
-  Keynote: "特邀报告",
+  Keynote: "主旨报告",
   Panel: "圆桌论坛"
 };
 

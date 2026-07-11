@@ -46,6 +46,8 @@ export default defineConfig({
         "/2026/en/program",
         "/2026/zh/panel/",
         "/2026/en/panel/",
+        "/2026/zh/keynote/",
+        "/2026/en/keynote/",
         "/2026/zh/topic/1",
         "/2026/en/topic/1",
         "/2026/zh/topic/2",

@@ -73,14 +73,14 @@ export function Navbar() {
       <div class="flex-1 lg:flex-0"></div>
       <div class="absolute hidden lg:block lg:relative lg:flex-1 left-0 top-full lg:top-0 w-full lg:w-auto min-h-[calc(100vh-80px)] lg:min-h-0 lg:h-auto z-50 bg-black" classList={{ "!block": menuExpanded() }} onClick={toggleMenu}>
         <NavLink href={`/2026/${locale()}/`} title={t("Home")!} />
+        {/*<NavLink href={`/2026/${locale()}/keynote`} title={t("Keynote")!}/>*/}
         <NavLink href={`/2026/${locale()}/registration`} title={t("Registration")!} />
         <NavLink href={`/2026/${locale()}/callforpaper`} title={t("CallForPaper")!} />
         <NavLink href={`/2026/${locale()}/poster`} title={t("Poster")!} />
-        <NavLink href={`/2026/${locale()}/specialtopic`} title={t("SpecialTopic")!} />
+        <NavLink href={`/2026/${locale()}/topic`} title={t("SpecialTopic")!} />
         <NavLink href={`/2026/${locale()}/cjkworkshop`} title={t("CJKWorkshop")!} />
         <NavLink href={`/2026/${locale()}/course`} title={t("Course")!} />
         <NavLink href={`/2026/${locale()}/venue`} title={t("Venue")!} />
-        {/*<NavLink href={`/2026/${locale()}/keynote`} title={t("Keynote")!}/>*/}
         <NavLink href={`/2026/${locale()}/panel`} title={t("Panel")!}/>
         <NavLink href={`/2026/${locale()}/challenge`} title={t("Challenge")!} />
         <NavLink href={`/2026/${locale()}/doctoralcolloquium`} title={t("DoctoralColloquium")!} />

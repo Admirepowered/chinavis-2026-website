@@ -60,6 +60,9 @@ function PanelBlock(props: {
 
   return (
     <section>
+      <h1 class="mb-10 text-center text-3xl font-bold text-neutral-900 md:text-4xl">
+        圆桌论坛
+      </h1>
       {/* 论坛标题 */}
       <SectionHeading size="lg">{p.title[loc]}</SectionHeading>
 

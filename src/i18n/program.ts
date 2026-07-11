@@ -547,7 +547,7 @@ export const program: ProgramDay[] = [
                 },
                 photo: PhotoZXL,
                 description: {
-                  zh: "张小龙博士是美国宾夕法尼亚州州立大学信息科学与技术学院副教授，该学院知识可视化实验室主任。其主要研究涉及人机交互、信息可视化与可视分析、社交网络分析、协同系统等领域。张博士是中国计算机学会人机交互专委会委员、中国图象图形学会可视化与可视分析专委会委员。张博士获清华大学学士和硕士学位、密歇根大学博士学位。",
+                  zh: "张小龙博士是美国宾夕法尼亚州州立大学信息科学与技术学院副教授，该学院知识可视化实验室主任。其主要研究涉及人机交互、信息可视化与可视分析、社交网络分析、协同系统等领域。张博士是中国计算机学会人机交互专委会委员、中国图像图形学会可视化与可视分析专委会委员。张博士获清华大学学士和硕士学位、密歇根大学博士学位。",
                   en: "Dr. Xiaolong Zhang is an Associate Professor at the College of Information Sciences and Technology, Pennsylvania State University, and Director of the Knowledge Visualization Lab. His main research involves human-computer interaction, information visualization and visual analytics, social network analysis, and collaborative systems. Dr. Zhang is a committee member of the CCF Human-Computer Interaction Committee and the CSIG Visualization and Visual Analytics Committee. He holds bachelor's and master's degrees from Tsinghua University and a PhD from the University of Michigan.",
                 },
               },
