@@ -5,9 +5,47 @@
   @apply border-b border-primary-darker px-2;
 }
 
+.program-floorplan-card {
+  transition:
+    transform 180ms ease,
+    box-shadow 180ms ease,
+    border-color 180ms ease;
+}
+
+.program-floorplan-image {
+  transition: transform 240ms ease;
+}
+
+.program-floorplan-card:focus-within {
+  outline: 3px solid color-mix(in oklab, var(--color-primary) 55%, transparent);
+  outline-offset: 3px;
+}
+
+@media (hover: hover) {
+  .program-floorplan-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 14px 30px rgb(15 23 42 / 10%);
+  }
+
+  .program-floorplan-card:hover .program-floorplan-image {
+    transform: scale(1.008);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .program-floorplan-card,
+  .program-floorplan-image {
+    transition: none;
+  }
+}
+
 @media (prefers-color-scheme: dark) {
   .program th,
   .program td {
     border-color: color-mix(in oklab, var(--color-primary) 60%, black);
+  }
+
+  .program-floorplan-card:hover {
+    box-shadow: 0 14px 30px rgb(0 0 0 / 28%);
   }
 }

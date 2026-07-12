@@ -1,9 +1,107 @@
 import { For, Show } from "solid-js";
 import { Title } from "@solidjs/meta";
 
+import floorplan from "~/assets/program/floorplan.png";
 import { Page } from "~/components/Page";
 import * as Dict from "~/i18n/program";
 import { useTranslation, useTranslator } from "~/locale";
+
+import "./program.css";
+
+function scrollToVenueMap() {
+  const venueMap = document.getElementById("venue-map");
+  if (!venueMap) return;
+
+  const reduceMotion = window.matchMedia?.(
+    "(prefers-reduced-motion: reduce)",
+  ).matches;
+
+  venueMap.scrollIntoView({
+    behavior: reduceMotion ? "auto" : "smooth",
+    block: "start",
+  });
+}
+
+const venueMapCopy = {
+  title: { zh: "会场平面图", en: "Venue Floor Plan" },
+  description: {
+    zh: "平面图包含贵州省国际会议中心 -1F 与 1F 的主要会场。点击图片可打开原图查看细节。",
+    en: "The floor plan shows the main venues on B1 and 1F of the Guizhou International Conference Center. Select the image to open the full-size version.",
+  },
+  openFullSize: { zh: "查看大图", en: "View full-size floor plan" },
+  quickLink: { zh: "查看会场平面图", en: "View venue floor plan" },
+  venues: {
+    zh: "-1F：第三会议室、新闻发布厅；1F：贵州厅 1–3、第四会议室、第五会议室",
+    en: "B1: Meeting Room 3 and Press Conference Hall; 1F: Guizhou Halls 1–3 and Meeting Rooms 4–5",
+  },
+  alt: {
+    zh: "贵州省国际会议中心会场平面图，上半部分为负一层，标出第三会议室和新闻发布厅；下半部分为一层，标出贵州厅 1、2、3以及第四、第五会议室",
+    en: "Venue floor plan of the Guizhou International Conference Center. The upper half shows B1 with Meeting Room 3 and the Press Conference Hall; the lower half shows 1F with Guizhou Halls 1, 2, and 3 and Meeting Rooms 4 and 5.",
+  },
+} satisfies Record<string, Dict.LocalizedText>;
+
+function VenueMapSection() {
+  const title = useTranslation(venueMapCopy.title);
+  const description = useTranslation(venueMapCopy.description);
+  const openFullSize = useTranslation(venueMapCopy.openFullSize);
+  const venues = useTranslation(venueMapCopy.venues);
+  const alt = useTranslation(venueMapCopy.alt);
+
+  return (
+    <section id="venue-map" class="scroll-mt-24">
+      <div class="mb-4">
+        <div class="flex items-center gap-3">
+          <div
+            class="h-8 w-1.5 rounded-full bg-primary-darker"
+            aria-hidden="true"
+          />
+          <h2 class="text-xl font-bold text-gray-950 dark:text-gray-50 sm:text-2xl">
+            {title()}
+          </h2>
+        </div>
+        <p class="mt-2 pl-[18px] text-sm leading-6 text-gray-600 dark:text-gray-300 sm:text-base">
+          {description()}
+        </p>
+      </div>
+
+      <figure class="program-floorplan-card mx-auto max-w-5xl overflow-hidden rounded-xl border border-gray-200 bg-white shadow-sm dark:border-gray-700 dark:bg-gray-900">
+        <a
+          href={floorplan}
+          target="_blank"
+          rel="noreferrer"
+          class="block focus-visible:outline-none"
+          aria-label={`${title()} — ${openFullSize()}`}
+        >
+          <div class="border-b border-gray-200 bg-white p-2 dark:border-gray-700 sm:p-4">
+            <img
+              src={floorplan}
+              alt={alt()}
+              class="program-floorplan-image h-auto w-full object-contain"
+              width="940"
+              height="1169"
+              loading="lazy"
+              decoding="async"
+            />
+          </div>
+        </a>
+
+        <figcaption class="flex flex-col gap-2 px-4 py-3 sm:flex-row sm:items-center sm:justify-between sm:gap-4">
+          <p class="text-sm leading-5 text-gray-600 dark:text-gray-300">
+            {venues()}
+          </p>
+          <a
+            href={floorplan}
+            target="_blank"
+            rel="noreferrer"
+            class="shrink-0 text-xs font-semibold text-primary-darker underline-offset-4 hover:underline focus-visible:rounded-sm focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary-darker dark:text-primary-lighter dark:focus-visible:outline-primary-lighter"
+          >
+            {openFullSize()}
+          </a>
+        </figcaption>
+      </figure>
+    </section>
+  );
+}
 
 const badgeClass: Record<Dict.ProgramSessionType, string> = {
   keynote: "bg-red-100 text-red-800 dark:bg-red-950 dark:text-red-200",
@@ -236,6 +334,7 @@ function FinalProgramRows() {
 
 export default function Program() {
   const t = useTranslator(Dict);
+  const venueMapQuickLink = useTranslation(venueMapCopy.quickLink);
 
   return (
     <>
@@ -250,6 +349,14 @@ export default function Program() {
             <p class="mt-2 text-sm text-gray-500 dark:text-gray-400">
               {t("ScheduleNote")}
             </p>
+            <button
+              type="button"
+              aria-controls="venue-map"
+              onClick={scrollToVenueMap}
+              class="mt-4 inline-flex cursor-pointer items-center rounded-full border border-primary-darker/30 bg-primary/5 px-4 py-2 text-sm font-semibold text-primary-darker transition hover:bg-primary/10 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary-darker focus-visible:ring-offset-2 dark:border-primary-lighter/30 dark:bg-primary/10 dark:text-primary-lighter dark:hover:bg-primary/20"
+            >
+              {venueMapQuickLink()}
+            </button>
           </div>
 
           <div class="space-y-12">
@@ -257,6 +364,7 @@ export default function Program() {
               {(day) => <DaySection day={day} />}
             </For>
             <FinalProgramRows />
+            <VenueMapSection />
           </div>
         </div>
       </Page>
