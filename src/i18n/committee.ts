@@ -67,6 +67,7 @@ import PhotoBLF from "~/assets/committee/blf.avif?inline";
 import PhotoLQ from "~/assets/committee/lq.avif?inline";
 import PhotoLZP from "~/assets/committee/lzp.avif?inline";
 import PhotoLJ from "~/assets/committee/lj.avif?inline";
+import PhotoLG from "~/assets/committee/lg.avif?inline";
 import PhotoMYX from "~/assets/committee/myx.avif?inline";
 import PhotoLJJ from "~/assets/committee/ljj.avif?inline";
 import PhotoGWJ from "~/assets/committee/gwj.avif?inline";
@@ -81,6 +82,7 @@ import PhotoSGH from "~/assets/committee/sgh.jpg?inline";
 import PhotoCWB from "~/assets/committee/cwb.avif?inline";
 import PhotoDMS from "~/assets/committee/dms.avif?inline";
 import PhotoWXP from "~/assets/committee/wxp.avif?inline";
+import PhotoHMY from "~/assets/committee/hmy.avif?inline";
 
 export const zh = {
   PageTitle: "委员会成员 - ChinaVis 2026",
@@ -632,6 +634,11 @@ export const committee: {
         photo: PhotoHZL,
       },
       {
+        name: {zh: "何明一", en: "Mingyi He"},
+        affiliation: {zh: "贵阳学院", en: "Guiyang University"},
+        photo: PhotoHMY,
+      },
+      {
         name: {zh: "柏林夫", en: "Linfu Bai"},
         affiliation: {zh: "内蒙古师范大学", en: "Inner Mongolia Normal University"},
         photo: PhotoBLF,
@@ -672,6 +679,19 @@ export const committee: {
         affiliation: {zh: "上海科技大学", en: "ShanghaiTech University"},
         photo: PhotoLQ,
       },
+    ],
+  },
+  {
+    role: {
+      zh: "档案主席",
+      en: "Archive Chair",
+    },
+    members: [
+      {
+        name: {zh: "刘刚", en: "Gang Liu"},
+        affiliation: {zh: "中国地质大学（武汉）", en: "China University of Geosciences, Wuhan"},
+        photo: PhotoLG,
+      }
     ],
   },
   {
