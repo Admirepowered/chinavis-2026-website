@@ -934,8 +934,8 @@ export const program = [
                 "en": "Speaker: Jun Fei (Central Academy of Fine Arts)"
               },
               {
-                "zh": "主持人： ",
-                "en": "Chair:  "
+                "zh": "主持人： 袁晓如（北京大学）",
+                "en": "Chair:  Xiaoru Yuan (Peking University)"
               }
             ]
           }

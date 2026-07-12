@@ -65,7 +65,7 @@ const zh: KeynoteDict = {
       title: "混合智能——数字艺术语境下的人机共创",
       time: "2026.7.22上午 9:00-10:00",
       location: "贵州厅",
-      host: "",
+      host: "袁晓如 北京大学",
       photo: PhotoFJ,
       abstract:
         "数字艺术中智能媒介的涌现模糊了创作者的边界。人工智能不同于传统工具，在新物质主义的启示下，人工智能科技可以被视为结合了多种意向性的客体，在与人类有效的合作模式下，有着涌现更高维意向性的潜力。讲者将“混合智能”概括为新主体的存在形式，并主张建立合作与对抗共存的动态关系。混合智能不仅重塑艺术创作范式，更指向未来人机关系的认知重构——在技术赋权下，艺术将成为探索智能边界、平衡工具理性与人文精神的关键场域。",
@@ -113,7 +113,7 @@ const en: KeynoteDict = {
         "HYBRID INTELLIGENCE: A Study on Human-machine Co-creation in Digital Art",
       time: "July 22, 2026, 9:00-10:00 AM",
       location: "Guizhou Hall",
-      host: "",
+      host: "Xiaoru Yuan, Peking University",
       photo: PhotoFJ,
       abstract:
         "The emergence of intelligent media in digital art has blurred the boundaries of creators. Unlike traditional tools, artificial intelligence, enlightened by new materialism, can be regarded as an object integrated with multiple intentionalities. Under an effective collaborative model with humans, it holds the potential to generate higher-dimensional intentionality. The speaker summarizes hybrid intelligence as the existential form of new subjects, and advocates establishing a dynamic relationship where collaboration and confrontation coexist. Hybrid intelligence not only reshapes the paradigm of artistic creation, but also points to the cognitive reconstruction of future human-machine relationships. Empowered by technology, art will become a crucial field for exploring the boundaries of intelligence and balancing instrumental rationality with humanistic spirit.",
