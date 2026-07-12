@@ -18,7 +18,7 @@ export default function PanelPage() {
   return (
     <main class="panel-page mx-auto w-full max-w-5xl px-5 py-10 md:px-8 md:py-12">
       <Title>{L().pageTitle}</Title>
-      <h1 class="mb-10 text-center text-3xl font-bold text-neutral-900 md:text-4xl">
+      <h1 class="mb-10 text-center text-3xl font-bold text-neutral-900 dark:text-neutral-100 md:text-4xl">
         圆桌论坛
       </h1>
       <div class="flex flex-col gap-20">
@@ -42,7 +42,7 @@ function SectionHeading(props: { children: any; size?: "lg" | "md" }) {
   return (
     <h2
       class={
-        "border-l-4 border-[var(--bar)] pl-3 font-bold text-neutral-900 " +
+        "border-l-4 border-[var(--bar)] pl-3 font-bold text-neutral-900 dark:text-neutral-100 " +
         (big ? "text-2xl md:text-[28px]" : "text-xl")
       }
     >
@@ -66,7 +66,7 @@ function PanelBlock(props: {
       <SectionHeading size="lg">{p.title[loc]}</SectionHeading>
 
       {/* 时间 / 地点 */}
-      <div class="mt-4 space-y-1 text-[15px] text-neutral-800">
+      <div class="mt-4 space-y-1 text-[15px] text-neutral-800 dark:text-neutral-200">
         <p>
           <span class="font-semibold">{l.time}：</span>
           <span>{p.time[loc]}</span>
@@ -80,7 +80,7 @@ function PanelBlock(props: {
       {/* 论坛简介 */}
       <div class="mt-8">
         <SectionHeading>{l.intro}</SectionHeading>
-        <p class="panel-bio mt-3 text-[15px] text-neutral-900">{p.intro[loc]}</p>
+        <p class="panel-bio mt-3 text-[15px] text-neutral-900 dark:text-neutral-100">{p.intro[loc]}</p>
       </div>
 
       {/* 主持人 */}
@@ -130,14 +130,14 @@ function PersonRow(props: { person: PanelPerson; index?: number }) {
         </Show>
 
         <p class="text-[15px] leading-relaxed">
-          <span class="font-bold text-neutral-900">{person.name} </span>
+          <span class="font-bold text-neutral-900 dark:text-neutral-100">{person.name} </span>
           <Show when={person.affiliation}>
-            <span class="text-neutral-500">　{person.affiliation}</span>
+            <span class="text-neutral-500 dark:text-neutral-400">　{person.affiliation}</span>
           </Show>
         </p>
 
         <p
-          class="panel-bio mt-1.5 text-[15px] text-neutral-900"
+          class="panel-bio mt-1.5 text-[15px] text-neutral-900 dark:text-neutral-100"
           innerHTML={mdInline(person.bio)}
         />
 

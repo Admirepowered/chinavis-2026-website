@@ -73,7 +73,6 @@ export default function KeynotePage() {
 
             .keynote-meta__label {
               font-weight: 600;
-              color: #171717; /* neutral-900 */
               white-space: nowrap;
             }
 
@@ -85,7 +84,6 @@ export default function KeynotePage() {
 
             .keynote-meta__value {
               min-width: 0;
-              color: #171717;
               overflow-wrap: anywhere;
             }
 
@@ -100,7 +98,6 @@ export default function KeynotePage() {
               text-indent: var(--keynote-inset);
               text-align: justify;
               line-height: 1.9;
-              color: #171717;
             }
 
             .keynote-body__label {

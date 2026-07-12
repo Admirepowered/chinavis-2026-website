@@ -38,69 +38,6 @@ export interface PaperSession {
 export const paperSessions: PaperSession[] = [
   {
     no: 1,
-    title: "Perception and Evaluation",
-    time: "2026年7月20日 16:55–18:25",
-    location: "第四会议室",
-    chair: "侯伊涵，香港科技大学（广州）",
-    papers: [
-      {
-        id: 1036,
-        title: "When Contrast Is Not Enough: An Empirical Study of Dynamic Color Adaptation in FPS Games",
-        authors: ["Zehong Ye", "Jingyu Wang", "Xiao Xie", "Lingyun Yu", "Lijie Yao"],
-      },
-      {
-        id: 2557,
-        title: "Effects of Model Fidelity and View Layout on Analytic Activities in Digital Twin",
-        authors: ["Zhiyao Yang", "Yihan Hou", "Xingjia Hao", "Rongrong Chen", "Hai-Ning Liang", "Wei Zeng"],
-      },
-      {
-        id: 6900,
-        title: "Tangible Carbon Blocks: Data Physicalization for Everyday Carbon Emissions",
-        authors: ["Jingyu Wang", "Jiahan Zhang", "Yu Liu", "Lingyun Yu", "Lijie Yao"],
-      },
-      {
-        id: 3764,
-        title: "Immersive Interface for Human-Swarm Interaction: Advancing Deployment and Swarm-Drone-Task Comprehension",
-        authors: ["Le Liu", "Bohan Shen", "Lingyun Yu", "Kaixing Zhao"],
-      },
-    ],
-  },
-  {
-    no: 2,
-    title: "Visualization Authoring",
-    time: "2026年7月20日 15:15–16:45",
-    location: "第五会议室",
-    chair: "曾琼，山东大学",
-    papers: [
-      {
-        id: 7862,
-        title: "RAGE-Vis: A Relation-Aware Generative Editing Interface for Natural Language-Based Chart Editing",
-        authors: ["Ziyao Kang", "Yiping Sun", "Linxuan Tian", "Henghuan Qu", "Wei Zeng", "Jiazhi Xia"],
-      },
-      {
-        id: 1618,
-        title: "EviFlow-Vis: Evidence-Centered LLM-Assisted Text-to-Chart Authoring for Long-Document Reporting",
-        authors: ["Zian Zhao", "Wei Zeng"],
-      },
-      {
-        id: 6455,
-        title: "FinChronicle: Interactive Generation and Refinement of Perspective-Linked Timelines from Financial Documents",
-        authors: ["Bowen Jia", "Qiaoyun Huang", "Xiaoyue Huang", "Tong Lyu", "Xiping Wang", "Yanpeng Hu", "Changbo Wang", "Chenhui Li"],
-      },
-      {
-        id: 7606,
-        title: "A Multi-Agent Framework for User-Intent-Aware Semantic Diagram Generation",
-        authors: ["Qianhui Li", "Jielin Feng", "Siming Chen"],
-      },
-      {
-        id: 4867,
-        title: "LivingSketches: Co-creation Platform for Children’s Visual Storytelling",
-        authors: ["Mei Wang", "Lijie Yao", "Yu Liu", "Lingyun Yu"],
-      },
-    ],
-  },
-  {
-    no: 3,
     title: "AI and Visualization",
     time: "2026年7月20日 13:30–15:00",
     location: "第五会议室",
@@ -134,7 +71,104 @@ export const paperSessions: PaperSession[] = [
     ],
   },
   {
+    no: 2,
+    title: "Visualization Applications",
+    time: "2026年7月20日 15:15–16:45",
+    location: "第四会议室",
+    chair: "李金城，北京师范大学",
+    papers: [
+      {
+        id: 6747,
+        title: "面向数字孪生场景的航空发动机剩余使用寿命可解释预测系统",
+        authors: ["Xingkun Li", "Yadong Wu", "Hongying Zhang", "Yan Zhu", "Li Zhang", "Zhichao Yang", "Fupan Wang", "Guijuan Wang"],
+      },
+      {
+        id: 1652,
+        title: "RegimeFlow: State-aware Visual Analytics for Causal Analysis in Wastewater Treatment Processes",
+        authors: ["Binyan Gao", "Qi Jiang", "Kaixing Du", "Haixia Wang", "Jie Lei", "Jian Liu", "Guodao Sun", "Ronghua Liang"],
+      },
+      {
+        id: 5548,
+        title: "HearTracker: Visual Analytics for Exploring Speech Encoding and Neural Response Patterns in Hearing Loss",
+        authors: ["Yuning Hu", "Wenhai Peng", "Feiyang Gao", "Yangyang Zhou", "Yujun He", "Hairong Jin", "Zhili Zhang", "Wei Zhang", "Chaoqing Xu"],
+      },
+      {
+        id: 5127,
+        title: "基于可解释异质图学习的蛋白质组学多维关联可视分析系统",
+        authors: ["Jianhao Zhang", "Yaqi Wang", "Wentao Chen", "Qipeng Wang", "Ziyi Deng", "Min Zhu"],
+      },
+      {
+        id: 7729,
+        title: "面向成品油管道工况演化的检索增强可视分析方法",
+        authors: ["Ruixiao Liu", "Chao Liu", "Hao Zhang", "Meng Shao", "Haochong Li", "Lianen Ji"],
+      },
+    ],
+  },
+  {
+    no: 3,
+    title: "Visualization Authoring",
+    time: "2026年7月20日 15:15–16:45",
+    location: "第五会议室",
+    chair: "曾琼，山东大学",
+    papers: [
+      {
+        id: 7862,
+        title: "RAGE-Vis: A Relation-Aware Generative Editing Interface for Natural Language-Based Chart Editing",
+        authors: ["Ziyao Kang", "Yiping Sun", "Linxuan Tian", "Henghuan Qu", "Wei Zeng", "Jiazhi Xia"],
+      },
+      {
+        id: 1618,
+        title: "EviFlow-Vis: Evidence-Centered LLM-Assisted Text-to-Chart Authoring for Long-Document Reporting",
+        authors: ["Zian Zhao", "Wei Zeng"],
+      },
+      {
+        id: 6455,
+        title: "FinChronicle: Interactive Generation and Refinement of Perspective-Linked Timelines from Financial Documents",
+        authors: ["Bowen Jia", "Qiaoyun Huang", "Xiaoyue Huang", "Tong Lyu", "Xiping Wang", "Yanpeng Hu", "Changbo Wang", "Chenhui Li"],
+      },
+      {
+        id: 7606,
+        title: "A Multi-Agent Framework for User-Intent-Aware Semantic Diagram Generation",
+        authors: ["Qianhui Li", "Jielin Feng", "Siming Chen"],
+      },
+      {
+        id: 4867,
+        title: "LivingSketches: Co-creation Platform for Children’s Visual Storytelling",
+        authors: ["Mei Wang", "Lijie Yao", "Yu Liu", "Lingyun Yu"],
+      },
+    ],
+  },
+  {
     no: 4,
+    title: "Perception and Evaluation",
+    time: "2026年7月20日 16:55–18:25",
+    location: "第四会议室",
+    chair: "侯伊涵，香港科技大学（广州）",
+    papers: [
+      {
+        id: 1036,
+        title: "When Contrast Is Not Enough: An Empirical Study of Dynamic Color Adaptation in FPS Games",
+        authors: ["Zehong Ye", "Jingyu Wang", "Xiao Xie", "Lingyun Yu", "Lijie Yao"],
+      },
+      {
+        id: 2557,
+        title: "Effects of Model Fidelity and View Layout on Analytic Activities in Digital Twin",
+        authors: ["Zhiyao Yang", "Yihan Hou", "Xingjia Hao", "Rongrong Chen", "Hai-Ning Liang", "Wei Zeng"],
+      },
+      {
+        id: 6900,
+        title: "Tangible Carbon Blocks: Data Physicalization for Everyday Carbon Emissions",
+        authors: ["Jingyu Wang", "Jiahan Zhang", "Yu Liu", "Lingyun Yu", "Lijie Yao"],
+      },
+      {
+        id: 3764,
+        title: "Immersive Interface for Human-Swarm Interaction: Advancing Deployment and Swarm-Drone-Task Comprehension",
+        authors: ["Le Liu", "Bohan Shen", "Lingyun Yu", "Kaixing Zhao"],
+      },
+    ],
+  },
+  {
+    no: 5,
     title: "Graph Visualization",
     time: "2026年7月20日 16:55–18:25",
     location: "第五会议室",
@@ -163,7 +197,7 @@ export const paperSessions: PaperSession[] = [
     ],
   },
   {
-    no: 5,
+    no: 6,
     title: "Text, Tabular, and Time Series Data",
     time: "2026年7月21日 08:30–10:00",
     location: "贵州厅3",
@@ -197,7 +231,7 @@ export const paperSessions: PaperSession[] = [
     ],
   },
   {
-    no: 6,
+    no: 7,
     title: "Geospatial Visualization",
     time: "2026年7月21日 08:30–10:00",
     location: "第五会议室",
@@ -226,7 +260,7 @@ export const paperSessions: PaperSession[] = [
     ],
   },
   {
-    no: 7,
+    no: 8,
     title: "Scientific Visualization",
     time: "2026年7月21日 10:15–11:45",
     location: "第五会议室",
@@ -251,40 +285,6 @@ export const paperSessions: PaperSession[] = [
         id: 2895,
         title: "MolMind: A Visual Analytics Framework for Bidirectional Semantic Interaction and Narrative Mechanisms",
         authors: ["Yingqi Yao", "Dongliang Guo", "Yujing Bao", "Tengda Xue", "Mengya Lv"],
-      },
-    ],
-  },
-  {
-    no: 8,
-    title: "Visualization Applications",
-    time: "2026年7月20日 15:15–16:45",
-    location: "第四会议室",
-    chair: "李金城，北京师范大学",
-    papers: [
-      {
-        id: 6747,
-        title: "面向数字孪生场景的航空发动机剩余使用寿命可解释预测系统",
-        authors: ["Xingkun Li", "Yadong Wu", "Hongying Zhang", "Yan Zhu", "Li Zhang", "Zhichao Yang", "Fupan Wang", "Guijuan Wang"],
-      },
-      {
-        id: 1652,
-        title: "RegimeFlow: State-aware Visual Analytics for Causal Analysis in Wastewater Treatment Processes",
-        authors: ["Binyan Gao", "Qi Jiang", "Kaixing Du", "Haixia Wang", "Jie Lei", "Jian Liu", "Guodao Sun", "Ronghua Liang"],
-      },
-      {
-        id: 5548,
-        title: "HearTracker: Visual Analytics for Exploring Speech Encoding and Neural Response Patterns in Hearing Loss",
-        authors: ["Yuning Hu", "Wenhai Peng", "Feiyang Gao", "Yangyang Zhou", "Yujun He", "Hairong Jin", "Zhili Zhang", "Wei Zhang", "Chaoqing Xu"],
-      },
-      {
-        id: 5127,
-        title: "基于可解释异质图学习的蛋白质组学多维关联可视分析系统",
-        authors: ["Jianhao Zhang", "Yaqi Wang", "Wentao Chen", "Qipeng Wang", "Ziyi Deng", "Min Zhu"],
-      },
-      {
-        id: 7729,
-        title: "面向成品油管道工况演化的检索增强可视分析方法",
-        authors: ["Ruixiao Liu", "Chao Liu", "Hao Zhang", "Meng Shao", "Haochong Li", "Lianen Ji"],
       },
     ],
   },
