@@ -23,6 +23,7 @@ export const zh = {
   Keynote: "主旨报告",
   Panel: "圆桌论坛",
   ArtistLecture: "艺术家讲座",
+  FaceToFace: "校企面对面",
 };
 
 export const en = {
@@ -49,4 +50,5 @@ export const en = {
   Keynote: "Keynotes",
   Panel: "Panel",
   ArtistLecture: "Artist Lectures",
+  FaceToFace: "Industry Talks",
 };

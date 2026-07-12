@@ -60,6 +60,8 @@ export default defineConfig({
         "/2026/en/art_exhition",
         "/2026/zh/reporttemplate",
         "/2026/en/reporttemplate",
+        "/2026/zh/facetoface",
+        "/2026/en/facetoface",
       ],
       failOnError: true,
     },

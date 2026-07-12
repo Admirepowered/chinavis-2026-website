@@ -87,6 +87,7 @@ export function Navbar() {
         <NavLink href={`/2026/${locale()}/challenge`} title={t("Challenge")!} />
         <NavLink href={`/2026/${locale()}/doctoralcolloquium`} title={t("DoctoralColloquium")!} />
         <NavLink href={`/2026/${locale()}/sponsor`} title={t("Sponsorship")!} />
+        <NavLink href={`/2026/${locale()}/facetoface`} title={t("FaceToFace")!} />
         <NavLink href={`/2026/${locale()}/volunteer`} title={t("Volunteer")!} />
         <NavLink href={`/2026/${locale()}/committee`} title={t("Committee")!} />
         <ExternalNavLink href="http://chinavisap.net/2026/" title={t("ArtProgram")!} />
