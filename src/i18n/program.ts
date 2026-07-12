@@ -6,23 +6,17 @@ export interface LocalizedText {
 export const zh = {
   PageTitle: "会议议程 - ChinaVis 2026",
   Title: "会议议程",
-  Subtitle: "ChinaVis 2026 大会议程",
   Time: "时间",
   Venue: "地点",
   Session: "议程",
-  OngoingActivities: "同期活动",
-  ScheduleNote: "以下议程以现场安排为准。",
 };
 
 export const en = {
   PageTitle: "Program - ChinaVis 2026",
   Title: "Program",
-  Subtitle: "ChinaVis 2026 Conference Program",
   Time: "Time",
   Venue: "Venue",
   Session: "Program",
-  OngoingActivities: "Ongoing Activities",
-  ScheduleNote: "The program is subject to on-site adjustments.",
 };
 
 export type ProgramSessionType =
@@ -55,11 +49,9 @@ export interface ProgramDay {
   timeslots: ProgramTimeSlot[];
 }
 
-export interface ProgramSideEvent {
+export interface ProgramFinalRow {
   date: LocalizedText;
-  title: LocalizedText;
-  location?: LocalizedText;
-  details?: LocalizedText[];
+  session: ProgramSession;
 }
 
 export const sessionTypeLabels: Record<ProgramSessionType, LocalizedText> = {
@@ -110,8 +102,8 @@ export const program = [
           {
             "type": "course",
             "title": {
-              "zh": "课程 1：解码自然之美——用科学数据讲故事",
-              "en": "Course 1: Decoding the Beauty of Nature — Storytelling with Scientific Data"
+              "zh": "课程 1：解码自然之美：用科学数据讲故事",
+              "en": "Course 1: Decoding the Beauty of Nature: Storytelling with Scientific Data"
             },
             "location": {
               "zh": "第四会议室",
@@ -178,8 +170,8 @@ export const program = [
           {
             "type": "activity",
             "title": {
-              "zh": "可视化与可视分析专委会会议",
-              "en": "Meeting of the Technical Committee on Visualization and Visual Analytics"
+              "zh": "专委会会议",
+              "en": "Technical Committee Meeting"
             },
             "location": {
               "zh": "新闻发布厅",
@@ -235,7 +227,7 @@ export const program = [
           {
             "type": "keynote",
             "title": {
-              "zh": "大会主旨报告：多模图像融合感知",
+              "zh": "主旨报告：多模图像融合感知",
               "en": "Keynote: Multimodal Image Fusion and Perception"
             },
             "location": {
@@ -286,8 +278,8 @@ export const program = [
                 "en": "Chair: Guihua Shan (Computer Network Information Center, Chinese Academy of Sciences)"
               },
               {
-                "zh": "嘉宾：崔辰州（中国科学院国家天文台）；董军宇（中国海洋大学）；邹士阳（北京应用物理与计算数学研究所）；潘君廷（中国农业科学院农业资源与农业区划研究所）；赵国辉（中国科学院寒区旱区环境与工程研究所）",
-                "en": "Panelists: Chenzhou Cui (National Astronomical Observatories, Chinese Academy of Sciences); Junyu Dong (Ocean University of China); Shiyang Zou (Institute of Applied Physics and Computational Mathematics); Junting Pan (Institute of Agricultural Resources and Regional Planning, Chinese Academy of Agricultural Sciences); Guohui Zhao (Cold and Arid Regions Environmental and Engineering Research Institute, Chinese Academy of Sciences)"
+                "zh": "嘉宾：崔辰州（中国科学院国家天文台）；董军宇（中国海洋大学）；邹士阳（北京应用物理与计算数学研究所（九所—激光物理））；潘君廷（中国农业科学院农业资源与农业区划研究所）；赵国辉（中国科学院寒区旱区环境与工程研究所）",
+                "en": "Panelists: Chenzhou Cui (National Astronomical Observatories, Chinese Academy of Sciences); Junyu Dong (Ocean University of China); Shiyang Zou (Institute of Applied Physics and Computational Mathematics, Institute No. 9—Laser Physics); Junting Pan (Institute of Agricultural Resources and Regional Planning, Chinese Academy of Agricultural Sciences); Guohui Zhao (Cold and Arid Regions Environmental and Engineering Research Institute, Chinese Academy of Sciences)"
               }
             ]
           }
@@ -371,7 +363,7 @@ export const program = [
                 "en": "Chair: Qing Chen (Tongji University)"
               },
               {
-                "zh": "嘉宾：Qiansheng Li (Shanghai University)；于健（广州美术学院）；龙娟娟（江南大学）；黄竹兰（贵阳学院）",
+                "zh": "嘉宾：李谦升（上海大学）；于健（广州美术学院）；龙娟娟（江南大学）；黄竹兰（贵阳学院）",
                 "en": "Speakers: Qiansheng Li (Shanghai University); Jian Yu (Guangzhou Academy of Fine Arts); Juanjuan Long (Jiangnan University); Zhulan Huang (Guiyang University)"
               }
             ]
@@ -392,7 +384,7 @@ export const program = [
                 "en": "Chair: Yuheng Zhao (Fudan University)"
               },
               {
-                "zh": "Session 3: AI and Visualization\n1. RAG-ReconVis: Visual Analytics for Human-Guided Reconstruction of RAG Knowledge-Base Leakage\n   Authors: Yunchao Wang, Yingqi Pan, Wenkang Hao, Junhao Lan, Guodao Sun\n2. FootprintRAG: Visual Analytics for Evidence Context Refinement in RAG-based Scientific Literature Exploration\n   Authors: Xingyu Liu, Yu Dong, Qizhen Yu, Shiyu Cheng, Zhe Wang, Guan Li, Guihua Shan, Dong Tian, Christy Jie Liang, Quang Vinh Nguyen\n3. LinguaLens: Visual Analytics for Shared-Context Branching Analysis in Stochastic LLM Generation\n   Authors: Lucheng Cao, Xinlei Liu, Qingyang Zhu, Hongxing Qin, Chao Liu, Haibo Hu\n4. Fine-Grained Visual Analysis of Internal Representations in Deep Models for Multivariate Industrial Time-Series Forecasting\n   Authors: Xinya Yao, Ruixiao Liu, Yingchao Fu, Zhi Xu, Wenjing Tian, Lianen Ji\n5. AUG-Scope: Alignment- and Uniformity-Guided Visual Diagnosis for Hybrid Graph Self-Supervised Learning Configurations\n   Authors: Ying Tang, Jiawei Tang, Guodao Sun",
+                "zh": "Session 3: AI and Visualization\n1. RAG-ReconVis: Visual Analytics for Human-Guided Reconstruction of RAG Knowledge-Base Leakage\n   Authors: Yunchao Wang, Yingqi Pan, Wenkang Hao, Junhao Lan, Guodao Sun\n2. FootprintRAG: Visual Analytics for Evidence Context Refinement in RAG-based Scientific Literature Exploration\n   Authors: Xingyu Liu, Yu Dong, Qizhen Yu, Shiyu Cheng, Zhe Wang, Guan Li, Guihua Shan, Dong Tian, Christy Jie Liang, Quang Vinh Nguyen\n3. LinguaLens: Visual Analytics for Shared-Context Branching Analysis in Stochastic LLM Generation\n   Authors: Lucheng Cao, Xinlei Liu, Qingyang Zhu, Hongxing Qin, Chao Liu, Haibo Hu\n4. 多元工业时序预测深度模型内部表征的细粒度可视分析\n   Authors: Xinya Yao, Ruixiao Liu, Yingchao Fu, Zhi Xu, Wenjing Tian, Lianen Ji\n5. AUG-Scope: Alignment- and Uniformity-Guided Visual Diagnosis for Hybrid Graph Self-Supervised Learning Configurations\n   Authors: Ying Tang, Jiawei Tang, Guodao Sun",
                 "en": "Session 3: AI and Visualization\n1. RAG-ReconVis: Visual Analytics for Human-Guided Reconstruction of RAG Knowledge-Base Leakage\n   Authors: Yunchao Wang, Yingqi Pan, Wenkang Hao, Junhao Lan, Guodao Sun\n2. FootprintRAG: Visual Analytics for Evidence Context Refinement in RAG-based Scientific Literature Exploration\n   Authors: Xingyu Liu, Yu Dong, Qizhen Yu, Shiyu Cheng, Zhe Wang, Guan Li, Guihua Shan, Dong Tian, Christy Jie Liang, Quang Vinh Nguyen\n3. LinguaLens: Visual Analytics for Shared-Context Branching Analysis in Stochastic LLM Generation\n   Authors: Lucheng Cao, Xinlei Liu, Qingyang Zhu, Hongxing Qin, Chao Liu, Haibo Hu\n4. Fine-Grained Visual Analysis of Internal Representations in Deep Models for Multivariate Industrial Time-Series Forecasting\n   Authors: Xinya Yao, Ruixiao Liu, Yingchao Fu, Zhi Xu, Wenjing Tian, Lianen Ji\n5. AUG-Scope: Alignment- and Uniformity-Guided Visual Diagnosis for Hybrid Graph Self-Supervised Learning Configurations\n   Authors: Ying Tang, Jiawei Tang, Guodao Sun"
               }
             ]
@@ -451,7 +443,7 @@ export const program = [
                 "en": "Chair: Jincheng Li (Beijing Normal University)"
               },
               {
-                "zh": "Session 8: Visualization Applications\n1. An Interpretable Prediction System for Aero-Engine Remaining Useful Life in Digital-Twin Scenarios\n   Authors: Xingkun Li, Yadong Wu, Hongying Zhang, Yan Zhu, Li Zhang, Zhichao Yang, Fupan Wang, Guijuan Wang\n2. RegimeFlow: State-Aware Visual Analytics for Causal Analysis in Wastewater Treatment Processes\n   Authors: Binyan Gao, Qi Jiang, Kaixing Du, Haixia Wang, Jie Lei, Jian Liu, Guodao Sun, Ronghua Liang\n3. HearTracker: Visual Analytics for Exploring Speech Encoding and Neural Response Patterns in Hearing Loss\n   Authors: Yuning Hu, Wenhai Peng, Feiyang Gao, Yangyang Zhou, Yujun He, Hairong Jin, Zhili Zhang, Wei Zhang, Chaoqing Xu\n4. A Visual Analytics System for Multidimensional Associations in Proteomics Based on Interpretable Heterogeneous Graph Learning\n   Authors: Jianhao Zhang, Yaqi Wang, Wentao Chen, Qipeng Wang, Ziyi Deng, Min Zhu\n5. A Retrieval-Augmented Visual Analytics Approach for Operational-State Evolution in Refined-Oil Pipelines\n   Authors: Ruixiao Liu, Chao Liu, Hao Zhang, Meng Shao, Haochong Li, Lianen Ji",
+                "zh": "Session 8: Visualization Applications\n1. 面向数字孪生场景的航空发动机剩余使用寿命可解释预测系统\n   Authors: Xingkun Li, Yadong Wu, Hongying Zhang, Yan Zhu, Li Zhang, Zhichao Yang, Fupan Wang, Guijuan Wang\n2. RegimeFlow: State-Aware Visual Analytics for Causal Analysis in Wastewater Treatment Processes\n   Authors: Binyan Gao, Qi Jiang, Kaixing Du, Haixia Wang, Jie Lei, Jian Liu, Guodao Sun, Ronghua Liang\n3. HearTracker: Visual Analytics for Exploring Speech Encoding and Neural Response Patterns in Hearing Loss\n   Authors: Yuning Hu, Wenhai Peng, Feiyang Gao, Yangyang Zhou, Yujun He, Hairong Jin, Zhili Zhang, Wei Zhang, Chaoqing Xu\n4. 基于可解释异质图学习的蛋白质组学多维关联可视分析系统\n   Authors: Jianhao Zhang, Yaqi Wang, Wentao Chen, Qipeng Wang, Ziyi Deng, Min Zhu\n5. 面向成品油管道工况演化的检索增强可视分析方法\n   Authors: Ruixiao Liu, Chao Liu, Hao Zhang, Meng Shao, Haochong Li, Lianen Ji",
                 "en": "Session 8: Visualization Applications\n1. An Interpretable Prediction System for Aero-Engine Remaining Useful Life in Digital-Twin Scenarios\n   Authors: Xingkun Li, Yadong Wu, Hongying Zhang, Yan Zhu, Li Zhang, Zhichao Yang, Fupan Wang, Guijuan Wang\n2. RegimeFlow: State-Aware Visual Analytics for Causal Analysis in Wastewater Treatment Processes\n   Authors: Binyan Gao, Qi Jiang, Kaixing Du, Haixia Wang, Jie Lei, Jian Liu, Guodao Sun, Ronghua Liang\n3. HearTracker: Visual Analytics for Exploring Speech Encoding and Neural Response Patterns in Hearing Loss\n   Authors: Yuning Hu, Wenhai Peng, Feiyang Gao, Yangyang Zhou, Yujun He, Hairong Jin, Zhili Zhang, Wei Zhang, Chaoqing Xu\n4. A Visual Analytics System for Multidimensional Associations in Proteomics Based on Interpretable Heterogeneous Graph Learning\n   Authors: Jianhao Zhang, Yaqi Wang, Wentao Chen, Qipeng Wang, Ziyi Deng, Min Zhu\n5. A Retrieval-Augmented Visual Analytics Approach for Operational-State Evolution in Refined-Oil Pipelines\n   Authors: Ruixiao Liu, Chao Liu, Hao Zhang, Meng Shao, Haochong Li, Lianen Ji"
               }
             ]
@@ -472,8 +464,8 @@ export const program = [
                 "en": "Chair: Qiong Zeng (Shandong University)"
               },
               {
-                "zh": "Session 2:Visualization Authoring\n1. RAGE-Vis: A Relation-Aware Generative Editing Interface for Natural Language-Based Chart Editing\n   Authors: Ziyao Kang, Yiping Sun, Linxuan Tian, Henghuan Qu, Wei Zeng, Jiazhi Xia\n2. EviFlow-Vis: Evidence-Centered LLM-Assisted Text-to-Chart Authoring for Long-Document Reporting\n   Authors: Zian Zhao, Wei Zeng\n3. FinChronicle: Interactive Generation and Refinement of Perspective-Linked Timelines from Financial Documents\n   Authors: Bowen Jia, Qiaoyun Huang, Xiaoyue Huang, Tong Lyu, Xiping Wang, Yanpeng Hu, Changbo Wang, Chenhui Li\n4. A Multi-Agent Framework for User-Intent-Aware Semantic Diagram Generation\n   Authors: Qianhui Li, Jielin Feng, Siming Chen\n5. LivingSketches: Co-creation Platform for Children’s Visual Storytelling\n   Authors: Mei Wang, Lijie Yao, Yu Liu, Lingyun Yu",
-                "en": "Session 2:Visualization Authoring\n1. RAGE-Vis: A Relation-Aware Generative Editing Interface for Natural Language-Based Chart Editing\n   Authors: Ziyao Kang, Yiping Sun, Linxuan Tian, Henghuan Qu, Wei Zeng, Jiazhi Xia\n2. EviFlow-Vis: Evidence-Centered LLM-Assisted Text-to-Chart Authoring for Long-Document Reporting\n   Authors: Zian Zhao, Wei Zeng\n3. FinChronicle: Interactive Generation and Refinement of Perspective-Linked Timelines from Financial Documents\n   Authors: Bowen Jia, Qiaoyun Huang, Xiaoyue Huang, Tong Lyu, Xiping Wang, Yanpeng Hu, Changbo Wang, Chenhui Li\n4. A Multi-Agent Framework for User-Intent-Aware Semantic Diagram Generation\n   Authors: Qianhui Li, Jielin Feng, Siming Chen\n5. LivingSketches: Co-creation Platform for Children’s Visual Storytelling\n   Authors: Mei Wang, Lijie Yao, Yu Liu, Lingyun Yu"
+                "zh": "Session 2: Visualization Authoring\n1. RAGE-Vis: A Relation-Aware Generative Editing Interface for Natural Language-Based Chart Editing\n   Authors: Ziyao Kang, Yiping Sun, Linxuan Tian, Henghuan Qu, Wei Zeng, Jiazhi Xia\n2. EviFlow-Vis: Evidence-Centered LLM-Assisted Text-to-Chart Authoring for Long-Document Reporting\n   Authors: Zian Zhao, Wei Zeng\n3. FinChronicle: Interactive Generation and Refinement of Perspective-Linked Timelines from Financial Documents\n   Authors: Bowen Jia, Qiaoyun Huang, Xiaoyue Huang, Tong Lyu, Xiping Wang, Yanpeng Hu, Changbo Wang, Chenhui Li\n4. A Multi-Agent Framework for User-Intent-Aware Semantic Diagram Generation\n   Authors: Qianhui Li, Jielin Feng, Siming Chen\n5. LivingSketches: Co-creation Platform for Children’s Visual Storytelling\n   Authors: Mei Wang, Lijie Yao, Yu Liu, Lingyun Yu",
+                "en": "Session 2: Visualization Authoring\n1. RAGE-Vis: A Relation-Aware Generative Editing Interface for Natural Language-Based Chart Editing\n   Authors: Ziyao Kang, Yiping Sun, Linxuan Tian, Henghuan Qu, Wei Zeng, Jiazhi Xia\n2. EviFlow-Vis: Evidence-Centered LLM-Assisted Text-to-Chart Authoring for Long-Document Reporting\n   Authors: Zian Zhao, Wei Zeng\n3. FinChronicle: Interactive Generation and Refinement of Perspective-Linked Timelines from Financial Documents\n   Authors: Bowen Jia, Qiaoyun Huang, Xiaoyue Huang, Tong Lyu, Xiping Wang, Yanpeng Hu, Changbo Wang, Chenhui Li\n4. A Multi-Agent Framework for User-Intent-Aware Semantic Diagram Generation\n   Authors: Qianhui Li, Jielin Feng, Siming Chen\n5. LivingSketches: Co-creation Platform for Children’s Visual Storytelling\n   Authors: Mei Wang, Lijie Yao, Yu Liu, Lingyun Yu"
               }
             ]
           }
@@ -519,8 +511,8 @@ export const program = [
                 "en": "Chair: Yihan Hou (The Hong Kong University of Science and Technology (Guangzhou))"
               },
               {
-                "zh": "Session 1:Perception and Evaluation\n1. When Contrast Is Not Enough: An Empirical Study of Dynamic Color Adaptation in FPS Games\n   Authors: Zehong Ye, Jingyu Wang, Xiao Xie, Lingyun Yu, Lijie Yao\n2. Effects of Model Fidelity and View Layout on Analytic Activities in Digital Twin\n   Authors: Zhiyao Yang, Yihan Hou, Xingjia Hao, Rongrong Chen, Hai-Ning Liang, Wei Zeng\n3. Tangible Carbon Blocks: Data Physicalization for Everyday Carbon Emissions\n   Authors: Jingyu Wang, Jiahan Zhang, Yu Liu, Lingyun Yu, Lijie Yao\n4. Immersive Interface for Human-Swarm Interaction: Advancing Deployment and Swarm-Drone-Task Comprehension\n   Authors: Le Liu, Bohan Shen, Lingyun Yu, Kaixing Zhao",
-                "en": "Session 1:Perception and Evaluation\n1. When Contrast Is Not Enough: An Empirical Study of Dynamic Color Adaptation in FPS Games\n   Authors: Zehong Ye, Jingyu Wang, Xiao Xie, Lingyun Yu, Lijie Yao\n2. Effects of Model Fidelity and View Layout on Analytic Activities in Digital Twin\n   Authors: Zhiyao Yang, Yihan Hou, Xingjia Hao, Rongrong Chen, Hai-Ning Liang, Wei Zeng\n3. Tangible Carbon Blocks: Data Physicalization for Everyday Carbon Emissions\n   Authors: Jingyu Wang, Jiahan Zhang, Yu Liu, Lingyun Yu, Lijie Yao\n4. Immersive Interface for Human-Swarm Interaction: Advancing Deployment and Swarm-Drone-Task Comprehension\n   Authors: Le Liu, Bohan Shen, Lingyun Yu, Kaixing Zhao"
+                "zh": "Session 1: Perception and Evaluation\n1. When Contrast Is Not Enough: An Empirical Study of Dynamic Color Adaptation in FPS Games\n   Authors: Zehong Ye, Jingyu Wang, Xiao Xie, Lingyun Yu, Lijie Yao\n2. Effects of Model Fidelity and View Layout on Analytic Activities in Digital Twin\n   Authors: Zhiyao Yang, Yihan Hou, Xingjia Hao, Rongrong Chen, Hai-Ning Liang, Wei Zeng\n3. Tangible Carbon Blocks: Data Physicalization for Everyday Carbon Emissions\n   Authors: Jingyu Wang, Jiahan Zhang, Yu Liu, Lingyun Yu, Lijie Yao\n4. Immersive Interface for Human-Swarm Interaction: Advancing Deployment and Swarm-Drone-Task Comprehension\n   Authors: Le Liu, Bohan Shen, Lingyun Yu, Kaixing Zhao",
+                "en": "Session 1: Perception and Evaluation\n1. When Contrast Is Not Enough: An Empirical Study of Dynamic Color Adaptation in FPS Games\n   Authors: Zehong Ye, Jingyu Wang, Xiao Xie, Lingyun Yu, Lijie Yao\n2. Effects of Model Fidelity and View Layout on Analytic Activities in Digital Twin\n   Authors: Zhiyao Yang, Yihan Hou, Xingjia Hao, Rongrong Chen, Hai-Ning Liang, Wei Zeng\n3. Tangible Carbon Blocks: Data Physicalization for Everyday Carbon Emissions\n   Authors: Jingyu Wang, Jiahan Zhang, Yu Liu, Lingyun Yu, Lijie Yao\n4. Immersive Interface for Human-Swarm Interaction: Advancing Deployment and Swarm-Drone-Task Comprehension\n   Authors: Le Liu, Bohan Shen, Lingyun Yu, Kaixing Zhao"
               }
             ]
           },
@@ -540,7 +532,7 @@ export const program = [
                 "en": "Chair: Sicheng Song (East China Normal University)"
               },
               {
-                "zh": "Session 4: Graph Visualization\n1. NOVA: Knowledge-Augmented Visual Analysis for Automated Graph Layout Optimization\n   Authors: Nuo Xu, Tong Li, Siyu Mao, Chenze Li, Qi Jiang, Xueqian Zheng, Yunchao Wang, Guodao Sun, Ronghua Liang\n2. PrefKG: A Visual Interactive System for Aligning LLM-Based Knowledge Graph Extraction with Human Preferences\n   Authors: Bin Li, Yuming Ma, Bo Meng, Yu Su, Dongyang He, Yuewen Liu\n3. CHCVis: An Interactive Visual Analytics System for Cross-Validation of Multi-Source Cultural Heritage Data\n   Authors: Haozhong Liu, Anzhen Li, Tianqi Wang, Xiaoyan Gu, Yixia Zheng, Huiru Chen, Huanghuang Deng, Wei Zhang, Yu Zhao\n4. DiaViz: Systematic Visual Analytics Exploration of Clinical Diabetes Data via Graph-Based Representations\n   Authors: Yuning Hu, Jiawei Huang, Zhentao Zheng, Xinyuan Fu, Menglin Feng, Mimei Xu, Zhongding Jiang, Guodao Sun, Chaoqing Xu",
+                "zh": "Session 4: Graph Visualization\n1. NOVA: Knowledge-Augmented Visual Analysis for Automated Graph Layout Optimization\n   Authors: Nuo Xu, Tong Li, Siyu Mao, Chenze Li, Qi Jiang, Xueqian Zheng, Yunchao Wang, Guodao Sun, Ronghua Liang\n2. PrefKG: A Visual Interactive System for Aligning LLM-Based Knowledge Graph Extraction with Human Preferences\n   Authors: Bin Li, Yuming Ma, Bo Meng, Yu Su, Dongyang He, Yuewen Liu\n3. CHCVis：多源文化遗产交叉验证交互式可视分析系统\n   Authors: Haozhong Liu, Anzhen Li, Tianqi Wang, Xiaoyan Gu, Yixia Zheng, Huiru Chen, Huanghuang Deng, Wei Zhang, Yu Zhao\n4. DiaViz: Systematic Visual Analytics Exploration of Clinical Diabetes Data via Graph-Based Representations\n   Authors: Yuning Hu, Jiawei Huang, Zhentao Zheng, Xinyuan Fu, Menglin Feng, Mimei Xu, Zhongding Jiang, Guodao Sun, Chaoqing Xu",
                 "en": "Session 4: Graph Visualization\n1. NOVA: Knowledge-Augmented Visual Analysis for Automated Graph Layout Optimization\n   Authors: Nuo Xu, Tong Li, Siyu Mao, Chenze Li, Qi Jiang, Xueqian Zheng, Yunchao Wang, Guodao Sun, Ronghua Liang\n2. PrefKG: A Visual Interactive System for Aligning LLM-Based Knowledge Graph Extraction with Human Preferences\n   Authors: Bin Li, Yuming Ma, Bo Meng, Yu Su, Dongyang He, Yuewen Liu\n3. CHCVis: An Interactive Visual Analytics System for Cross-Validation of Multi-Source Cultural Heritage Data\n   Authors: Haozhong Liu, Anzhen Li, Tianqi Wang, Xiaoyan Gu, Yixia Zheng, Huiru Chen, Huanghuang Deng, Wei Zhang, Yu Zhao\n4. DiaViz: Systematic Visual Analytics Exploration of Clinical Diabetes Data via Graph-Based Representations\n   Authors: Yuning Hu, Jiawei Huang, Zhentao Zheng, Xinyuan Fu, Menglin Feng, Mimei Xu, Zhongding Jiang, Guodao Sun, Chaoqing Xu"
               }
             ]
@@ -596,16 +588,16 @@ export const program = [
                 "en": "Chair: Wang Xia (Jiaxing University)"
               },
               {
-                "zh": "Session 5:Text, Tabular, and Time Series Data\n1. Line Chart Reverse Engineering via Differential Rendering\n   Authors: Boyang Feng, Jinchao Chen, Guozheng Li, Quanbao Yang, Min Lu, Xuefeng Li, Weijiao Zhang, Zhongkai Wang, Chi Harold Liu\n2. SemLinkLens: Semantic Linking and LLM-Driven Visual Analytics for Tabular Data Insights\n   Authors: Jinchao Chen, Guozheng Li, Quanbao Yang, Gerile Aodeng, Yunshan Feng, Xuefeng Li, Weijiao Zhang, Zhongkai Wang, Chi Harold Liu\n3. FloaView: A Visualization System for Stance Analysis of Multiple Answers to a Single Opinion-Oriented Question\n   Authors: Yue Huang, Shuai Chen, Zhaoman Zhong\n4. EvoInsight: Evolutionary Intent-Driven Exploratory Data Analysis with Contextual Enhancement\n   Authors: Zhentao Zheng, Qi Jiang, Ziyu Huang, Xueqian Zheng, Yunchao Wang, Jian Liu, Guodao Sun, Ronghua Liang\n5. LexiVA: An Evidence-Aware Visual Analysis System for Multi-Dimensional Cultural Evolution of Chinese Lexicon\n   Authors: Guangtao You, Yingping Yang, Yumeng Zhang, Wenwen Li, Yuxin Lei, Jiazhou Chen",
-                "en": "Session 5:Text, Tabular, and Time Series Data\n1. Line Chart Reverse Engineering via Differential Rendering\n   Authors: Boyang Feng, Jinchao Chen, Guozheng Li, Quanbao Yang, Min Lu, Xuefeng Li, Weijiao Zhang, Zhongkai Wang, Chi Harold Liu\n2. SemLinkLens: Semantic Linking and LLM-Driven Visual Analytics for Tabular Data Insights\n   Authors: Jinchao Chen, Guozheng Li, Quanbao Yang, Gerile Aodeng, Yunshan Feng, Xuefeng Li, Weijiao Zhang, Zhongkai Wang, Chi Harold Liu\n3. FloaView: A Visualization System for Stance Analysis of Multiple Answers to a Single Opinion-Oriented Question\n   Authors: Yue Huang, Shuai Chen, Zhaoman Zhong\n4. EvoInsight: Evolutionary Intent-Driven Exploratory Data Analysis with Contextual Enhancement\n   Authors: Zhentao Zheng, Qi Jiang, Ziyu Huang, Xueqian Zheng, Yunchao Wang, Jian Liu, Guodao Sun, Ronghua Liang\n5. LexiVA: An Evidence-Aware Visual Analysis System for Multi-Dimensional Cultural Evolution of Chinese Lexicon\n   Authors: Guangtao You, Yingping Yang, Yumeng Zhang, Wenwen Li, Yuxin Lei, Jiazhou Chen"
+                "zh": "Session 5: Text, Tabular, and Time Series Data\n1. Line Chart Reverse Engineering via Differential Rendering\n   Authors: Boyang Feng, Jinchao Chen, Guozheng Li, Quanbao Yang, Min Lu, Xuefeng Li, Weijiao Zhang, Zhongkai Wang, Chi Harold Liu\n2. SemLinkLens: Semantic Linking and LLM-Driven Visual Analytics for Tabular Data Insights\n   Authors: Jinchao Chen, Guozheng Li, Quanbao Yang, Gerile Aodeng, Yunshan Feng, Xuefeng Li, Weijiao Zhang, Zhongkai Wang, Chi Harold Liu\n3. FloaView: A Visualization System for Stance Analysis of Multiple Answers to a Single Opinion-Oriented Question\n   Authors: Yue Huang, Shuai Chen, Zhaoman Zhong\n4. EvoInsight: Evolutionary Intent-Driven Exploratory Data Analysis with Contextual Enhancement\n   Authors: Zhentao Zheng, Qi Jiang, Ziyu Huang, Xueqian Zheng, Yunchao Wang, Jian Liu, Guodao Sun, Ronghua Liang\n5. LexiVA: An Evidence-Aware Visual Analysis System for Multi-Dimensional Cultural Evolution of Chinese Lexicon\n   Authors: Guangtao You, Yingping Yang, Yumeng Zhang, Wenwen Li, Yuxin Lei, Jiazhou Chen",
+                "en": "Session 5: Text, Tabular, and Time Series Data\n1. Line Chart Reverse Engineering via Differential Rendering\n   Authors: Boyang Feng, Jinchao Chen, Guozheng Li, Quanbao Yang, Min Lu, Xuefeng Li, Weijiao Zhang, Zhongkai Wang, Chi Harold Liu\n2. SemLinkLens: Semantic Linking and LLM-Driven Visual Analytics for Tabular Data Insights\n   Authors: Jinchao Chen, Guozheng Li, Quanbao Yang, Gerile Aodeng, Yunshan Feng, Xuefeng Li, Weijiao Zhang, Zhongkai Wang, Chi Harold Liu\n3. FloaView: A Visualization System for Stance Analysis of Multiple Answers to a Single Opinion-Oriented Question\n   Authors: Yue Huang, Shuai Chen, Zhaoman Zhong\n4. EvoInsight: Evolutionary Intent-Driven Exploratory Data Analysis with Contextual Enhancement\n   Authors: Zhentao Zheng, Qi Jiang, Ziyu Huang, Xueqian Zheng, Yunchao Wang, Jian Liu, Guodao Sun, Ronghua Liang\n5. LexiVA: An Evidence-Aware Visual Analysis System for Multi-Dimensional Cultural Evolution of Chinese Lexicon\n   Authors: Guangtao You, Yingping Yang, Yumeng Zhang, Wenwen Li, Yuxin Lei, Jiazhou Chen"
               }
             ]
           },
           {
             "type": "exhibition",
             "title": {
-              "zh": "专题 6：艺术讲座及艺术作品速览",
-              "en": "Topic 6: Art Lectures and Artwork Fast Forward"
+              "zh": "艺术家讲座",
+              "en": "Artist Talks"
             },
             "location": {
               "zh": "第四会议室",
@@ -638,8 +630,8 @@ export const program = [
                 "en": "Chair: Lixiang Zhao (Xi'an Jiaotong-Liverpool University)"
               },
               {
-                "zh": "Session 6:Geospatial Visualization\n1. Visual Analytics for Open-Loop Evaluation of End-to-End Autonomous Driving Models\n   Authors: Xueyou Zhang, Yunchao Wang, Wang Xia, Yicao Li, Xueqian Zheng, Qi Jiang, Guodao Sun, Ronghua Liang\n2. ActSoon: Intelligent Aircraft Taxiing Scheduling through Integrated Spatio-Temporal Visual Analytics\n   Authors: Luge Yang, Guoqiang Wang, Fengjie Wang, Yimeng Wang, Qipeng Wang, Yong Wang, Xiaolin Wen, Min Zhu\n3. MapSlides: A Geospatial Data-Driven Multi-Agent Framework for Story Map Slide Generation\n   Authors: Jie Wang, Dongliang Guo, Haozhan Shi, Tengda Xue\n4. TPBSeer: Visual Analysis of Traffic Participant Behaviors at Intersections\n   Authors: Wei Huang, Guohong Zheng, Yong Wang, Haipeng Zeng",
-                "en": "Session 6:Geospatial Visualization\n1. Visual Analytics for Open-Loop Evaluation of End-to-End Autonomous Driving Models\n   Authors: Xueyou Zhang, Yunchao Wang, Wang Xia, Yicao Li, Xueqian Zheng, Qi Jiang, Guodao Sun, Ronghua Liang\n2. ActSoon: Intelligent Aircraft Taxiing Scheduling through Integrated Spatio-Temporal Visual Analytics\n   Authors: Luge Yang, Guoqiang Wang, Fengjie Wang, Yimeng Wang, Qipeng Wang, Yong Wang, Xiaolin Wen, Min Zhu\n3. MapSlides: A Geospatial Data-Driven Multi-Agent Framework for Story Map Slide Generation\n   Authors: Jie Wang, Dongliang Guo, Haozhan Shi, Tengda Xue\n4. TPBSeer: Visual Analysis of Traffic Participant Behaviors at Intersections\n   Authors: Wei Huang, Guohong Zheng, Yong Wang, Haipeng Zeng"
+                "zh": "Session 6: Geospatial Visualization\n1. Visual Analytics for Open-Loop Evaluation of End-to-End Autonomous Driving Models\n   Authors: Xueyou Zhang, Yunchao Wang, Wang Xia, Yicao Li, Xueqian Zheng, Qi Jiang, Guodao Sun, Ronghua Liang\n2. ActSoon: Intelligent Aircraft Taxiing Scheduling through Integrated Spatio-Temporal Visual Analytics\n   Authors: Luge Yang, Guoqiang Wang, Fengjie Wang, Yimeng Wang, Qipeng Wang, Yong Wang, Xiaolin Wen, Min Zhu\n3. MapSlides: A Geospatial Data-Driven Multi-Agent Framework for Story Map Slide Generation\n   Authors: Jie Wang, Dongliang Guo, Haozhan Shi, Tengda Xue\n4. TPBSeer: Visual Analysis of Traffic Participant Behaviors at Intersections\n   Authors: Wei Huang, Guohong Zheng, Yong Wang, Haipeng Zeng",
+                "en": "Session 6: Geospatial Visualization\n1. Visual Analytics for Open-Loop Evaluation of End-to-End Autonomous Driving Models\n   Authors: Xueyou Zhang, Yunchao Wang, Wang Xia, Yicao Li, Xueqian Zheng, Qi Jiang, Guodao Sun, Ronghua Liang\n2. ActSoon: Intelligent Aircraft Taxiing Scheduling through Integrated Spatio-Temporal Visual Analytics\n   Authors: Luge Yang, Guoqiang Wang, Fengjie Wang, Yimeng Wang, Qipeng Wang, Yong Wang, Xiaolin Wen, Min Zhu\n3. MapSlides: A Geospatial Data-Driven Multi-Agent Framework for Story Map Slide Generation\n   Authors: Jie Wang, Dongliang Guo, Haozhan Shi, Tengda Xue\n4. TPBSeer: Visual Analysis of Traffic Participant Behaviors at Intersections\n   Authors: Wei Huang, Guohong Zheng, Yong Wang, Haipeng Zeng"
               }
             ]
           }
@@ -663,8 +655,8 @@ export const program = [
           {
             "type": "topic",
             "title": {
-              "zh": "专题 7：可视分析与智能协同决策",
-              "en": "Topic 7: Visual Analytics and Intelligent Collaborative Decision-Making"
+              "zh": "专题 6：可视分析与智能协同决策",
+              "en": "Topic 6: Visual Analytics and Intelligent Collaborative Decision-Making"
             },
             "location": {
               "zh": "贵州厅 1+2",
@@ -684,8 +676,8 @@ export const program = [
           {
             "type": "topic",
             "title": {
-              "zh": "专题 8：数据要素 × 可视化",
-              "en": "Topic 8: Data Elements × Visualization"
+              "zh": "专题 7：数据要素 × 可视化",
+              "en": "Topic 7: Data Elements × Visualization"
             },
             "location": {
               "zh": "贵州厅 3",
@@ -705,8 +697,8 @@ export const program = [
           {
             "type": "topic",
             "title": {
-              "zh": "专题 9：科学可视化",
-              "en": "Topic 9: Scientific Visualization"
+              "zh": "专题 8：科学可视化",
+              "en": "Topic 8: Scientific Visualization"
             },
             "location": {
               "zh": "第四会议室",
@@ -739,7 +731,7 @@ export const program = [
                 "en": "Chair: Jun Han (The Hong Kong University of Science and Technology)"
               },
               {
-                "zh": "Session 7: Scientific Visualization\n1. A Dynamic Visualization Method for Ecological Flow Scheduling Simulation\n   Authors: Yeheng Jiang, Chenhui Li, Changbo Wang\n2. GeoVis: Geometry-Enhanced and Multi-View Fused Model for Precise LLM-Driven Aircraft Component Visualization\n   Authors: Sipeng Deng, De Xing, Xiaorong Zhang, Fang Wang, Chunyang Su\n3. A Direct Visualization Method for High-Order Flow Field Data Based on Virtual Subblocks in Reference Space\n   Authors: JianHua Dong, JiMing Lan, Yang Chao, Fang Wang, ZhenXing He\n4. MolMind: A Visual Analytics Framework for Bidirectional Semantic Interaction and Narrative Mechanisms\n   Authors: Yingqi Yao, Dongliang Guo, Yujing Bao, Tengda Xue, Mengya Lv",
+                "zh": "Session 7: Scientific Visualization\n1. 面向生态流量调度仿真的动态可视化方法\n   Authors: Yeheng Jiang, Chenhui Li, Changbo Wang\n2. GeoVis: Geometry-Enhanced and Multi-View Fused Model for Precise LLM-Driven Aircraft Component Visualization\n   Authors: Sipeng Deng, De Xing, Xiaorong Zhang, Fang Wang, Chunyang Su\n3. A Direct Visualization Method for High-Order Flow Field Data Based on Virtual Subblocks in Reference Space\n   Authors: JianHua Dong, JiMing Lan, Yang Chao, Fang Wang, ZhenXing He\n4. MolMind: A Visual Analytics Framework for Bidirectional Semantic Interaction and Narrative Mechanisms\n   Authors: Yingqi Yao, Dongliang Guo, Yujing Bao, Tengda Xue, Mengya Lv",
                 "en": "Session 7: Scientific Visualization\n1. A Dynamic Visualization Method for Ecological Flow Scheduling Simulation\n   Authors: Yeheng Jiang, Chenhui Li, Changbo Wang\n2. GeoVis: Geometry-Enhanced and Multi-View Fused Model for Precise LLM-Driven Aircraft Component Visualization\n   Authors: Sipeng Deng, De Xing, Xiaorong Zhang, Fang Wang, Chunyang Su\n3. A Direct Visualization Method for High-Order Flow Field Data Based on Virtual Subblocks in Reference Space\n   Authors: JianHua Dong, JiMing Lan, Yang Chao, Fang Wang, ZhenXing He\n4. MolMind: A Visual Analytics Framework for Bidirectional Semantic Interaction and Narrative Mechanisms\n   Authors: Yingqi Yao, Dongliang Guo, Yujing Bao, Tengda Xue, Mengya Lv"
               }
             ]
@@ -752,8 +744,8 @@ export const program = [
           {
             "type": "activity",
             "title": {
-              "zh": "校企面对面（上半场）",
-              "en": "University–Industry Meetup (Part I)"
+              "zh": "校企面对面",
+              "en": "University–Industry Meetup"
             },
             "location": {
               "zh": "贵州厅 1+2",
@@ -773,8 +765,8 @@ export const program = [
           {
             "type": "topic",
             "title": {
-              "zh": "专题 10：前沿论文交流 A",
-              "en": "Topic 10: Frontier Research Forum A"
+              "zh": "专题 9：前沿论文交流 A",
+              "en": "Topic 9: Frontier Research Forum A"
             },
             "location": {
               "zh": "贵州厅 3",
@@ -794,8 +786,8 @@ export const program = [
           {
             "type": "topic",
             "title": {
-              "zh": "专题 11：人文数据分析与可视化",
-              "en": "Topic 11: Humanities Data Analysis and Visualization"
+              "zh": "专题 10：人文数据分析与可视化",
+              "en": "Topic 10: Humanities Data Analysis and Visualization"
             },
             "location": {
               "zh": "第四会议室",
@@ -815,8 +807,8 @@ export const program = [
           {
             "type": "topic",
             "title": {
-              "zh": "专题 12：可视化行业应用",
-              "en": "Topic 12: Visualization Applications in Industry"
+              "zh": "专题 11：可视化行业应用",
+              "en": "Topic 11: Visualization Applications in Industry"
             },
             "location": {
               "zh": "第五会议室",
@@ -853,8 +845,8 @@ export const program = [
           {
             "type": "activity",
             "title": {
-              "zh": "校企面对面（下半场）",
-              "en": "University–Industry Meetup (Part II)"
+              "zh": "校企面对面",
+              "en": "University–Industry Meetup"
             },
             "location": {
               "zh": "贵州厅 1+2",
@@ -874,8 +866,8 @@ export const program = [
           {
             "type": "topic",
             "title": {
-              "zh": "专题 13：前沿论文交流 B",
-              "en": "Topic 13: Frontier Research Forum B"
+              "zh": "专题 12：前沿论文交流 B",
+              "en": "Topic 12: Frontier Research Forum B"
             },
             "location": {
               "zh": "贵州厅 3",
@@ -921,8 +913,8 @@ export const program = [
           {
             "type": "keynote",
             "title": {
-              "zh": "大会主旨报告：混合智能——数字艺术语境下的人机共创",
-              "en": "Keynote: HYBRID INTELLIGENCE: A Study on Human-machine Co-creation in Digital Art"
+              "zh": "主旨报告：混合智能——数字艺术语境下的人机共创",
+              "en": "Keynote: Hybrid Intelligence—Human–Machine Co-Creation in Digital Art"
             },
             "location": {
               "zh": "贵州厅",
@@ -934,8 +926,8 @@ export const program = [
                 "en": "Speaker: Jun Fei (Central Academy of Fine Arts)"
               },
               {
-                "zh": "主持人： 袁晓如（北京大学）",
-                "en": "Chair:  Xiaoru Yuan (Peking University)"
+                "zh": "主持人：袁晓如（北京大学）",
+                "en": "Chair: Xiaoru Yuan (Peking University)"
               }
             ]
           }
@@ -999,29 +991,32 @@ export const program = [
   }
 ] satisfies ProgramDay[];
 
-export const sideEvents = [
+export const finalProgramRows = [
   {
     "date": {
       "zh": "2026 年 7 月 18–22 日",
       "en": "July 18–22, 2026"
     },
-    "title": {
-      "zh": "艺术项目与艺术展",
-      "en": "Art Projects and Exhibition"
-    },
-    "location": {
-      "zh": "第三会议室",
-      "en": "Meeting Room 3"
-    },
-    "details": [
-      {
-        "zh": "艺术项目开幕及艺术展：2026 年 7 月 20 日 13:30–15:00",
-        "en": "Art Project Opening and Exhibition: July 20, 2026, 13:30–15:00"
+    "session": {
+      "type": "exhibition",
+      "title": {
+        "zh": "艺术项目开幕及艺术展",
+        "en": "Art Project Opening and Exhibition"
       },
-      {
-        "zh": "Qiansheng Li (Shanghai University)",
-        "en": "Qiansheng Li (Shanghai University)"
-      }
-    ]
+      "location": {
+        "zh": "第三会议室",
+        "en": "Meeting Room 3"
+      },
+      "details": [
+        {
+          "zh": "时间：2026 年 7 月 20 日 13:30–15:00",
+          "en": "Time: July 20, 2026, 13:30–15:00"
+        },
+        {
+          "zh": "李谦升（上海大学）",
+          "en": "Qiansheng Li (Shanghai University)"
+        }
+      ]
+    }
   }
-] satisfies ProgramSideEvent[];
+] satisfies ProgramFinalRow[];

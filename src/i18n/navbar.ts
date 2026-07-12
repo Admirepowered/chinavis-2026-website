@@ -21,7 +21,8 @@ export const zh = {
   History: "历届会议信息",
   ReportTemplate: "报告模板",
   Keynote: "主旨报告",
-  Panel: "圆桌论坛"
+  Panel: "圆桌论坛",
+  ArtistLecture: "艺术家讲座",
 };
 
 export const en = {
@@ -46,5 +47,6 @@ export const en = {
   History: "History",
   ReportTemplate: "Presentation Template",
   Keynote: "Keynotes",
-  Panel: "Roundtable Forum",
+  Panel: "Panel",
+  ArtistLecture: "Artist Lectures",
 };

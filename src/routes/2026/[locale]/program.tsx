@@ -175,39 +175,62 @@ function DaySection(props: { day: Dict.ProgramDay }) {
   );
 }
 
-function SideEventCard(props: { event: Dict.ProgramSideEvent }) {
-  const date = useTranslation(props.event.date);
-  const title = useTranslation(props.event.title);
-  const location = props.event.location
-    ? useTranslation(props.event.location)
-    : undefined;
+function FinalProgramRows() {
+  const t = useTranslator(Dict);
 
   return (
-    <article class="rounded-xl border border-primary-darker/30 bg-primary/5 p-4 dark:border-primary-lighter/30 dark:bg-primary/10">
-      <div class="flex flex-col gap-1 sm:flex-row sm:items-baseline sm:justify-between">
-        <h3 class="font-semibold text-gray-950 dark:text-gray-50">{title()}</h3>
-        <span class="text-sm font-medium tabular-nums text-primary-darker dark:text-primary-lighter">
-          {date()}
-        </span>
-      </div>
+    <Show when={Dict.finalProgramRows.length > 0}>
+      <div>
+        <div class="hidden overflow-hidden rounded-xl border border-gray-200 shadow-sm dark:border-gray-700 md:block">
+          <table class="w-full table-fixed border-collapse text-left">
+            <tbody>
+              <For each={Dict.finalProgramRows}>
+                {(row) => {
+                  const date = useTranslation(row.date);
 
-      <Show when={location}>
-        <p class="mt-2 text-sm text-gray-600 dark:text-gray-300">
-          {location!()}
-        </p>
-      </Show>
+                  return (
+                    <tr>
+                      <td class="w-32 border-r border-gray-200 px-4 py-4 align-top font-semibold tabular-nums text-gray-900 dark:border-gray-700 dark:text-gray-100">
+                        {date()}
+                      </td>
+                      <td class="w-52 border-r border-gray-200 px-4 py-3 align-top dark:border-gray-700">
+                        <Venue session={row.session} />
+                      </td>
+                      <td class="px-4 align-top">
+                        <SessionContent session={row.session} />
+                      </td>
+                    </tr>
+                  );
+                }}
+              </For>
+            </tbody>
+          </table>
+        </div>
 
-      <Show when={props.event.details?.length}>
-        <div class="mt-2 space-y-1 text-sm leading-6 text-gray-600 dark:text-gray-300">
-          <For each={props.event.details}>
-            {(detail) => {
-              const translatedDetail = useTranslation(detail);
-              return <p>{translatedDetail()}</p>;
+        <div class="space-y-4 md:hidden">
+          <For each={Dict.finalProgramRows}>
+            {(row) => {
+              const date = useTranslation(row.date);
+
+              return (
+                <section class="overflow-hidden rounded-xl border border-gray-200 bg-white shadow-sm dark:border-gray-700 dark:bg-gray-900">
+                  <div class="border-b border-gray-200 bg-primary-darkest px-4 py-2.5 font-semibold tabular-nums text-white dark:border-gray-700">
+                    {date()}
+                  </div>
+                  <article class="px-4">
+                    <div class="pt-3 text-xs font-medium uppercase tracking-wide text-gray-500 dark:text-gray-400">
+                      {t("Venue")}
+                    </div>
+                    <Venue session={row.session} />
+                    <SessionContent session={row.session} />
+                  </article>
+                </section>
+              );
             }}
           </For>
         </div>
-      </Show>
-    </article>
+      </div>
+    </Show>
   );
 }
 
@@ -229,23 +252,11 @@ export default function Program() {
             </p>
           </div>
 
-          <Show when={Dict.sideEvents.length > 0}>
-            <section class="mb-10">
-              <h2 class="mb-4 text-lg font-bold text-gray-950 dark:text-gray-50">
-                {t("OngoingActivities")}
-              </h2>
-              <div class="grid gap-4">
-                <For each={Dict.sideEvents}>
-                  {(event) => <SideEventCard event={event} />}
-                </For>
-              </div>
-            </section>
-          </Show>
-
           <div class="space-y-12">
             <For each={Dict.program}>
               {(day) => <DaySection day={day} />}
             </For>
+            <FinalProgramRows />
           </div>
         </div>
       </Page>
