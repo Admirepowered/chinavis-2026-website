@@ -81,6 +81,7 @@ export function Navbar() {
         <NavLink href={`/2026/${locale()}/artistlecture`} title={t("ArtistLecture")!}/>
         <NavLink href={`/2026/${locale()}/cjkworkshop`} title={t("CJKWorkshop")!} />
         <NavLink href={`/2026/${locale()}/course`} title={t("Course")!} />
+        <NavLink href={`/2026/${locale()}/art_exhibition`} title={t("ArtExhibition")!} />
         <NavLink href={`/2026/${locale()}/venue`} title={t("Venue")!} />
         <NavLink href={`/2026/${locale()}/panel`} title={t("Panel")!}/>
         <NavLink href={`/2026/${locale()}/challenge`} title={t("Challenge")!} />
