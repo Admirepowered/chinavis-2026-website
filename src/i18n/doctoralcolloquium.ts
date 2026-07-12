@@ -38,6 +38,22 @@ export const zh = {
     **陶煜波**，浙江大学
 
     **李晨辉**，华东师范大学
+    
+    ## 点评专家
+    
+    **孙国道**，浙江工业大学
+    
+    **李杰**，天津大学
+    
+    **马昱欣**，南方科技大学   
+    
+    ## 地点
+    
+    贵阳学院数字科技大楼 11 楼 1102
+    
+    ## 时间
+    
+    2026 年 7 月 19 日上午 09:00-12:00
     `.replace(/^    /gm, ""),
     { async: false }
   ),
@@ -81,6 +97,24 @@ export const en = {
     **Yubo Tao**, Zhejiang University
 
     **Chenhui Li**, East China Normal University
+    
+    ## Expert Reviewers
+
+    **Guodao Sun**, Zhejiang University of Technology
+    
+    **Jie Li**, Tianjin University
+    
+    **Yuxin Ma**, Southern University of Science and Technology
+    
+    ## Venue
+    
+    Room 1102, 11th Floor, Digital Technology Building, Guiyang University
+    
+    ## Date and Time
+    
+    July 19, 2026, 9:00 a.m.–12:00 p.m.
+
+
     `.replace(/^    /gm, ""),
     { async: false }
   ),
