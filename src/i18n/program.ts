@@ -217,13 +217,7 @@ export const program = [
             "location": {
               "zh": "贵州厅",
               "en": "Guizhou Hall"
-            },
-            "details": [
-              {
-                "zh": "主持人：张加万（天津大学）",
-                "en": "Chair: Jiawan Zhang (Tianjin University)"
-              }
-            ]
+            }
           }
         ]
       },
@@ -241,10 +235,6 @@ export const program = [
               "en": "Guizhou Hall"
             },
             "details": [
-              {
-                "zh": "主持人：张加万（天津大学）",
-                "en": "Chair: Jiawan Zhang (Tianjin University)"
-              },
               {
                 "zh": "报告人：李树涛（长安大学）",
                 "en": "Speaker: Shutao Li (Chang'an University)"
@@ -960,10 +950,6 @@ export const program = [
             },
             "details": [
               {
-                "zh": "主持人：袁晓如（北京大学）",
-                "en": "Chair: Xiaoru Yuan (Peking University)"
-              },
-              {
                 "zh": "报告人：费俊（中央美术学院）",
                 "en": "Speaker: Jun Fei (Central Academy of Fine Arts)"
               }
@@ -1021,13 +1007,7 @@ export const program = [
             "location": {
               "zh": "贵州厅",
               "en": "Guizhou Hall"
-            },
-            "details": [
-              {
-                "zh": "主持人：袁晓如（北京大学）",
-                "en": "Chair: Xiaoru Yuan (Peking University)"
-              }
-            ]
+            }
           }
         ]
       }
