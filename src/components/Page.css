@@ -9,9 +9,41 @@
 }
 
 .page h3 {
-  @apply relative font-bold mt-2 pb-1 w-fit underline -underline-offset-6 decoration-14;
-  text-decoration-skip-ink: none;
-  text-decoration-color: color-mix(in oklab, var(--color-green-700) 30%, white);
+  @apply font-bold mt-2 pb-1;
+
+  position: relative;
+  display: inline-block;
+
+  width: fit-content;
+  max-width: 100%;
+
+  /* 防止在 flex/grid 布局中被拉伸到整行 */
+  flex: 0 1 auto;
+  align-self: flex-start;
+  justify-self: start;
+
+  isolation: isolate;
+}
+
+.page h3::after {
+  content: "";
+  position: absolute;
+
+  left: 0;
+  bottom: 0.2em;
+
+  /* 宽度严格跟随 h3 的文字宽度 */
+  width: 100%;
+  height: 0.6em;
+
+  background-color: color-mix(
+    in oklab,
+    var(--color-green-700) 30%,
+    white
+  );
+
+  z-index: -1;
+  pointer-events: none;
 }
 
 .page h4 {
@@ -51,9 +83,14 @@
 }
 
 @media (prefers-color-scheme: dark) {
-  .page h3 {
-    text-decoration-color: color-mix(in oklab, var(--color-primary) 60%, black);
+  .page h3::after {
+    background-color: color-mix(
+      in oklab,
+      var(--color-primary) 60%,
+      black
+    );
   }
+
   .page a {
     @apply text-primary;
   }
