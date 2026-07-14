@@ -531,7 +531,7 @@ export const topics: Topic[] = [
         "affiliation": "爱荷华州立大学，助理教授",
         "reportTitle": "面向科学发现的结构感知可视化与智能学习",
         "abstract": "随着科学模拟、实验观测和人工智能的发展，科学数据正呈现出大规模、高维、多尺度和不确定性的特点，如何从海量数据中发现具有科学意义的结构与规律，已成为数据可视化与人工智能共同面临的重要挑战。传统方法往往关注数值误差、整体统计指标或预测精度，而对科学研究更加关注的结构特征、多尺度组织以及不确定性传播缺乏有效支撑。 本报告将介绍我们近年来围绕结构感知科学数据分析开展的一系列研究工作，探讨如何以拓扑数据分析（Topological Data Analysis, TDA）为核心结构表示，融合数据可视化、机器学习与不确定性量化，构建面向科学发现的统一分析框架。报告将重点介绍结构特征提取与可靠性分析、拓扑保持的数据压缩与降维、结构约束的科学机器学习以及结构感知的不确定性分析等方向，并结合气候预测、极端天气、催化反应、材料设计和生物系统等应用案例，展示结构信息如何提升科学数据分析的可解释性、可靠性与发现能力。",
-        "bio": "颜琳，爱荷华州立大学计算机科学系助理教授、博士生导师。获上海交通大学学士、硕士学位，犹他大学计算机博士学位。主要研究方向为拓扑数据分析、科学可视化与数据可视化，致力于融合拓扑、统计分析和机器学习方法解决复杂科学数据分析与可视化问题。其博士论文荣获 2024 IEEE VGTC Visualization Doctoral Dissertation Award，这是国际可视化领域博士论文的最高荣誉之一。主持和参与多项美国国家科学基金会及美国能源部科研项目，在 IEEE VIS、IEEE TVCG、CGF等国际顶级期刊和会议发表多篇学术论文。长期担任 IEEE VIS、EuroVis、CGF、TVCG 等国际会议和期刊审稿人，曾任 IEEE VIS Topology-Informed Visualization Workshop（TopoInVis）共同主席（2023–2025），现任 IEEE VIS Short Papers Program Committee 委员（2025–2026），并受邀担任美国国家科学基金会项目评审专家。",
+        "bio": "颜琳，爱荷华州立大学计算机学院助理教授、博士生导师。上海交通大学学士、硕士，犹他大学博士。主要研究方向为拓扑数据分析、科学可视化、人工智能与不确定性量化。博士论文获 2024 IEEE VGTC Visualization Doctoral Dissertation Award（国际可视化领域最佳博士论文奖），获 2026 美国国家科学基金（NSF）CAREER Award（美国最具声望的早期职业教师荣誉之一）。主持参与多项美国国家科学基金和美国能源部科研项目，在 IEEE VIS、IEEE Transactions on Visualization and Computer Graphics (IEEE TVCG) 等CCF A类国际期刊和会议发表多篇论文。担任美国国家科学基金评审专家，IEEE VIS、EuroVis、CGF等国际期刊及会议审稿人，曾任 IEEE VIS TopoInVis Workshop 共同主席（2023–2025），现任IEEE VIS Short Papers 程序委员会委员（2025–2026）。实验室长期招收博士生，欢迎感兴趣的同学联系交流。",
         "home": "https://lynneyan.github.io",
         "photo": yl
       }
