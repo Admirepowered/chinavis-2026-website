@@ -1,9 +1,7 @@
 import shanguihua from "~/assets/panel/shanguihua.avif";
-import liuligang from "~/assets/panel/liuligang.avif";
+import wangjian from "~/assets/panel/wangjian.avif";
 import cuichenzhou from "~/assets/panel/cuichenzhou.avif";
 import dongjunyu from "~/assets/panel/dongjunyu.avif";
-import zoushiyang from "~/assets/panel/zoushiyang.avif";
-import panjunting from "~/assets/panel/panjunting.avif";
 import zhaoguohui from "~/assets/panel/zhaoguohui.avif";
 // 圆桌论坛 2
 import chensiming from "~/assets/panel/chensiming.avif";
@@ -105,22 +103,16 @@ export const panels: Panel[] = [
         "photo": dongjunyu
       },
       {
-        "name": "潘君廷",
-        "affiliation": "研究员，中国农业科学院农业资源与农业区划研究所",
-        "bio": "潘君廷，中国农业科学院农业资源与农业区划研究所研究员，博士生导师，主要从事农业废弃物生物转化研究，研究兴趣主要集中于农业废弃物厌氧消化提质增效、好氧堆肥快速腐殖化、生物基高值材料制备应用和生物能源高效利用等领域。主持国家科技重大专项、国家自然科学基金等项目 10 余项，以第一或通讯作者在 Trends in Biotechnology、Renewable & Sustainable Energy Reviews 等领域知名期刊发表论文 50 余篇，第一完成人授权国内外发明专利 10 余件。",
-        "photo": panjunting
+        "name": "王建",
+        "affiliation": "国家对地观测科学数据中心副主任，中国科学院空天信息创新研究院高级工程师",
+        "bio": "王建，国家对地观测科学数据中心副主任，中国科学院空天信息创新研究院高级工程师。长期从事高性能地学计算和遥感卫星数据记录技术、遥感大数据服务与应用。主持国家重点研发计划 1 项，主持和参与国家重点研发计划、国家重大工程项目、国家自然科学基金、海南省重大科技计划项目、内蒙古自治区科技厅等项目 30 余项。取得发明专利 10 项，发表论文 30 余篇；取得软件著作权 5 项；出版专著 1 部；获省部级科技进步奖 1 项。",
+        "photo": wangjian
       },
       {
         "name": "赵国辉",
         "affiliation": "高级工程师，中国科学院西北生态环境资源研究院",
         "bio": "赵国辉，中国科学院西北生态环境资源研究院高级工程师，主要从事时空大数据关键技术研发工作，建立了地学大数据制备生产的方法体系，在数据融合计算与自动化生产制备方面取得系统性成果，满足了时空耦合模拟、大数据计算分析的动态需求，主持完成国家、省部级等研究课题 10 余项，授权国内外发明专利 9 项，开发软件 30 余套，发表学术论文 20 余篇。",
         "photo": zhaoguohui
-      },
-      {
-        "name": "邹士阳",
-        "affiliation": "研究员，北京应用物理与计算数学研究所（九所-激光物理）",
-        "bio": "邹士阳，北京应用物理与计算数学研究所研究员，现任国家重大科技专项副总设计师。长期从事惯性约束聚变与高能量密度物理研究，提出多角度辐射流测量研究内爆驱动不对称性的新方法，建立相关理论框架，并提出衡量聚变点火能的新判据。曾策划并与团队完成神光系列装置上黑腔、内爆和激光等离子体不稳定性等千余发实验，推动我国激光聚变研究阶段目标实现。在 Nature Physics、Physical Review Letters、Nuclear Fusion 等期刊发表论文 100 余篇，多次受邀在 IFSA 等会议作报告，并兼任全国计算物理学会常委理事、《计算物理》副主编等职。",
-        "photo": zoushiyang
       },
     ]
   },
