@@ -274,8 +274,8 @@ export const program = [
                 "en": "Chair: Guihua Shan (Computer Network Information Center, Chinese Academy of Sciences)"
               },
               {
-                "zh": "嘉宾：崔辰州（中国科学院国家天文台）；董军宇（中国海洋大学）；王建（国家对地观测科学数据中心副主任）；赵国辉（中国科学院寒区旱区环境与工程研究所）",
-                "en": "Panelists: Chenzhou Cui (National Astronomical Observatories, Chinese Academy of Sciences); Junyu Dong (Ocean University of China); Jian Wang (Deputy Director, National Earth Observation Data Center); Guohui Zhao (Cold and Arid Regions Environmental and Engineering Research Institute, Chinese Academy of Sciences)"
+                "zh": "嘉宾：屈华民（香港科技大学）；崔辰州（中国科学院国家天文台）；董军宇（中国海洋大学）；王建（国家对地观测科学数据中心副主任）；赵国辉（中国科学院寒区旱区环境与工程研究所）",
+                "en": "Panelists: Huamin Qu (Hong Kong University of Science and Technology); Chenzhou Cui (National Astronomical Observatories, Chinese Academy of Sciences); Junyu Dong (Ocean University of China); Jian Wang (Deputy Director, National Earth Observation Data Center); Guohui Zhao (Cold and Arid Regions Environmental and Engineering Research Institute, Chinese Academy of Sciences)"
               }
             ]
           }
