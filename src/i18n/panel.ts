@@ -2,7 +2,7 @@ import shanguihua from "~/assets/panel/shanguihua.avif";
 import wangjian from "~/assets/panel/wangjian.avif";
 import cuichenzhou from "~/assets/panel/cuichenzhou.avif";
 import dongjunyu from "~/assets/panel/dongjunyu.avif";
-import zhaoguohui from "~/assets/panel/zhaoguohui.avif";
+import liuhongbo from "~/assets/panel/liuhongbo.avif";
 import quhuamin from "~/assets/panel/quhuamin.avif"
 // 圆桌论坛 2
 import chensiming from "~/assets/panel/chensiming.avif";
@@ -110,10 +110,10 @@ export const panels: Panel[] = [
           "photo": wangjian
         },
         {
-          "name": "赵国辉",
-          "affiliation": "高级工程师，中国科学院西北生态环境资源研究院",
-          "bio": "赵国辉，中国科学院西北生态环境资源研究院高级工程师，主要从事时空大数据关键技术研发工作，建立了地学大数据制备生产的方法体系，在数据融合计算与自动化生产制备方面取得系统性成果，满足了时空耦合模拟、大数据计算分析的动态需求，主持完成国家、省部级等研究课题 10 余项，授权国内外发明专利 9 项，开发软件 30 余套，发表学术论文 20 余篇。",
-          "photo": zhaoguohui
+          "name": "刘洪波",
+          "affiliation": "高级工程师，北京工程软件研制中心，北京中科院软件中心有限公司",
+          "bio": "刘洪波，北京工程软件研制中心，北京中科院软件中心有限公司，高级工程师。专注流固耦合数值模拟20余年，在钢铁、有色、能源等领域将流固耦合技术成功应用于工业仿真与生产优化，兼具理论与工程落地能力，领域资深专家。",
+          "photo": liuhongbo
         },
       ]
     },
