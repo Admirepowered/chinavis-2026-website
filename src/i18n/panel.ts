@@ -2,7 +2,7 @@ import shanguihua from "~/assets/panel/shanguihua.avif";
 import wangjian from "~/assets/panel/wangjian.avif";
 import cuichenzhou from "~/assets/panel/cuichenzhou.avif";
 import dongjunyu from "~/assets/panel/dongjunyu.avif";
-import liuhongbo from "~/assets/panel/liuhongbo.avif";
+import shenhujun from "~/assets/panel/shenhujun.avif";
 import quhuamin from "~/assets/panel/quhuamin.avif"
 // 圆桌论坛 2
 import chensiming from "~/assets/panel/chensiming.avif";
@@ -110,10 +110,10 @@ export const panels: Panel[] = [
           "photo": wangjian
         },
         {
-          "name": "刘洪波",
-          "affiliation": "高级工程师，北京工程软件研制中心，北京中科院软件中心有限公司",
-          "bio": "刘洪波，北京工程软件研制中心，北京中科院软件中心有限公司，高级工程师。专注流固耦合数值模拟20余年，在钢铁、有色、能源等领域将流固耦合技术成功应用于工业仿真与生产优化，兼具理论与工程落地能力，领域资深专家。",
-          "photo": liuhongbo
+          "name": "沈虎峻",
+          "affiliation": "教授，贵州师范学院",
+          "bio": "沈虎峻，贵州师范学院教授，贵州省纳米材料模拟与计算重点实验室主任，贵州省高层次创新人才\"百层次\"、省政府特殊津贴专家，博士生导师。研究方向集中在材料表界面理论计算、机器学习辅助的多尺度模拟、数据驱动的材料设计。近五年主持国家自然科学基金2项，授权发明专利15件（含国际专利5件），在 Advanced Functional Materials、JACS、ACS Catalysis 等期刊发表 SCI 论文 80 余篇，拿过贵州省自然科学奖三等奖、中国产学研合作创新与促进奖等。",
+          "photo": shenhujun
         },
       ]
     },
