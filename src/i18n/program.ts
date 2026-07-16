@@ -399,7 +399,7 @@ export const program = [
           {
             "type": "paper",
             "title": {
-              "zh": "论文报告 Session 1：AI and Visualization",
+              "zh": "论文报告 1：AI and Visualization",
               "en": "Paper Session 1: AI and Visualization"
             },
             "location": {
@@ -458,7 +458,7 @@ export const program = [
           {
             "type": "paper",
             "title": {
-              "zh": "论文报告 Session 2：Visualization Applications",
+              "zh": "论文报告 2：Visualization Applications",
               "en": "Paper Session 2: Visualization Applications"
             },
             "location": {
@@ -479,7 +479,7 @@ export const program = [
           {
             "type": "paper",
             "title": {
-              "zh": "论文报告 Session 3：Visualization Authoring",
+              "zh": "论文报告 3：Visualization Authoring",
               "en": "Paper Session 3: Visualization Authoring"
             },
             "location": {
@@ -526,7 +526,7 @@ export const program = [
           {
             "type": "paper",
             "title": {
-              "zh": "论文报告 Session 4：Perception and Evaluation",
+              "zh": "论文报告 4：Perception and Evaluation",
               "en": "Paper Session 4: Perception and Evaluation"
             },
             "location": {
@@ -547,7 +547,7 @@ export const program = [
           {
             "type": "paper",
             "title": {
-              "zh": "论文报告 Session 5：Graph Visualization",
+              "zh": "论文报告 5：Graph Visualization",
               "en": "Paper Session 5: Graph Visualization"
             },
             "location": {
@@ -603,7 +603,7 @@ export const program = [
           {
             "type": "paper",
             "title": {
-              "zh": "论文报告 Session 6：Text, Tabular, and Time Series Data",
+              "zh": "论文报告 6：Text, Tabular, and Time Series Data",
               "en": "Paper Session 6: Text, Tabular, and Time Series Data"
             },
             "location": {
@@ -645,7 +645,7 @@ export const program = [
           {
             "type": "paper",
             "title": {
-              "zh": "论文报告 Session 7：Geospatial Visualization",
+              "zh": "论文报告 7：Geospatial Visualization",
               "en": "Paper Session 7: Geospatial Visualization"
             },
             "location": {
@@ -746,7 +746,7 @@ export const program = [
           {
             "type": "paper",
             "title": {
-              "zh": "论文报告 Session 8：Scientific Visualization",
+              "zh": "论文报告 8：Scientific Visualization",
               "en": "Paper Session 8: Scientific Visualization"
             },
             "location": {
