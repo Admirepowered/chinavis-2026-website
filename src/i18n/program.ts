@@ -274,8 +274,8 @@ export const program = [
                 "en": "Chair: Guihua Shan (Computer Network Information Center, Chinese Academy of Sciences)"
               },
               {
-                "zh": "嘉宾：屈华民（香港科技大学）；崔辰州（中国科学院国家天文台）；董军宇（中国海洋大学）；王建（国家对地观测科学数据中心副主任）；沈虎峻（贵州师范学院）",
-                "en": "Panelists: Huamin Qu (Hong Kong University of Science and Technology); Chenzhou Cui (National Astronomical Observatories, Chinese Academy of Sciences); Junyu Dong (Ocean University of China); Jian Wang (Deputy Director, National Earth Observation Data Center); Hujun Shen (Guizhou Education University)"
+                "zh": "嘉宾：屈华民（香港科技大学）；崔辰州（中国科学院国家天文台）；董军宇（中国海洋大学）；王建（国家对地观测科学数据中心副主任）",
+                "en": "Panelists: Huamin Qu (Hong Kong University of Science and Technology); Chenzhou Cui (National Astronomical Observatories, Chinese Academy of Sciences); Junyu Dong (Ocean University of China); Jian Wang (Deputy Director, National Earth Observation Data Center)"
               }
             ]
           }
@@ -381,8 +381,8 @@ export const program = [
               "en": "Art Project Opening Ceremony"
             },
             "location": {
-              "zh": "第三会议室",
-              "en": "Meeting Room 3"
+              "zh": "第四会议室",
+              "en": "Meeting Room 4"
             },
             "details": [
               {

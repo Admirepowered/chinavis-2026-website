@@ -2,7 +2,6 @@ import shanguihua from "~/assets/panel/shanguihua.avif";
 import wangjian from "~/assets/panel/wangjian.avif";
 import cuichenzhou from "~/assets/panel/cuichenzhou.avif";
 import dongjunyu from "~/assets/panel/dongjunyu.avif";
-import shenhujun from "~/assets/panel/shenhujun.avif";
 import quhuamin from "~/assets/panel/quhuamin.avif"
 // 圆桌论坛 2
 import chensiming from "~/assets/panel/chensiming.avif";
@@ -108,13 +107,7 @@ export const panels: Panel[] = [
           "affiliation": "国家对地观测科学数据中心副主任，中国科学院空天信息创新研究院高级工程师",
           "bio": "长期从事高性能地学计算和遥感卫星数据记录技术、遥感大数据服务与应用。主持国家重点研发计划 1 项，主持和参与国家重点研发计划、国家重大工程项目、国家自然科学基金、海南省重大科技计划项目、内蒙古自治区科技厅等项目有 30 余项。取得发明专利 10 项，发表论文 30 余篇；取得软件著作权 5 项；出版专著 1 部；获省部级科技进步奖 1 项。",
           "photo": wangjian
-        },
-        {
-          "name": "沈虎峻",
-          "affiliation": "教授，贵州师范学院",
-          "bio": "沈虎峻，贵州师范学院教授，贵州省纳米材料模拟与计算重点实验室主任，贵州省高层次创新人才\"百层次\"、省政府特殊津贴专家，博士生导师。研究方向集中在材料表界面理论计算、机器学习辅助的多尺度模拟、数据驱动的材料设计。近五年主持国家自然科学基金2项，授权发明专利15件（含国际专利5件），在 Advanced Functional Materials、JACS、ACS Catalysis 等期刊发表 SCI 论文 80 余篇，拿过贵州省自然科学奖三等奖、中国产学研合作创新与促进奖等。",
-          "photo": shenhujun
-        },
+        }
       ]
     },
     {
