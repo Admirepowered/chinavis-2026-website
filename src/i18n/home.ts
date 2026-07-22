@@ -10,16 +10,16 @@ export const zh = {
 
     **第十三届中国可视化与可视分析大会** (ChinaVis 2026) 将于 **2026 年 7 月 19 日 - 22 日**在**贵阳**举行。本次会议由中国图像图形学会主办，可视化与可视分析专委会、贵州省文化遗产数字化保护与开发利用全省重点实验室、贵阳学院、贵州大学、贵州师范大学、贵州民族大学、贵州财经大学、贵州中医药大学、凯里学院等高校承办，多家赞助单位协办。本次大会内容包括特邀报告、论文报告、海报、展览、专题研讨及艺术项目。大会将邀请国内外可视化领域知名专家就相关研究与应用最新进展作大会报告，介绍发展动态，开拓研究思路。欢迎从事可视化与可视分析，以及相关领域研究的专家、学者、艺术家、学生以及工业界的专家、专业技术人员踊跃投稿与参会。
         
-    ## 会议赞助
+    ## 合作单位
     
-    ### 金牌赞助
+    ### 金牌合作
     
     <div style="margin-top: 20px; text-align: center;">
       <img style="height: 60px; margin: 10px auto" src="{{ GZBigDataLogo }}" alt="贵州大数据产业集团有限公司"/>
       <div><h3 style="margin: 0 auto">贵州大数据产业集团有限公司</h3></div>
     </div>
     
-    ### 银牌赞助
+    ### 银牌合作
     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 36px 72px; margin-top: 36px; text-align: center;">
       <div style="width: 280px;">
         <img style="display: block; height: 60px; max-width: 260px; object-fit: contain; margin: 10px auto;" src="{{ JixinLogo }}" alt="贵州计信科技有限公司"/>
@@ -51,16 +51,16 @@ export const en = {
 
     **The 13th China Visualization and Visual Analytics Conference** (ChinaVis 2026) will be held in **Guiyang, China**, from **July 19 to 22, 2026**. The conference is hosted by the China Society of Image and Graphics and organized by the Technical Committee on Visualization and Visual Analytics, the Guizhou Provincial Key Laboratory for Digital Protection, Development and Utilization of Cultural Heritage, Guiyang University, Guizhou University, Guizhou Normal University, Guizhou Minzu University, Guizhou University of Finance and Economics, Guizhou University of Traditional Chinese Medicine, Kaili University, and other institutions, with support from multiple sponsors. The conference program will include invited talks, paper presentations, poster presentations, exhibitions, thematic workshops, and art projects. Renowned visualization experts from China and abroad will be invited to deliver keynote talks on the latest advances in related research and applications, present emerging trends, and inspire new directions for research. Experts, scholars, artists, students, industry professionals, and technical specialists working in visualization, visual analytics, and related fields are warmly invited to submit their work and attend the conference.
         
-    ## Conference Sponsors
+    ## Partners
     
-    ### Gold Sponsor
+    ### Gold Partner
     
     <div style="margin-top: 20px; text-align: center;">
       <img style="height: 60px; margin: 10px auto" src="{{ GZBigDataLogo }}" alt="Guizhou Big Data Industry Group Co., Ltd."/>
       <div><h3 style="margin: 0 auto">Guizhou Big Data Industry Group Co., Ltd.</h3></div>
     </div>
     
-    ### Silver Sponsors
+    ### Silver Partner
 
     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 36px 72px; margin-top: 36px; text-align: center;">
       <div style="width: 280px;">
